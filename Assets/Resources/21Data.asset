@@ -1,0 +1,456 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: 21Data
+  m_EditorClassIdentifier: 
+  categoryName: 21
+  questions:
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Ciudad de Moncada
+    - Ciudades Hiroshima y Nagasaki
+    - Cardenal Salazar
+    - Carbonell y Morand
+    correctAns: Ciudad de Moncada
+  - questionInfo: "\xBFQu\xE9 plaza corresponde al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Monreal
+    - 'Capuchinos '
+    - Fuenseca
+    - "Jos\xE9 de la Torre y el Cerro"
+    correctAns: 'Capuchinos '
+  - questionInfo: "\xBFQu\xE9 Plaza corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Lagunilla
+    - Periodista Julio Anguita Parrado
+    - "Profesor L\xF3pez Neyra"
+    - "Ram\xF3n y Cajal"
+    correctAns: Lagunilla
+  - questionInfo: "\xBFQu\xE9 Plaza corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Juan
+    - Santa Victoria
+    - Lahore
+    - Sor Pilar
+    correctAns: Lahore
+  - questionInfo: "\xBFQu\xE9 Plaza corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Mat\xEDas Prats Ca\xF1ete"
+    - Manzano
+    - "Marina Espa\xF1ola"
+    - Noria de la Huerta
+    correctAns: Manzano
+  - questionInfo: "\xBFQu\xE9 Plaza corresponde al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "San Andr\xE9s"
+    - del Tejar
+    - Ruiz de Alda
+    - "Rub\xE9n Dar\xEDo"
+    correctAns: del Tejar
+  - questionInfo: "\xBFQu\xE9 Plaza corresponde al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Tiberiades
+    - del Socorro
+    - San Lorenzo
+    - "San Juan de Letr\xE1n"
+    correctAns: Tiberiades
+  - questionInfo: "\xBFQu\xE9 Plaza corresponde al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Valdelasgranas
+    - Santa Teresa
+    - "To\xF1i S\xE1nchez"
+    - Vizconde de Miranda
+    correctAns: "To\xF1i S\xE1nchez"
+  - questionInfo: "\xBFQu\xE9 Plaza corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Zaragoza
+    - Vista Alegre
+    - del Tambor
+    - Virgen del Camino
+    correctAns: del Tambor
+  - questionInfo: "\xBFQu\xE9 Plaza corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Santa Catalina
+    - "Jes\xFAs Divino Obrero"
+    - "Jer\xF3nimo P\xE1ez"
+    - "Periodista Jos\xE9 Couso"
+    correctAns: "Jes\xFAs Divino Obrero"
+  - questionInfo: "\xBFQu\xE9 plaza corresponde al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - de la ONCE
+    - Padre Cristobal
+    - Paja
+    - Palomera
+    correctAns: de la ONCE
+  - questionInfo: "\xBFQu\xE9 plaza corresponde al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Parque Nacional Do\xF1ana"
+    - Aguayos
+    - "Amanecer de F\xE1tima"
+    - Noria de la Huerta
+    correctAns: Noria de la Huerta
+  - questionInfo: "\xBFQu\xE9 plaza corresponde al Parque Granadal?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Azahares
+    - "\xC1ngel Torres"
+    - Benavente
+    - "Cristo de Gracia o Coraz\xF3n de Mar\xEDa"
+    correctAns: "Cristo de Gracia o Coraz\xF3n de Mar\xEDa"
+  - questionInfo: "\xBFQu\xE9 plaza corresponde al Parque Granadal?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Doctor Gregorio Gracia
+    - de la Constancia
+    - Don Luis Venegas
+    - Concha
+    correctAns: Don Luis Venegas
+  - questionInfo: "\xBFQu\xE9 pasaje corresponde al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Ebanista Soto Moreno
+    - "Decano Fern\xE1ndez de Castillejo"
+    - Delineantes
+    - Escritor Diego Simancas
+    correctAns: "Decano Fern\xE1ndez de Castillejo"
+  - questionInfo: "\xBFQu\xE9 pasaje corresponde al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Francisco Gonz\xE1lez Pach\xF3n"
+    - de la Estrella
+    - Escultor Felipe Rivas
+    - Escultor Benlliure
+    correctAns: "Francisco Gonz\xE1lez Pach\xF3n"
+  - questionInfo: "\xBFQu\xE9 pasaje corresponde al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Granadal
+    - "Granados Sefard\xEDes"
+    - Gonzalez del Campo
+    - "Escritor P\xE9rez de Rivas"
+    correctAns: "Granados Sefard\xEDes"
+  - questionInfo: "\xBFQu\xE9 Plaza corresponde al Parque Granadal?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Caballos
+    - Capuchinas
+    - "Antonio Fern\xE1ndez Grillo"
+    - Aljarilla
+    correctAns: Caballos
+  - questionInfo: "\xBFQu\xE9 Pasaje corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Antonio Nebrija
+    - Axerquia
+    - Aguilar de la Frontera
+    - Escritor Narbona
+    correctAns: Axerquia
+  - questionInfo: "\xBFQu\xE9 calles llegan a la Plaza Moreras?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Anastasio Rela\xF1o y Antonio Fragero"
+    - Goya y Avda de la Libertad
+    - Badalona y Colombia
+    - "M\xFAsico Francisco Salinas y Prolon. Badalona"
+    correctAns: "M\xFAsico Francisco Salinas y Prolon. Badalona"
+  - questionInfo: "\xBFQu\xE9 Avenida corresponde al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Avda. de la Diputaci\xF3n"
+    - Avda. de los Aguijones
+    - Avda. Nuestra Sra. de la Fuensanta
+    - Avda. de los Piconeros
+    correctAns: Avda. de los Aguijones
+  - questionInfo: "\xBFQu\xE9 calles llegan a la Plaza de la Iglesia?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Rosario y Adaliz
+    - "Acera del Arrcife y Mart\xEDn L\xF3pez"
+    - Rinconada y Acera de Granada
+    - "Los C\xF3rdobas y Los Saavedras"
+    correctAns: "Acera del Arrcife y Mart\xEDn L\xF3pez"
+  - questionInfo: "\xBFQu\xE9 zona corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Men\xE9ndez Pelayo"
+    - Humosa
+    - Molino de San Antonio
+    - Molino del Molinillo
+    correctAns: Humosa
+  - questionInfo: "\xBFQu\xE9 zona corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Molino de la Alegria
+    - Monte Cobre
+    - Morales
+    - Molino San Rafael
+    correctAns: Morales
+  - questionInfo: "\xBFQu\xE9 zona corresponde al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Moriles
+    - Plaza de Morriones(Obejo)
+    - Motamid
+    - Levante
+    correctAns: Moriles
+  - questionInfo: "\xBFQu\xE9 zona corresponde al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - El Lirio
+    - Libertador Jose Fco De San Martin
+    - Los Lirios
+    - "Im\xE1genes"
+    correctAns: Libertador Jose Fco De San Martin
+  - questionInfo: "\xBFQu\xE9 zona corresponde al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Huerta Chica
+    - Los Guadamacileros
+    - Huerta de Hierro
+    - Huerta del Recuero
+    correctAns: Huerta del Recuero
+  - questionInfo: "\xBFQu\xE9 zona corresponde al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Guadamacilero Juan Carrillo
+    - Guadamacilero Pedro de Soria
+    - Guadamacilero Pedro de Soria
+    - Guadamacilero Anton de Valdelomar
+    correctAns: Guadamacilero Anton de Valdelomar
+  - questionInfo: "\xBFQu\xE9 zona corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Gonzalo L\xF3pez"
+    - La Granjuela
+    - "Gonz\xE1lez Aurioles"
+    - Los Geraneos
+    correctAns: La Granjuela
+  - questionInfo: "\xBFQu\xE9 zona corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Los Girasoles
+    - Gibraltar
+    - General Garrote
+    - Garellano
+    correctAns: Gibraltar
+  - questionInfo: "\xBFQu\xE9 zona corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Gaceta
+    - Parcel. el Jardincito
+    - Fuente Obejuna
+    - "Pol\xEDgono de la Torrecilla"
+    correctAns: Gaceta
+  - questionInfo: "\xBFQu\xE9 zona corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Francisco Chico Mendez
+    - Francisco de Toledo
+    - Francisco Jimenez Curreles
+    - Francisco Azorin Izquierdo
+    correctAns: Francisco Jimenez Curreles
+  - questionInfo: "\xBFQu\xE9 zona corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Evaristo Espino
+    - Glorieta Esperanza del Mar
+    - Escultor Martin de la Torre
+    - Escritora Rosa Chacel
+    correctAns: Evaristo Espino
+  - questionInfo: "\xBFQu\xE9 zona corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Escritor Paez Valenzuela
+    - "Escritor Perez de Guzm\xE1n"
+    - Escritor Porras Marquez
+    - Escritor Mercado Solis
+    correctAns: "Escritor Perez de Guzm\xE1n"
+  - questionInfo: "\xBFQu\xE9 zona corresponde al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Escritor Gonzalo de Saavedra
+    - Escritor Hoyos Noriega
+    - Escritor Jimenez Lora
+    - Escritor Jose de la Vega
+    correctAns: Escritor Gonzalo de Saavedra
+  - questionInfo: "\xBFQu\xE9 zona corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Escritora Bohl de Faber
+    - Escritora Concha Espina
+    - Escritora Dulcenombre Chacon
+    - Escritor Rafael Sanchez Ferlosio
+    correctAns: Escritor Rafael Sanchez Ferlosio
+  - questionInfo: "\xBFQu\xE9 zona corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Escritora Elena Quiroga
+    - Escritor Torreblanca
+    - Escritora Gomez de Avellaneda
+    - Escritora Maria De La O Lejarraga
+    correctAns: Escritor Torreblanca
+  - questionInfo: "\xBFQu\xE9 zona corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Escultor Jos\xE9 de Tom\xE1s"
+    - Escultor Alberto Sanchez
+    - Plaza del Escudo
+    - Espino Nedro
+    correctAns: "Escultor Jos\xE9 de Tom\xE1s"
+  - questionInfo: "\xBFQu\xE9 zona corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Espoz y Mina
+    - Eva Duarte Gta
+    - Evangelio
+    - Parc. El Raso de las Jaras
+    correctAns: Espoz y Mina
+  - questionInfo: "\xBFQu\xE9 zona corresponde al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Feria
+    - Fernando Camacho
+    - Felipe Mellizo
+    - Fernando Fernandez Martinez
+    correctAns: Felipe Mellizo

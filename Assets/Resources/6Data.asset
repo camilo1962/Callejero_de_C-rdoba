@@ -1,0 +1,456 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: 6Data
+  m_EditorClassIdentifier: 
+  categoryName: 6
+  questions:
+  - questionInfo: "\xBFEn que barrio esta la Avda. Medina Azahara?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Cercadillas
+    - Costanillas
+    - Fuensanta
+    - Brillante
+    correctAns: Cercadillas
+  - questionInfo: "\xBFEn que barrio esta Huerto San Agust\xEDn?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Zumbac\xF3n"
+    - "El \xC1ngel"
+    - Santa Marina
+    - Las Jaras
+    correctAns: Santa Marina
+  - questionInfo: "\xBFEn que barrio est\xE1 Huelva?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Sector Sur
+    - Alcolea
+    - Villarrubia
+    - Campo de la Verdad
+    correctAns: Sector Sur
+  - questionInfo: "\xBFEn que barrio est\xE1 Huerta del Rey?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Costanillas
+    - Vallellano
+    - Las Jaras
+    - "El\xC1ngel"
+    correctAns: Vallellano
+  - questionInfo: "\xBFEn que barrio est\xE1 Horno del Cristo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Santa Marina
+    - "Zumbac\xF3n"
+    - Catedral
+    - Alameda del Obispo
+    correctAns: Catedral
+  - questionInfo: "\xBFEn que barrio est\xE1 Avda Igualdad?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Zumbac\xF3n"
+    - Villarrubia
+    - Azahara
+    - Mirabuenos
+    correctAns: "Zumbac\xF3n"
+  - questionInfo: "\xBFEn que barrio est\xE1 Avda Mirasierra?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Villarrubia
+    - La Colina
+    - Naranjo
+    - Azahara
+    correctAns: Azahara
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Motril?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Sector Sur
+    - Ribera
+    - Cercadillas
+    - San Rafael del Albaida
+    correctAns: Sector Sur
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Ingeniero Alfonso Churruca?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Encinarejo
+    - "Electromec\xE1nicas"
+    - Villarrubia
+    - Alcolea
+    correctAns: "Electromec\xE1nicas"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Mudarra?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Centro
+    - Cercadillas
+    - Brillante
+    - "F\xE1tima"
+    correctAns: Brillante
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Ingeniero Jeronimo Pizarro?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Pol\xEDgono la Torrecilla"
+    - "Electromec\xE1nicas"
+    - Brillante
+    - Encinarejo
+    correctAns: Encinarejo
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Ingeniero Lino Arizqueta?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Electromec\xE1nicas"
+    - Pol. La Torrecilla
+    - Brillante
+    - "Ciudad Jard\xEDn"
+    correctAns: "Electromec\xE1nicas"
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Ingeniero Torres Quevedo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Margaritas
+    - Valdeolleros
+    - Polig. La Torrecilla
+    - Encinarejo
+    correctAns: Polig. La Torrecilla
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Isla de Fuerteventura?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Nore\xF1a"
+    - Brillante
+    - Huerta de la Reina
+    - Fuensanta
+    correctAns: "Nore\xF1a"
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Isla de Gomera?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - "Nore\xF1a"
+    - Fuensanta
+    - "Ciudad Jard\xEDn"
+    correctAns: "Nore\xF1a"
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Isla de Malante?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Tecnoc\xF3rdoba"
+    - La Magdalena
+    - Figueroa
+    - "Nore\xF1a"
+    correctAns: "Nore\xF1a"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Isla de Tabarca?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Levante
+    - Sector Sur
+    - "Ciudad Jard\xEDn"
+    - "Nore\xF1a"
+    correctAns: "Nore\xF1a"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Islas Canarias?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Nore\xF1a"
+    - Levante
+    - Centro
+    - "Ciudad Jard\xEDn"
+    correctAns: Levante
+  - questionInfo: "\xBFA que zona pertenece Jose Sanchez Guerra?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Santa Rosa
+    - Valdeolleros
+    - "Ciudad Jard\xEDn"
+    - Centro
+    correctAns: Valdeolleros
+  - questionInfo: "\xBFA que zona perteneceJose Torres Espinola ?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Miralbaida
+    - Las Jaras
+    - Encinarejo
+    - Huerta de la Marquesa
+    correctAns: Encinarejo
+  - questionInfo: "\xBFA que zona pertenece Jos\xE9 Zorrilla?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Costanillas
+    - Las Jaras
+    - Centro
+    - Golondrina
+    correctAns: Centro
+  - questionInfo: "\xBFA que zona pertenece Juan Bautista Escudero?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Centro
+    - Polg. Las Quemadas
+    - "Ciudad Jard\xEDn"
+    - San Lorenzo
+    correctAns: Polg. Las Quemadas
+  - questionInfo: "\xBFA que zona pertenece Juan Molina?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Huerta de la Marquesa
+    - Huerta de la Reina
+    - "Huerto San Andr\xE9s"
+    - Costanillas
+    correctAns: Huerta de la Marquesa
+  - questionInfo: "\xBFA que zona pertenece Juan Palo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Santa Marina
+    - San Lorenzo
+    - "Ciudad Jard\xEDn"
+    - Campo de la Verdad
+    correctAns: San Lorenzo
+  - questionInfo: "\xBFA que zona pertenece Julio C\xE9sar?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Cecadillas
+    - Catedral
+    - "Parc. Las Cig\xFCe\xF1as"
+    - Levante
+    correctAns: Levante
+  - questionInfo: "\xBFA que zona pertenece Juan Tocino?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Ciudad Jard\xEDn"
+    - Costanillas
+    - "Zumbac\xF3n"
+    - Catedral
+    correctAns: Costanillas
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Lapislazuli?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - No existe
+    - "Pol\xEDgono El Granadal"
+    - Campoalegre
+    - Centro
+    correctAns: "Pol\xEDgono El Granadal"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1  Libertador Andres de Santa Cruz?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Sector Sur
+    - Encinarejo
+    - Villarrubia
+    - La Colina
+    correctAns: Sector Sur
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Marbella?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Las Moreras
+    - Fuensanta
+    - Sector Sur
+    - Figueroa
+    correctAns: Sector Sur
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Maria Cristina?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Centro
+    - Paraiso Arenal
+    - Costanillas
+    - San Lorenzo
+    correctAns: Centro
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Marqu\xE9s de Guadalcazar?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Huerta de la Reina
+    - "Ciudad Jard\xEDn"
+    - Campo de la Verdad
+    correctAns: Huerta de la Reina
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Pasaje Marino Jeronimo Cabrera?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Siete Fincas
+    - Figueroa
+    - Catedral
+    - Santa Rosa
+    correctAns: Figueroa
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Pasaje Marino Luis Carrillo ?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Figueroa
+    - Sector Sur
+    - San Pablo
+    - Centro
+    correctAns: Figueroa
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Pasaje Marino Mendez Nu\xF1ez?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Consorcio
+    - Ninguno
+    - Central
+    - El Granadal
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Pasaje Marino Vierna?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Granadal
+    - Central
+    - Ninguno
+    - Los dos
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Marte?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Al espacio
+    - No existe
+    - Central
+    - Granadal
+    correctAns: Granadal
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Pintor Sorolla?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Granadal
+    - Consorcio
+    - No existe
+    - Central
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Pintor Zurbaran?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - Granadal
+    - Consorcio
+    - Ninguno
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Poeta Antonio Gala?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - Granadal
+    - Ninguno
+    - Los dos
+    correctAns: Granadal
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Platero Pedro Sanchez de Luque?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Ninguno
+    - Central
+    - Consorcio
+    - Granadal
+    correctAns: Granadal

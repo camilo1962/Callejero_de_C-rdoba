@@ -1,0 +1,482 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: 45Data
+  m_EditorClassIdentifier: 
+  categoryName: 45
+  questions:
+  - questionInfo: La calle Poeta Baena Yuste se encuentra en la barriada de ...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Ca\xF1ero"
+    - Figueroa
+    - "F\xE1tima"
+    - Olivos Borrachos
+    correctAns: "F\xE1tima"
+  - questionInfo: La Avenida del compositor Rafael Castro comienza en ...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Ermita de los Santos M\xE1rtires y termina en la Avda. Campo de la Verdad"
+    - "Avda. de Calder\xF3n de la Barca y termina en la Avda de las Lonjas"
+    - "Avda. de Calder\xF3n de la Barca y termina en la Avda. Virgen del Mar"
+    - "Ermita de los Santos M\xE1rtires y termina en el Paseo de la Rivera"
+    correctAns: "Ermita de los Santos M\xE1rtires y termina en la Avda. Campo de
+      la Verdad"
+  - questionInfo: "A la Avda. Gran V\xEDa Parque se accede directamente desde:"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "la Calle Periodista Quesada Chac\xF3n"
+    - "la Avda. de la V\xEDa Augusta"
+    - "Carretera Santa Mar\xEDa Trassierra"
+    - la Calle Padre Morales
+    correctAns: "la Calle Periodista Quesada Chac\xF3n"
+  - questionInfo: "los Colegios Provinciales de la Diputaci\xF3n se encuentra en
+      :"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - la Calle Torrijos
+    - la Avda. del Aeropuerto
+    - la Plaza Vista Alegre
+    - la Avda. del Mediterraneo
+    correctAns: la Avda. del Mediterraneo
+  - questionInfo: "\xBFCu\xE1l de estas calles no pertenece al barrio Naranjo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "T\xE9llez de Meneses"
+    - Marfileros
+    - "D\xEDaz Huertas"
+    - Almohades
+    correctAns: Almohades
+  - questionInfo: "\xBFCu\xE1l de estas calles desemboca en la Avenida de la Agrupaci\xF3n?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Avenida del Ca\xF1ito Baz\xE1n"
+    - "Carretera Santa Mar\xEDa Trassierra"
+    - Marie Curie
+    - La Ladera
+    correctAns: La Ladera
+  - questionInfo: "\xBFCu\xE1l de las siguientes calles no desembocan en la Avda.
+      del Brillante?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Avenida de la Arruzafilla
+    - Avenida del Calasancio
+    - Avenida de la Arruzafa
+    - "Avenida de las Oller\xEDas"
+    correctAns: "Avenida de las Oller\xEDas"
+  - questionInfo: "\xBFD\xF3nde comienza y d\xF3nde termina la calle Mayor de Santa
+      Marina?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Plaza de Santa Marina y Puerta del Colodro
+    - "Plaza de Santa Marina y Marroqu\xEDes"
+    - "Marroqu\xEDes y Adarve"
+    - "Adarve y Avda. Oller\xEDas"
+    correctAns: Plaza de Santa Marina y Puerta del Colodro
+  - questionInfo: La Avda. del Brillante desemboca en la carretera de ...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Villaviciosa
+    - Palma del rio
+    - Badajoz
+    - Madrid
+    correctAns: Villaviciosa
+  - questionInfo: "El colegio p\xFAblico Mediterraneo se encuentra en la calle:"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Paseo de la Victoria
+    - Avenida del Corregidor
+    - Motril
+    - Crucero Baleares
+    correctAns: Crucero Baleares
+  - questionInfo: "La calle Concepci\xF3n, seg\xFAn el sentido de la circulaci\xF3n, 
+      comienza y termina en las calles:"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Paseo de la Victoria y Avda. Gran Capit\xE1n"
+    - "Avda. Gran Capit\xE1n y Jos\xE9 Zorrilla"
+    - "Paseo de la Victoria y P\xE9rez de Castro"
+    - "Paseo de la Victoria y Jos\xE9 Zorrilla"
+    correctAns: "Paseo de la Victoria y Avda. Gran Capit\xE1n"
+  - questionInfo: "\xBFCu\xE1l de las siguientes calles no pertenece al pol\xEDgono
+      Las Quemadillas?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Torerito 7
+    - Torerito 14
+    - Torerito 4
+    - Torerito 1
+    correctAns: Torerito 14
+  - questionInfo: "\xBFD\xF3nde se encuentra la calle Ab\xE9n Guzm\xE1n?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Ca\xF1ero"
+    - "F\xE1tima"
+    - Parque Figueroa
+    - No existe
+    correctAns: "Ca\xF1ero"
+  - questionInfo: "Comenzando desde la Plaza de Vista Alegre, \xBFcu\xE1l es el recorrido
+      para llegar a la Calle Camino de los Sastres?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Avda. Aeropuerto, Gran Via Parque y Don Lope de Sosa
+    - Avda. Aeropuerto, Gran Via Parque y FelipeII
+    - Avda. Aeropuerto, Gran Via Parque y Avda. Manolete
+    - "Avda. Aeropuerto, Gran Via Parque y Maestro Priego L\xF3pez"
+    correctAns: "Avda. Aeropuerto, Gran Via Parque y Maestro Priego L\xF3pez"
+  - questionInfo: "Qu\xE9 calles rodean la Patio Pico Mulhac\xE9n:"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Sierra de Guadarrama, Sierra Morena, Ingeniero Benito Arana y Sierra Cazorla
+    - Sierra de Guadarrama, Sierra Morena, Ingeniero Benito Arana y Sierra Aracena
+    - Sierra de Guadarrama, Sierra Morena, Ingeniero Benito Arana y Sierra Nevada
+    - Sierra de Guadarrama, Sierra Morena, Ingeniero Benito Arana y Sierra de Grazalema
+    correctAns: Sierra de Guadarrama, Sierra Morena, Ingeniero Benito Arana y Sierra
+      Cazorla
+  - questionInfo: "Qu\xE9 calle no pertenece a las Urbanizaciones La Perla I y II"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Rosa de los Vientos
+    - Las Ruedas
+    - Los Geranios
+    - San Ambrosio
+    correctAns: Rosa de los Vientos
+  - questionInfo: "Para poder entrar en la calle Sor \xC1ngela de la Cruz, tenemos
+      que acceder primero por la calle:"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fuente de la Salud
+    - Don Lope de los Rios
+    - Escritor Torquemada
+    - "Escultor Ram\xF3n Barba"
+    correctAns: Fuente de la Salud
+  - questionInfo: "La calle del Escritor Leyva Mu\xF1oz de El Higuer\xF3n se encuentra
+      paralela a la calle:"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Escritor Gonzalo de Saavedra
+    - La Milagrosa
+    - Arquitecto Juan Durillo
+    - Cantero Cristobal Mesa
+    correctAns: Escritor Gonzalo de Saavedra
+  - questionInfo: "\xBFQu\xE9 calle o calles unen la Avda de Guerrita con la Avda.
+      del Aeropuerto?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Manuel fuentes
+    - Vicente Alexandre
+    - "Rafael P\xE9rez Guzm\xE1n"
+    - Julio Pellicer
+    correctAns: Vicente Alexandre
+  - questionInfo: "Tenemos un \xE1rbol a punto de caer en la Plaza de San Bartolom\xE9,
+      \xBFD\xF3nde ubicamos dicha plaza r\xE1pidamente?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Calle Alfonso XII
+    - Calle Alfonso XIII
+    - Avda. del Brillante
+    - "Cuesta de la P\xF3lvora"
+    correctAns: Calle Alfonso XII
+  - questionInfo: "Tenemos aviso de contenedor ardiendo en la plaza To\xF1i S\xE1nchez,
+      \xBFD\xF3nde ubicamos dicha plaza r\xE1pidamente?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Margaritas
+    - Huerta de la Reina
+    - "Ca\xF1ero"
+    - Fray Albino
+    correctAns: Margaritas
+  - questionInfo: "\xBFPor qu\xE9 dos Calles se puede acceder al IES La Fuensanta?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Avda Calder\xF3n de la Barca y Nuestra Sra. de la Fuensanta"
+    - "Avda Calder\xF3n de la Barca y Calle del Pocito"
+    - "Conquistador Ordo\xF1o \xC1lvarez y Nuestra Sra. de la Fuensanta"
+    - Ninguna es correcta
+    correctAns: "Avda Calder\xF3n de la Barca y Calle del Pocito"
+  - questionInfo: "\xBFA qu\xE9 barriada pertenece la Calle Luque?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Sector Sur
+    - La Torrecilla
+    - Las Quemadas
+    - Medina Azahara
+    correctAns: Sector Sur
+  - questionInfo: "\xBFQu\xE9 calle es  perpendicular a la Calle Bruselas?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Avda. del Brillante
+    - Toledo
+    - Alemania
+    - Roma
+    correctAns: Avda. del Brillante
+  - questionInfo: "\xBFQu\xE9 recorrido llevar\xEDamos para acceder a la Plaza de
+      Toros desde la Glorieta de la Media Luna?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Avda. del Aeropuerto y Avda. Gran Via Parque
+    - Avda. del Aeropuerto, Plaza Vista Alegre y Menendez Pidal
+    - Avda. del Aeropuerto y Padre Morales
+    - Ninguno es correcto
+    correctAns: Avda. del Aeropuerto y Avda. Gran Via Parque
+  - questionInfo: "De las siguientes calles, \xBFcu\xE1l pertenece al Barrio El Tablero?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Poeta Luis Cernuda
+    - Obispo Azcargorta
+    - "Poeta Juan Ram\xF3n Jim\xE9nez"
+    - Platero Damas
+    correctAns: Platero Damas
+  - questionInfo: "\xBFCu\xE1l de estas calles no pertenece a la barriada Margaritas?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Historiador Dozy
+    - Tartesos
+    - "Fray Mart\xEDn de C\xF3rdoba"
+    - Rafael de la Hoz Ardenius
+    correctAns: Rafael de la Hoz Ardenius
+  - questionInfo: "Tenemos un accidente de tr\xE1fico en la carretera Badajoz, \xBFde
+      qu\xE9 v\xEDa se trata?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - N-432
+    - N-437
+    - N-331
+    - N-332
+    correctAns: N-432
+  - questionInfo: "Hemos recibido una llamada de posible incendio en la Ciudad de
+      los Ni\xF1os, \xBFcu\xE1l ser\xEDa el recorrido m\xE1s id\xF3neo desde el Parque
+      de Bomberos Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Pintor Espinosa y Doctor Juli\xE1n Ruiz Mart\xEDn"
+    - Avda. de los Custodios, avda. del Corregidor y Avda. de Linneo
+    - Avda. de los Custodios, avda. del Corregidor, Avda. de Linneo y Escritor Castilla
+      Aguayo
+    - Ninguno es correcto
+    correctAns: "Pintor Espinosa y Doctor Juli\xE1n Ruiz Mart\xEDn"
+  - questionInfo: "Tenemos que cubrir un evento en el Circuito \"El Tablero\" \xBFqu\xE9
+      calle se encuentra m\xE1s pr\xF3xima?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Poeta Juan Ram\xF3n Jim\xE9nez"
+    - Poeta Valdeomar Pineda
+    - San Francisco Solano
+    - Acera del Duende
+    correctAns: "Poeta Juan Ram\xF3n Jim\xE9nez"
+  - questionInfo: "Tenemos un incendio de contenedores cercano al Patio Pico Almanzor,
+      \xBFc\xF3mo se llama la calle por la que tiene el acceso principal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Ingeniero benito Arana
+    - Acera de la Aramiriya
+    - Julio de Arteche
+    - "Bar\xEDtono Jos\xE9 Mar\xEDa Blanco Aguilar"
+    correctAns: "Bar\xEDtono Jos\xE9 Mar\xEDa Blanco Aguilar"
+  - questionInfo: "Si tenemos un incendio en la avenida de los Aguijones y accedemos
+      a la misma por la avenida de la Via Augusta, \xBFd\xF3nde ubicar\xEDamos estas?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Arroyo del Moro
+    - Centro Comercial
+    - El Tablero
+    - Parque Figueroa
+    correctAns: Arroyo del Moro
+  - questionInfo: "\xBFC\xF3mo se llama la calle que discurre desde la Plaza de Pineda
+      a la calle Fern\xE1ndez Ruano?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Buen Pastor
+    - "Tej\xF3n y Mar\xEDn"
+    - Barroso
+    - Valladares
+    correctAns: Valladares
+  - questionInfo: "Para acceder al IES S\xE9neca, \xBFcu\xE1l ser\xEDa la v\xEDa
+      m\xE1s acertada?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Avenida Men\xE9ndez Pidal"
+    - Avenida del Mediterraneo
+    - Ronda de la Manca
+    - "Avenida Gran V\xEDa Parque"
+    correctAns: "Avenida Men\xE9ndez Pidal"
+  - questionInfo: "Una de estas avenidas se encuentra en la zona Norte-Sierra, indique
+      cu\xE1l es:"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Avenida del Calasancio
+    - Avenida del Aeropuerto
+    - Avenida de Fray Albino
+    - Avenida de Barcelona
+    correctAns: Avenida del Calasancio
+  - questionInfo: "\xBFC\xF3mo se denomina la calle peatonal que va desde la calle
+      Moreria a la calle Gondomar?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Marqu\xE9s de Bo\xEDl"
+    - "Historiador D\xEDaz del Moral"
+    - "Argui\xF1an"
+    - "G\xF3ngora"
+    correctAns: "Marqu\xE9s de Bo\xEDl"
+  - questionInfo: "\xBFQu\xE9 calle no pertenece a la barrida Valdeolleros?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Raimundo Lulio
+    - Don Lope de los Rios
+    - Farsalia
+    - Tarrasa
+    correctAns: Tarrasa
+  - questionInfo: "\xBFCu\xE1l de estas calles pertenece al Pol\xEDgono Industrial
+      Chinales?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Glorieta Duncan Shan
+    - Alicatadores
+    - Avda. Apreama
+    - Ingeniero juan de la Cierva
+    correctAns: Glorieta Duncan Shan
+  - questionInfo: 'El Estadio San Eulogio se encuentra en el Barrio:'
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Vista Alegre
+    - Fray Albino
+    - Figueroa
+    - Arruzafilla
+    correctAns: Fray Albino
+  - questionInfo: "\xBFQu\xE9 calles delimitan el CEIP Santa Catalina de Siena?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Pepe Espali\xFA y Pintor Mariano Fortuny"
+    - San Basilio y Enmedio
+    - "Avda. Cruz de Juarez y Cronista Rey D\xEDaz"
+    - "Funcionario L\xE1zaro Navajas, De las Pulidoras y Pedro Madrazo"
+    correctAns: "Funcionario L\xE1zaro Navajas, De las Pulidoras y Pedro Madrazo"

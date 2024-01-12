@@ -1,0 +1,456 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: 30Data
+  m_EditorClassIdentifier: 
+  categoryName: 30
+  questions:
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Pasaje Candelaria Heredia
+    - Caravaca de la Cruz
+    - Belmez
+    - Beato Juan Bautista
+    correctAns: Pasaje Candelaria Heredia
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Beato Henares
+    - "Beatriz Enr\xEDquez"
+    - Batalla de los Cueros
+    - Batalla de alcolea
+    correctAns: "Beatriz Enr\xEDquez"
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Anqueda
+    - Antequera
+    - "Benito P\xE9rez Galdos"
+    - Antas
+    correctAns: "Benito P\xE9rez Galdos"
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Angel Maria de Barcia
+    - Antonio Bejarano Nieto
+    - Balcon de Lagartijo
+    - Angel Ganivet
+    correctAns: Angel Ganivet
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Doctor Enrique Luque
+    - Diaz Huertas
+    - Doctor Antonio Manzanares
+    - "Doctor Angel Casti\xF1eira"
+    correctAns: "Doctor Angel Casti\xF1eira"
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Doctor Manuel Villegas
+    - Doctor Nevado del Rey
+    - Patio Doctor Alvarez Garcia
+    - Doctor Rafael Blanco Leon
+    correctAns: Patio Doctor Alvarez Garcia
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Escritora Gloria Fuertes
+    - Escultor Angel Fernat
+    - Pasaje Escultor Collaut Valera
+    - Escultor Jose de Tomas
+    correctAns: Escritora Gloria Fuertes
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Esparta
+    - Escultor Teodosio Sanchez
+    - Helvia Albina
+    - Escultor Verdiguier
+    correctAns: Helvia Albina
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Hermano Juan de Dios
+    - "Hermanos Mu\xF1oz"
+    - Hermano Juan de Dios
+    - Hernando de Magallanes
+    correctAns: "Hermanos Mu\xF1oz"
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Historiador Dozy
+    - Historiador Dominguez Ortiz
+    - 'Los Hoces '
+    - Los Mesias
+    correctAns: Historiador Dozy
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Miguel Angel Orti Belmonte
+    - Miguel Benzo
+    - Molina Sanchez Lagartijo
+    - "Monse\xF1or Juan Manuel Font del Riego"
+    correctAns: Miguel Benzo
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Montoro
+    - "Monta\xF1as"
+    - Montellano
+    - Montero
+    correctAns: Montoro
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Infante Don Juan Manuel
+    - Imperio Argentina
+    - Motarrif
+    - Imprenta de la Alborada
+    correctAns: Motarrif
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Islas Baleares
+    - Musico Guerrero
+    - Porteria Santa Maria de Gracia
+    - Inca Garcilaso
+    correctAns: Inca Garcilaso
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Pompeya Paulina
+    - Porteria de Santa Clara
+    - Posadero
+    - Musico Lidon
+    correctAns: Porteria de Santa Clara
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Neptuno
+    - Nicolas Miguel Callejon
+    - Nieves Viejas
+    - Niebla
+    correctAns: Niebla
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Nuestra Se\xF1ora del Carmen"
+    - "Pasaje Nuestra Se\xF1ora de Araceli"
+    - Obispo Cubero
+    - Calleja Noques
+    correctAns: Obispo Cubero
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Obispo Lopez Criado
+    - Obispo Rojas de Sandoval
+    - Obispo Alguacil
+    - Nuestro Padre Jesus Caido
+    correctAns: Nuestro Padre Jesus Caido
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Oca\xF1a"
+    - La Oficina
+    - Obispo Torres
+    - Avda. de las Ollerias
+    correctAns: Obispo Torres
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Olivos Los Valdeolleros
+    - Los Omeyas
+    - Oslo
+    - Paco Leon
+    correctAns: Los Omeyas
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Pablo Neruda
+    - Calleja del Padre Posadas
+    - Papa Juan XXIII
+    - Palomino Camino
+    correctAns: Pablo Neruda
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Pedro Jimenez
+    - Parras
+    - Pedro Nolasco Melendez
+    - Perez de Castro
+    correctAns: Parras
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Pepe Espaliu
+    - Periodista Leonardo Rodriguez
+    - Periodista Jose Luis de Cordoba
+    - Pierna La
+    correctAns: Periodista Jose Luis de Cordoba
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Santa Cruz
+    - Sancha Carrillo
+    - Santa Ana de la Albaida
+    - Glorieta Santa Beatriz
+    correctAns: Santa Cruz
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Santa Maria de Trasierra
+    - Santa Teresa de Jornet
+    - Pasaje Santa Rosalia
+    - Albahaca
+    correctAns: Pasaje Santa Rosalia
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Glorieta Santa Emilia de Rodart
+    - Saravia
+    - Glorietas Sargentos Profesionales
+    - Sierra Morena (Palmeras)
+    correctAns: Glorieta Santa Emilia de Rodart
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Plaza Santuario de la Fuensanta
+    - Santo Cristo
+    - Santa Victoria
+    - Siete de Mayo
+    correctAns: Plaza Santuario de la Fuensanta
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Sindicato
+    - Sierra Nevada (Palmeras)
+    - Sol
+    - Siete Revueltas
+    correctAns: Siete Revueltas
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Calleja Soldado
+    - Tarub
+    - Patio Pico del Teide
+    - Tejon y Marin
+    correctAns: Calleja Soldado
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Toledo
+    - Tomas Conde
+    - Torre de San Nicolas
+    - Tomillar
+    correctAns: Tomillar
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Toril
+    - Torrijos
+    - Glorieta de las Tres Culturas
+    - Plaza del Triunfo
+    correctAns: Toril
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Pasaje Ubrique
+    - Uceda
+    - Plaza Vaca de Alfaro
+    - Valderrama
+    correctAns: Valderrama
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Valderrama
+    - Valdes Leal
+    - Velasquez Bosco
+    - Valencia
+    correctAns: Valencia
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Vereda de la Alcaidia
+    - Verbena de la Paloma
+    - Paseo de los Verdiales
+    - Vicente Aleixandre(peatonal)
+    correctAns: Vereda de la Alcaidia
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Villaceballos
+    - Villaharta
+    - Pompeyos
+    - Poeta Valdelomar Pineda
+    correctAns: Villaharta
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Poeta Peralta
+    - Poeta Pablo Garcia Baena
+    - Poeta Mario Lopez Lopez
+    - Patio Poeta Luis Rosales
+    correctAns: Poeta Peralta
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Poeta Juan Rejano
+    - Poeta Luis Cernuda
+    - Poeta Luis Jimenez Martos
+    - Poeta Jorge Guillen
+    correctAns: Poeta Luis Jimenez Martos
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Poeta Francisco Arevalo
+    - Poeta Gustavo Adolfo Becquer
+    - Patio Poeta Gabriel Celaya
+    - Plaza Poeta Ibn Zaydun
+    correctAns: Poeta Francisco Arevalo
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Poeta Alonso de Bonilla
+    - Poeta Antonio Arevalo Resto
+    - Poeta Emilio Prados
+    - Poeta Federico Garcia Lorca
+    correctAns: Poeta Antonio Arevalo Resto
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Pintor Torrado
+    - Pintor Velazquez
+    - Pintora Frida Kahio
+    - Pintora Maria Blanchard
+    correctAns: Pintor Torrado

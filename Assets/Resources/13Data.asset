@@ -1,0 +1,456 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: 13Data
+  m_EditorClassIdentifier: 
+  categoryName: 13
+  questions:
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Parcelaci\xF3n Las Alberquillas?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Los dos
+    - Central
+    - Granadal
+    - Consorcio
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Parcelaci\xF3n C\xF3rdoba La Vieja?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Los dos
+    - Central
+    - Consorcio
+    - Granadal
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Parcelaci\xF3n El Manantial?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Granadal
+    - Consorcio
+    - Los dos
+    - Central
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Parcelaci\xF3n Maravillas del Aeropuerto?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - No existe
+    - Granadal
+    - Central
+    - Consorcio
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Pol\xEDgono Los Pedroches?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - El Granadal
+    - Ninguno
+    - Consorcio
+    correctAns: El Granadal
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Parcelaci\xF3n El Alamillo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - Granadal
+    - Consorcio
+    - Ninguno
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Pol\xEDgono de Chinales?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - Granadal
+    - Ninguno
+    - No existe
+    correctAns: Granadal
+  - questionInfo: "\xBFA qu\xE9 parque pertenece La Colina?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Consorcio
+    - El Granadal
+    - Central
+    - Ninguno
+    correctAns: El Granadal
+  - questionInfo: "\xBFA qu\xE9 parque pertenece CampoAlegre?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Consorcio
+    - Granadal
+    - Ninguno
+    - Central
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Urbanizaci\xF3n Valenzoleja?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - No existe, es de cachondeo!
+    - El Granadal
+    - Central
+    - Consorcio
+    correctAns: El Granadal
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Alcolea?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Los dos
+    - Granadal
+    - Central
+    - Ninguno
+    correctAns: Granadal
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Parcelaci\xF3n El Salado?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Granadal
+    - Ninguno
+    - Los dos
+    - Central
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Casilla del Aire?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Ninguno
+    - Granadal
+    - Central
+    - Consorcio
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Santacruz?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - Granadal
+    - Consorcio
+    - Ninguno
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece La Perla?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - No existe
+    - Granadal
+    - Central
+    - Consorcio
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Barriada del \xC1ngel?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Granadal
+    - Central
+    - Consorcio
+    - Ninguno
+    correctAns: Granadal
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Alameda del Obispo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Consorcio
+    - Ninguno
+    - Central
+    - Granadal
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Parcelaci\xF3n Altea?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Ninguno
+    - Central
+    - Granadal
+    - Consorcio
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Parcelaci\xF3n Santa Clara?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Granadal
+    - Central
+    - Consorcio
+    - No existe
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Parcelaci\xF3n Llanos de Medina?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - No existe
+    - Central
+    - Granadal
+    - Consorcio
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Parcelaci\xF3n El Manantial?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Consorcio
+    - Central
+    - No existe
+    - Granadal
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Mirabuenos?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - Granadal
+    - Consorcio
+    - No existe
+    correctAns: Granadal
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Paraiso Arenal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - El Granadal
+    - No existe
+    - Central
+    - Consorcio
+    correctAns: El Granadal
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Majaneque-Barquera?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Granadal
+    - No existe
+    - Consorcio
+    - Central
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Aguilarejo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - Granadal
+    - No existe
+    - Ninguno
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Urbanizaci\xF3n CampoAlegre?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - Granadal
+    - Consorcio
+    - Ninguno
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Electromec\xE1nicas?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Ninguno
+    - Granadal
+    - Central
+    - Los dos
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece SantoDomingo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Los dos
+    - El Granadal
+    - Central
+    - Consorcio
+    correctAns: El Granadal
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Villarrubia?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Los dos
+    - Central
+    - Granadal
+    - Consorcio
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Barrio del Canal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Los dos
+    - Granadal
+    - Centro
+    - Consorcio
+    correctAns: Centro
+  - questionInfo: "\xBFA qu\xE9 parque pertenece San Rafael del Albaida?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - No existe
+    - Consorcio
+    - Granadal
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Do\xF1a Manuela?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - No existe
+    - Granadal
+    - Consorcio
+    correctAns: Granadal
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Santa Mar\xEDa del Albaida?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - Granadal
+    - Consorcio
+    - Los dos
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Parcelaci\xF3n Nueva Barquera?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Consorcio
+    - Central
+    - No existe
+    - Granadal
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Fontanar de Quintos?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - No existe
+    - Los dos
+    - Granadal
+    - Central
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Campi\xF1uela?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Ninguno
+    - El Granadal
+    - Central
+    - Los dos
+    correctAns: El Granadal
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Abejorreras?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - El Granadal
+    - Consorcio
+    - No existe
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Parcelaci\xF3n Pilar de la Vega?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - Granadal
+    - No existe
+    - Consorcio
+    correctAns: Granadal
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Camino Viejo de Almodovar?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Granadal
+    - No existe
+    - Los dos
+    - Central
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Carbonell?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Ninguno
+    - El Granadal
+    - Central
+    - Los dos
+    correctAns: El Granadal

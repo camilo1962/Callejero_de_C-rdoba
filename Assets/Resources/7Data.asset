@@ -1,0 +1,456 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: 7Data
+  m_EditorClassIdentifier: 
+  categoryName: 7
+  questions:
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Poeta Antonio Machado?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Huerta de la Reina
+    - Brillante
+    - Arcangel
+    - "Ca\xF1ero"
+    correctAns: Brillante
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 la calle Pelagio?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Ca\xF1ero"
+    - Arcangel
+    - "Vi\xF1uela-Rescatado"
+    - Fuensanta
+    correctAns: Fuensanta
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Poeta Juan Ramon Jimenez?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - "Ciudad Jard\xEDn"
+    - Arruzafilla-Las Moreras
+    - "F\xE1tima"
+    correctAns: Brillante
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1  Poeta Miguel Hernandez?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fray Albino
+    - Torreblanca
+    - Brillante
+    - Figueroa-Comisaria
+    correctAns: Brillante
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Poligono de Quintos?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Levante
+    - Barriada la Golondrina
+    - Figueroa
+    - Fray Albino
+    correctAns: Barriada la Golondrina
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Poeta Ricardo Molina?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Lorenzo
+    - Brillante
+    - "Vi\xF1uela"
+    - Catedral-Ribera
+    correctAns: Catedral-Ribera
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Calleja del Naranjo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Basilio
+    - "Nore\xF1a"
+    - Cercadillas
+    - Catedral
+    correctAns: Catedral
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Nerja?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Sector Sur
+    - San Cayetano
+    - Santa Marina
+    - Costanillas
+    correctAns: Sector Sur
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Navas de Tolosa?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Cayetano
+    - Urb. El Sol
+    - Fidiana
+    - Levante
+    correctAns: San Cayetano
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Nebulosa?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - No existe
+    - Urb. El Sol
+    - En ninguno
+    - Fidiana
+    correctAns: Urb. El Sol
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1  Olimpo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Valdeolleros
+    - Figueroa
+    - Fidiana
+    - Huerta de la Reina
+    correctAns: Fidiana
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 San Felipe?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - La Magdalena
+    - Fray Albino
+    - Centro
+    - Alcolea
+    correctAns: Centro
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 San Alvaro?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Centro
+    - San Basilio
+    - Santa Marina
+    - Levante
+    correctAns: Centro
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 San Acisclo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Tejares
+    - Levante
+    - Catedral
+    - Brillante
+    correctAns: Levante
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Rufino Blanco Sanchez  Pimentera?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Catedral
+    - Naranjo
+    - Cercadillas
+    - Tejares
+    correctAns: Catedral
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Rub\xED?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - La Perla
+    - Cercadillas
+    - "Pol\xEDgono Granadal"
+    - Levante
+    correctAns: "Pol\xEDgono Granadal"
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Sagunto?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Levante
+    - "Electromec\xE1nicas"
+    - Tejares
+    - Brillante
+    correctAns: Levante
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Plaza del Ruise\xF1or?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Torreblanca
+    - Cerro la Golondrina
+    - Mirabuenos
+    - Fray Albino
+    correctAns: Cerro la Golondrina
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1  Avda. Rosa de Luxemburgo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Costanillas
+    - Margaritas-Colonia de la Paz
+    - Huerta de la Reina
+    - Huerta de la Marquesa
+    correctAns: Margaritas-Colonia de la Paz
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1  Rio Nevalo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Valdeolleros
+    - "F\xE1tima"
+    - Margaritas-Colonia de la Paz
+    correctAns: Margaritas-Colonia de la Paz
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1  Ronda de los Tejares?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Tejares
+    - San Lorenzo
+    - "Ciudad Jard\xEDn"
+    - "Zumbac\xF3n"
+    correctAns: Tejares
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1  Romero?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Catedral
+    - Brillante
+    - Muriano-Obejo
+    - San Lorenzo
+    correctAns: Catedral
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1  Roma?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Paraiso Arenal
+    - San Pedro-San Francisco
+    - Brillante
+    - Muriano-Obejo
+    correctAns: Brillante
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Rodriguez Marin?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Encinarejo
+    - Santa Rosa
+    - San Pedro-San Francisco
+    correctAns: San Pedro-San Francisco
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Reyes Catolicos?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Levante
+    - Margaritas
+    - Tejares
+    - Costanillas
+    correctAns: Tejares
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Reloj?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Levante
+    - Centro
+    - Catedral
+    - "Ciudad Jard\xEDn"
+    correctAns: Centro
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Rave?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Campo de la Verdad
+    - San Pedro-San Francisco
+    - La Magdalena
+    - Centro
+    correctAns: La Magdalena
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Rejas de Don Gome?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "San Pablo-San Andr\xE9s"
+    - Arcangel
+    - Levante
+    - Campo de la Verdad
+    correctAns: "San Pablo-San Andr\xE9s"
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Palacio de la Galiana?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Santa Marina
+    - San Pedro-San Francisco
+    - La Magdalena
+    correctAns: Brillante
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1  Paja?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - San Pedro-San Francisco
+    - "Tecnoc\xF3rdoba"
+    - Santa Rosa
+    correctAns: San Pedro-San Francisco
+  - questionInfo: "\xBFA qu\xE9 zona pertenece Noruega?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Alcolea
+    - Huerta de la Marquesa
+    - Fray Albino
+    - "Tecnoc\xF3rdoba"
+    correctAns: "Tecnoc\xF3rdoba"
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Noria?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - Granadal
+    - Consorcio
+    - Ninguno
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Pasaje Musico Jimenez Roman?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Ninguno
+    - Los dos
+    - Granadal
+    - Central
+    correctAns: Granadal
+  - questionInfo: "\xBFA qu\xE9 parque pertenece  Manuel Fuentes Bocanegra?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Ninguno
+    - Central
+    - Granadal
+    - No existe
+    correctAns: Central
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Manuel Maria de Arjona?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Encinarejo
+    - Centro
+    - San Lorenzo
+    - Vista Alegre
+    correctAns: Centro
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Avda. de Manolete?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Huerta de la Marquesa
+    - Huerta de la Reina
+    - Encinarejo
+    - Tejares
+    correctAns: Huerta de la Marquesa
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1  Madrid?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Naranjo
+    - Sector Sur
+    - Urb. El Sol
+    - San Pedro-San Francisco
+    correctAns: San Pedro-San Francisco
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1  Madres Escolapias?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fray Albino
+    - Naranjo
+    - Alcolea
+    - "F\xE1tima"
+    correctAns: Naranjo
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1  Juan de Torres?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Santa Marina
+    - Las Jaras
+    - Costanillas
+    - Margaritas-Colonia de la Paz
+    correctAns: Santa Marina
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1n los Jardines de Baden Powell?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Ciudad Jard\xEDn"
+    - Santa Marina
+    - Parque Cruz Conde
+    - Villarrubia
+    correctAns: Santa Marina

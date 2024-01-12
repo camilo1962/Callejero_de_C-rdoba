@@ -1,0 +1,456 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: 34Data
+  m_EditorClassIdentifier: 
+  categoryName: 34
+  questions:
+  - questionInfo: "\xBFEn qu\xE9 barrio de encuentra Pintor Juan Mir\xF3?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Arruzafilla-Las Moreras
+    - Fuensanta-Santuario
+    - Brillante
+    - "F\xE1tima"
+    correctAns: Arruzafilla-Las Moreras
+  - questionInfo: "\xBFEn qu\xE9 barrio se encuentra Pintor Pedro Antonio Rodriguez? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Fuensanta-Santuario
+    - Levante
+    - Arruzafilla-Las Moreras
+    correctAns: Fuensanta-Santuario
+  - questionInfo: "\xBFEn qu\xE9 barrio se encuentra Pintor Aguilera Amate? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Valdeolleros
+    - Santa Rosa
+    - Vista Alegre
+    - Levante
+    correctAns: Santa Rosa
+  - questionInfo: "\xBFEn qu\xE9 barrio se encuentra Priego de Cordoba? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - "F\xE1tima"
+    - Sector Sur
+    - Arruzafilla-Las Moreras
+    correctAns: Sector Sur
+  - questionInfo: "\xBFEn qu\xE9 barrio se encuentra Proconsul Metelo Pio? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Esto es de cachodeo!!
+    - Campo de la Verdad
+    - "Higuer\xF3n"
+    - Brillante
+    correctAns: Campo de la Verdad
+  - questionInfo: "\xBFEn qu\xE9 barrio se encuentra Princesa Walada? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Sector Sur
+    - Brillante
+    - Costanillas
+    - Alameda del Obispo
+    correctAns: Brillante
+  - questionInfo: "\xBFEn qu\xE9 barrio se encuentra Presa? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Valdeolleros
+    - Fidiana
+    - San Pedro-San Francisco
+    - "F\xE1tima"
+    correctAns: San Pedro-San Francisco
+  - questionInfo: "\xBFEn qu\xE9 barrio se encuentra Profesor Arnold Joseph Toynbee? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Pol\xEDgono de Chinales"
+    - Brillante
+    - Campo de la Verdad
+    - "Tecnoc\xF3rdoba"
+    correctAns: "Pol\xEDgono de Chinales"
+  - questionInfo: "\xBFEn qu\xE9 barrio se encuentra Profesor Alc\xE1ntara? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fidiana
+    - "F\xE1tima"
+    - Levante
+    - Campo de la Verdad
+    correctAns: "F\xE1tima"
+  - questionInfo: "\xBFEn qu\xE9 barrio se encuentra Primero de Mayo? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "F\xE1tima"
+    - Brillante
+    - San Pedro-San Francisco
+    - Camping
+    correctAns: "F\xE1tima"
+  - questionInfo: "\xBFEn qu\xE9 barrio se encuentra Profesor Castilla del Pino? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Quemadillas
+    - Brillante
+    - Cercadillas
+    - Figueroa-Comisaria
+    correctAns: Brillante
+  - questionInfo: "\xBFEn qu\xE9 barrio se encuentra Profesor Tierno Galvan? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "F\xE1tima"
+    - Fidiana
+    - Levante
+    - Campo de la Verdad
+    correctAns: "F\xE1tima"
+  - questionInfo: "\xBFEn qu\xE9 barrio se encuentra Profesor Julian Rivera Tarraco? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Camping
+    - Valdeolleros
+    - Naranjo
+    correctAns: Brillante
+  - questionInfo: "\xBFEn qu\xE9 barrio se encuentra Profesor Lucena Conde? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Levante
+    - Camping
+    - Huerta de la Marquesa
+    correctAns: Camping
+  - questionInfo: "\xBFEn qu\xE9 barrio se encuentra Profesor Juan Carandell y Pericay? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "F\xE1tima"
+    - Brillante
+    - Campo de la Verdad
+    - Encinarejo
+    correctAns: Brillante
+  - questionInfo: "\xBFEn qu\xE9 barrio se encuentra San Martin de Porres? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Levante
+    - Sector Sur
+    - Campo de la Verdad
+    - Fuensanta-Santuario
+    correctAns: Fuensanta-Santuario
+  - questionInfo: "\xBFEn qu\xE9 barrio se encuentra San Juan de la Cruz? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Santa Rosa
+    - San Cayetano
+    - Santa Marina
+    - San Pedro-San Francisco
+    correctAns: San Cayetano
+  - questionInfo: "\xBFEn qu\xE9 barrio se encuentra San Jos\xE9? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fray Albino
+    - Santa Rosa
+    - Brillante
+    - Centro
+    correctAns: Fray Albino
+  - questionInfo: "\xBFEn qu\xE9 barrio se encuentra San Juan Bosco? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Costanillas
+    - "Electromec\xE1nicas"
+    - San Cayetano
+    - Catedral
+    correctAns: "Electromec\xE1nicas"
+  - questionInfo: "\xBFEn qu\xE9 barrio se encuentra San Perfecto? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fidiana
+    - Costanillas
+    - Levante
+    - "F\xE1tima"
+    correctAns: Levante
+  - questionInfo: "\xBFEn qu\xE9 zona se encuentra San Vicente de Paul? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Vallellano
+    - Sector Sur
+    - "F\xE1tima"
+    correctAns: Vallellano
+  - questionInfo: "\xBFEn qu\xE9 zona se encuentra Sancho El Craso? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Valdeolleros
+    - Huerta la Reina
+    - Figueroa-Comisaria
+    - "Ca\xF1ero"
+    correctAns: Valdeolleros
+  - questionInfo: "\xBFEn qu\xE9 zona se encuentra Sancho Panza? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fuensanta-Santuario
+    - "Ca\xF1ero"
+    - Catedral
+    - Ribera
+    correctAns: "Ca\xF1ero"
+  - questionInfo: "\xBFEn qu\xE9 zona se encuentra Sancho El Bravo? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fray Albino
+    - Sector Sur
+    - Valdeolleros
+    - Brillante
+    correctAns: Fray Albino
+  - questionInfo: "\xBFEn qu\xE9 zona se encuentra Sanchuelo? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fidiana
+    - Fray Albino
+    - Campo de la Verdad
+    - Sector Sur
+    correctAns: Fray Albino
+  - questionInfo: "\xBFEn qu\xE9 zona se encuentra Paseo de la Solea? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Miralbaida
+    - Huerta de la Reina
+    - Arcangel
+    - Arruzafilla-Las Moreras
+    correctAns: Miralbaida
+  - questionInfo: "\xBFEn qu\xE9 zona se encuentra Soldado Diego Garcia Paredes? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Ca\xF1ero"
+    - "F\xE1tima"
+    - Brillante
+    - San Pedro-San Francisco
+    correctAns: "Ca\xF1ero"
+  - questionInfo: "\xBFEn qu\xE9 zona se encuentra Soprano Maria Callas? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Encinarejo
+    - Arcangel
+    - Figueroa-Comisaria
+    - Santa Rosa
+    correctAns: Figueroa-Comisaria
+  - questionInfo: "\xBFEn qu\xE9 zona se encuentra Soprano Victoria de los Angeles? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Figueroa-Comisaria
+    - Villarrubia
+    - "Tecnoc\xF3rdoba"
+    - Mirabuenos
+    correctAns: Figueroa-Comisaria
+  - questionInfo: "\xBFEn qu\xE9 zona se encuentra Solares de San Rafael? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Pedro-San Francisco
+    - "Ca\xF1ero"
+    - Fidiana
+    - Levante
+    correctAns: "Ca\xF1ero"
+  - questionInfo: "\xBFEn qu\xE9 zona se encuentra Talabarteros? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Santa Rosa
+    - Huerta de la Marquesa
+    - Levante
+    correctAns: Santa Rosa
+  - questionInfo: "\xBFEn qu\xE9 zona se encuentra Tafures "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Santa Marina
+    - San Calletano
+    - Costanillas
+    - Catedral
+    correctAns: Santa Marina
+  - questionInfo: "\xBFEn qu\xE9 zona se encuentra Tallinn? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Tecnoc\xF3rdoba"
+    - Mirabuenos
+    - Brillante
+    - Sector Sur
+    correctAns: "Tecnoc\xF3rdoba"
+  - questionInfo: "\xBFEn qu\xE9 zona se encuentra Tarrasa? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fuensanta-Santuario
+    - Huerta de la Reina
+    - Sector Sur
+    - Campo de la Verdad
+    correctAns: Huerta de la Reina
+  - questionInfo: "\xBFEn qu\xE9 zona se encuentra Tartesos? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "F\xE1tima"
+    - Margaritas-Colonia de la Paz
+    - Levante
+    - Brillante
+    correctAns: Margaritas-Colonia de la Paz
+  - questionInfo: "\xBFEn qu\xE9 zona se encuentra Tellez de Meneses? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Arruzafilla-Las Moreras
+    - Brillante
+    - Camping
+    - Naranjo
+    correctAns: Naranjo
+  - questionInfo: "\xBFEn qu\xE9 zona se encuentra Teologo Nu\xF1ez Delgadillo? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Fray Albino
+    - Santa Rosa
+    - Campo de la Verdad
+    correctAns: Brillante
+  - questionInfo: "\xBFEn qu\xE9 zona se encuentra Tip\xF3grafos? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Centro
+    - Ribera
+    - Santa Rosa
+    - Catedral
+    correctAns: Santa Rosa
+  - questionInfo: "\xBFEn qu\xE9 zona se encuentra Tesoro? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Centro
+    - Brillante
+    - San Pedro-San Francisco
+    - Catedral
+    correctAns: Centro
+  - questionInfo: "\xBFEn qu\xE9 zona se encuentra Terrones? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Basilio
+    - Catedral
+    - Centro
+    - Santa Rosa
+    correctAns: San Basilio

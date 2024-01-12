@@ -1,0 +1,456 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: 26Data
+  m_EditorClassIdentifier: 
+  categoryName: 26
+  questions:
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Teruel?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Camping
+    - Sector Sur
+    - "Ciudad Jard\xEDn"
+    - "F\xE1tima"
+    correctAns: Camping
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Teniente Braulio Laportilla?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Parque Cruz Conde
+    - Campo de la Verdad
+    - Centro
+    correctAns: Centro
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 la Plaza de las Tazas?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Catedral
+    - Las Magdalena
+    - Parque Cruz Conde
+    - Valdeolleros
+    correctAns: Las Magdalena
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 la Calle Suecia?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Tecnoc\xF3rdoba"
+    - Huerta de la Marquesa
+    - Mirabuenos
+    - Campo de la Verdad
+    correctAns: "Tecnoc\xF3rdoba"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Santa Victoria?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Catedral
+    - Centro
+    - Mirabuenos
+    - "F\xE1tima"
+    correctAns: Catedral
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Santa Marta?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Naranjo
+    - Brillante
+    - "San Pablo-San Andr\xE9s"
+    - "Vi\xF1uela-Rescatado"
+    correctAns: "San Pablo-San Andr\xE9s"
+  - questionInfo: "\xBFQu\xE9 calle pertenece al Parque Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Santa Rosa
+    - Bilbao
+    - Pasaje Belalcazar
+    - "Bar\xEDtono Jose Maria Aguilar Blanco"
+    correctAns: Santa Rosa
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Santa Isabel?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Sector Sur
+    - Santa Marina
+    - San Cayetano
+    correctAns: Santa Marina
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Santa Cecilia?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Margaritas-Colonia de la Paz
+    - Las Palmeras
+    - Arruzafilla-Las Moreras
+    - "San Pablo-San Andr\xE9s"
+    correctAns: Margaritas-Colonia de la Paz
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Santa Maria de Gracia?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Fray Albino
+    - "San Pablo-San Andr\xE9s"
+    - Margaritas-Colonia de la paz
+    correctAns: "San Pablo-San Andr\xE9s"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Sansue\xF1a?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Levante
+    - Brillante
+    - Campo de la Verdad
+    - "F\xE1tima"
+    correctAns: Brillante
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Sanchez Pe\xF1a?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Arruzafilla-Las Moreras
+    - Fray Albino
+    - Brillante
+    - San Pedro-San Francisco
+    correctAns: San Pedro-San Francisco
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 San Zoilo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Centro
+    - Brillante
+    - Santa Rosa
+    - Huerta de la Reina
+    correctAns: Centro
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 la Plaza de San Pedro?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Ciudad Jard\xEDn"
+    - San Pedro-San Francisco
+    - Catedral
+    - Brillante
+    correctAns: San Pedro-San Francisco
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 la Avda. Republica Argentina?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Levante
+    - "Ciudad Jard\xEDn"
+    - Valdeolleros
+    - Campo de la Verdad
+    correctAns: "Ciudad Jard\xEDn"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Ramirez de Arellano?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Centro
+    - Levante
+    - "F\xE1tima"
+    - Parque Figueroa
+    correctAns: Centro
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Queso?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Santa Marina
+    - Catedral
+    - Centro
+    - San Lorenzo
+    correctAns: San Lorenzo
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Punta Umbria?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Sector Sur
+    - Parque Figueroa
+    - Centro
+    - Brillante
+    correctAns: Sector Sur
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Profesor Adolfo Mu\xF1oz Alonso?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "F\xE1tima"
+    - Brillante
+    - Sector Sur
+    - Catedral
+    correctAns: Brillante
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 La Previsi\xF3n?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Sector Sur
+    - Parque Cruz Conde
+    - Alcolea
+    - "Ciudad Jard\xEDn"
+    correctAns: "Ciudad Jard\xEDn"
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Pasaje Pintor Cordoba?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Santa Rosa
+    - Centro
+    - "Ciudad Jard\xEDn"
+    - "Higuer\xF3n"
+    correctAns: Santa Rosa
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Pintor Antonio Rodriguez Luna?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Parque Cruz Conde
+    - Valdeolleros
+    - Levante
+    - Brillante
+    correctAns: Parque Cruz Conde
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Avda. de los Piconeros?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Las Palmeras
+    - Molinos Alta
+    - Brillante
+    - "Ciudad Jard\xEDn"
+    correctAns: Molinos Alta
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Periodista Leafar?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Arruzafilla-Las Moreras
+    - Brillante
+    - Arcangel
+    - Levante
+    correctAns: Arruzafilla-Las Moreras
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Periodista Eduardo Baro?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Centro
+    - Levante
+    - "F\xE1tima"
+    - Arcangel
+    correctAns: Arcangel
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Periodista Antonio Rodriguez Mesa?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Ciudad Jard\xEDn"
+    - Azahara
+    - Arcangel
+    - "Ca\xF1ero"
+    correctAns: Arcangel
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Pedro Rey?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Pedro-San Francisco
+    - La Magdalena
+    - Brillante
+    - Centro
+    correctAns: San Pedro-San Francisco
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 la Avda. de la Paz?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Levante
+    - Azahara
+    - Campo de la Verdad
+    - Valdeolleros
+    correctAns: Azahara
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Pasaje Patricio Furriel?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Valdeolleros
+    - Brillante
+    - "Ciudad Jard\xEDn"
+    - Parque Cruz Conde
+    correctAns: Valdeolleros
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Palomares?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Santa Marina
+    - Centro
+    - Catedral
+    correctAns: Santa Marina
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 la Calle la Palmera?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Encinarejo
+    - Catedral
+    - Santa Rosa
+    - "Ciudad Jard\xEDn"
+    correctAns: Santa Rosa
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Calle El Pa\xF1uelo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Catedral
+    - Brillante
+    - Campo de la Verdad
+    - Valdeolleros
+    correctAns: Catedral
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Parcelacion Florida?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - Granadal
+    - Ninguno
+    - Consorcio
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Parcelacion La Estrella?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - Granadal
+    - Ninguno
+    - Consorcio
+    correctAns: Granadal
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Parcelacion El Salado?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - Granadal
+    - Ninguno
+    - Consorcio
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Parcelacion El Trebol?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - Granadal
+    - Ninguno
+    - Consorcio
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Parcelacion El Manantial?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - Granadal
+    - Ninguno
+    - Consorcio
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Parcelacion Las Pitas?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - Granadal
+    - Ninguno
+    - Consorcio
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Parcelacion La Barquera?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - Granadal
+    - Ninguno
+    - Consorcio
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Parcelacion La Mocha?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - Granadal
+    - Ninguno
+    - Consorcio
+    correctAns: Granadal

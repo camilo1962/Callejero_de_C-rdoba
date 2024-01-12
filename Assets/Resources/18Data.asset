@@ -1,0 +1,457 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: 18Data
+  m_EditorClassIdentifier: 
+  categoryName: 18
+  questions:
+  - questionInfo: "\xBFQu\xE9 direcci\xF3n tiene la Avda Cervantes?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 81b09d614d005442f9367a367b8695f3, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - De Sur a Norte
+    - De Norte a Sur
+    - Es peatonal
+    - Tiene dos direcciones
+    correctAns: De Sur a Norte
+  - questionInfo: "\xBFC\xF3mo se llama la Avda. se\xF1alada?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: df951c91b76884e47872e76d3cb11fca, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Cervantes
+    - Mediterraneo
+    - Brillante
+    - "Oller\xEDas"
+    correctAns: "Oller\xEDas"
+  - questionInfo: "\xBFC\xF3mo se llama la Avda.  de los interrogantes?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: d17002f22fddd4437bf9dad9d15fc3a0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "C\xE1diz"
+    - del Mediterraneo
+    - Brillante
+    - "Gran Capit\xE1n"
+    correctAns: "C\xE1diz"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Mu\xF1oz Capilla?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: d17002f22fddd4437bf9dad9d15fc3a0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Arruzafilla-Las Moreras
+    - San Rafael del Albaida
+    - "San Pablo-San Andr\xE9s"
+    - Brillante
+    correctAns: "San Pablo-San Andr\xE9s"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Muro de la Misericordia?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: d17002f22fddd4437bf9dad9d15fc3a0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Catedral
+    - Santa Marina
+    - Encinarejo
+    - Naranjo
+    correctAns: Santa Marina
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Hermanos L\xF3pez Di\xE9guez?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: d17002f22fddd4437bf9dad9d15fc3a0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - "San Pablo-San Andr\xE9s"
+    - Fuensanta-Santuario
+    - La Magdalena
+    correctAns: "San Pablo-San Andr\xE9s"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Hasday Ibn Shaprut?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: d17002f22fddd4437bf9dad9d15fc3a0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\xBFEst\xE1s de cachondeo?"
+    - No existe
+    - San Basilio
+    - Catedral
+    correctAns: San Basilio
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Grupo C\xE1ntico?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: d17002f22fddd4437bf9dad9d15fc3a0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Sector Sur
+    - "Ciudad Jard\xEDn"
+    - Santa Rosa
+    - Brillante
+    correctAns: Brillante
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 la Avda. de Granada?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: d17002f22fddd4437bf9dad9d15fc3a0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "F\xE1tima"
+    - Sector Sur
+    - Villarrubia
+    - "Higuer\xF3n"
+    correctAns: Sector Sur
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Glorieta Farmace\xFAtico P\xE9rez
+      Jim\xE9nez?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: d17002f22fddd4437bf9dad9d15fc3a0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - "Pol\xEDgono Chinales"
+    - Santa Cruz
+    - Parque Cruz Conde
+    correctAns: "Pol\xEDgono Chinales"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Estrella Sirio?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: d17002f22fddd4437bf9dad9d15fc3a0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Levante
+    - "F\xE1tima"
+    - Fuensanta-Santuario
+    - Campo de la Verdad
+    correctAns: Levante
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Estocolmo?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: d17002f22fddd4437bf9dad9d15fc3a0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Tecnoc\xF3rdoba"
+    - Campo de la Verdad
+    - Valdeolleros
+    - Brillante
+    correctAns: "Tecnoc\xF3rdoba"
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Escultor \xC1lvarez?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: d17002f22fddd4437bf9dad9d15fc3a0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Levante
+    - "F\xE1tima"
+    - Vista Alegre
+    - Brillante
+    correctAns: Brillante
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Escritora Maria Goyri?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: d17002f22fddd4437bf9dad9d15fc3a0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Ronda-Cenemesa
+    - "F\xE1tima"
+    - "Ca\xF1ero"
+    - Campo de la Verdad
+    correctAns: Ronda-Cenemesa
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Escritora Carmen Laforet?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: d17002f22fddd4437bf9dad9d15fc3a0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fray Albino
+    - Ronda-Cenemesa
+    - Sector Sur
+    - "F\xE1tima"
+    correctAns: Ronda-Cenemesa
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Escritor Torquemada?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: d17002f22fddd4437bf9dad9d15fc3a0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Margaritas-Colonia de la Paz
+    - Valdeolleros
+    - Fuensanta-Santuario
+    - Levante
+    correctAns: Margaritas-Colonia de la Paz
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 la Plaza Regina?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: d17002f22fddd4437bf9dad9d15fc3a0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Rafael del Albaida
+    - Catedral
+    - San Cayetano
+    - San Pedro-San Francisco
+    correctAns: San Pedro-San Francisco
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 la Plaza del Realejo?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: d17002f22fddd4437bf9dad9d15fc3a0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "San Pablo-San Andr\xE9s"
+    - Costanillas
+    - Santa Marina
+    - Sector Sur
+    correctAns: "San Pablo-San Andr\xE9s"
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Ramirez de las Casas Deza?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: d17002f22fddd4437bf9dad9d15fc3a0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Centro
+    - "Ciudad Jard\xEDn"
+    - Vallellano
+    - Sector Sur
+    correctAns: Centro
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 la Plaza del Rastro?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: d17002f22fddd4437bf9dad9d15fc3a0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Sector Sur
+    - Campo de la Verdad
+    - Majaneque
+    - Levante
+    correctAns: Campo de la Verdad
+  - questionInfo: "\xBFEs peatonal El Paseo de la Ribera?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: d17002f22fddd4437bf9dad9d15fc3a0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Si
+    - No
+    - "Circulaci\xF3n restringida"
+    - No existe
+    correctAns: "Circulaci\xF3n restringida"
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 la calle Rey Heredia?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: d17002f22fddd4437bf9dad9d15fc3a0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Catedral
+    - Sector Sur
+    - Campo de la Verdad
+    - "Ciudad Jard\xEDn"
+    correctAns: Catedral
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 la Avda. Roc\xEDo Jurado?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: d17002f22fddd4437bf9dad9d15fc3a0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Paraiso Arenal
+    - No existe
+    - Costanillas
+    - Arruzafilla-Las Moreras
+    correctAns: Paraiso Arenal
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 la Plaza San Eloy?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: d17002f22fddd4437bf9dad9d15fc3a0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Santa Marina
+    - La Magdalena
+    - Campo de la Verdal
+    - Catedral
+    correctAns: La Magdalena
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 la Plaza San Basilio?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: d17002f22fddd4437bf9dad9d15fc3a0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Basilio
+    - Centro
+    - Catedral
+    - "Ciudad Jard\xEDn"
+    correctAns: San Basilio
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 la Plaza San Bartolom\xE9?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: d17002f22fddd4437bf9dad9d15fc3a0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Santa Marina
+    - La Magdalena
+    - Catedral
+    - Parque Cruz Conde
+    correctAns: La Magdalena
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 la Pasaje Sabular?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: d17002f22fddd4437bf9dad9d15fc3a0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fuensanta-Santuario
+    - Sector Sur
+    - "San Pablo-San Andr\xE9s"
+    - "Ciudad Jard\xEDn"
+    correctAns: Fuensanta-Santuario
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Ronda de And\xFAjar?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: d17002f22fddd4437bf9dad9d15fc3a0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Santa Rosa
+    - Fuensanta-Santuario
+    - La Magdalena
+    - Ribera
+    correctAns: La Magdalena
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 la calle Ronda?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: d17002f22fddd4437bf9dad9d15fc3a0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Sector Sur
+    - Ribera
+    - Parque Cruz Conde
+    - Valdeolleros
+    correctAns: Sector Sur
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 la Ronda de los M\xE1rtires?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: d17002f22fddd4437bf9dad9d15fc3a0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fuensanta-Santuario
+    - San Pedro-San Francisco
+    - Ribera
+    - Mirabuenos
+    correctAns: Ribera
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 la Ronda de la Manca?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: d17002f22fddd4437bf9dad9d15fc3a0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "F\xE1tima"
+    - Parque Cruz Conde
+    - Cerro de la Golondrina
+    - Sector Sur
+    correctAns: Cerro de la Golondrina
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Rodrigo de Triana?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: d17002f22fddd4437bf9dad9d15fc3a0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Ribera
+    - Fuensanta-Santuario
+    - Sector Sur
+    - Santa Rosa
+    correctAns: Fuensanta-Santuario
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Rio Guadajoz?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: d17002f22fddd4437bf9dad9d15fc3a0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "F\xE1tima"
+    - Levante
+    - Valdeolleros
+    - Campo de la Verdad
+    correctAns: Levante
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Pintor Morroy?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: d17002f22fddd4437bf9dad9d15fc3a0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Levante
+    - Naranjo
+    - Huerta de la Reina
+    - "F\xE1tima"
+    correctAns: Naranjo
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Pianista Rafael Orozco?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: d17002f22fddd4437bf9dad9d15fc3a0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Las Palmeras
+    - Huerta de la Reina
+    - Margaritas-Colonia de la Paz
+    - Arruzafilla-Las Moreras
+    correctAns: Arruzafilla-Las Moreras
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Patio Pico Almanzor?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: d17002f22fddd4437bf9dad9d15fc3a0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Arruzafilla-Las Moreras
+    - Las Palmeras
+    - Sector Sur
+    - Campo de la Verdad
+    correctAns: Las Palmeras
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Patio Periodista Ladis?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: d17002f22fddd4437bf9dad9d15fc3a0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Las Palmeras
+    - Arruzafilla-Las Moreras
+    - Centro
+    - "Ciudad Jard\xEDn"
+    correctAns: Arruzafilla-Las Moreras
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Pasaje Periodista Paco Vargas?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: d17002f22fddd4437bf9dad9d15fc3a0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fuensanta-Santuario
+    - Parque Cruz Conde
+    - Arcangel
+    - Levante
+    correctAns: Fuensanta-Santuario
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 la Paseo de la Toscana?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: d17002f22fddd4437bf9dad9d15fc3a0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Azahara
+    - Valdeolleros
+    - "Ciudad Jard\xEDn"
+    - Fuensanta-Santuario
+    correctAns: Valdeolleros
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Pastora Pav\xF3n Cruz?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: d17002f22fddd4437bf9dad9d15fc3a0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Paraiso Arenal
+    - Alcolea
+    - Villarrubia
+    - Valdeolleros
+    correctAns: Paraiso Arenal

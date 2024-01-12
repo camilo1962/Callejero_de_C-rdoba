@@ -1,0 +1,459 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: 9Data
+  m_EditorClassIdentifier: 
+  categoryName: 9
+  questions:
+  - questionInfo: "\xBFA qu\xE9 parque pertenece El Higuer\xF3n?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - Ninguno
+    - Granadal
+    - No existe
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Parcelaci\xF3n Cuevas de Altazar?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Consorcio
+    - Los tres
+    - Central
+    - Granadal
+    correctAns: Central
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Plaza de San Miguel?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Huerta de la Reina
+    - Centro
+    - San Basilio
+    - Figueroa
+    correctAns: Centro
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Plaza de San Nicol\xE1s?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Costanillas
+    - San Lorenzo
+    - "Ciudad Jard\xEDn"
+    - Centro
+    correctAns: Centro
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Plaza de San Rafael?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Lorenzo
+    - Centro
+    - "Ciudad Jard\xEDn"
+    - Valdeolleros
+    correctAns: San Lorenzo
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 S\xE1nchez Feria?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Catedral
+    - Quemadillas
+    - Fuensanta-Santuario
+    - "Ca\xF1ero"
+    correctAns: Catedral
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Pasaje San Sebasti\xE1n?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Figueroa
+    - Huerta de la Reina
+    - "Ca\xF1ero"
+    - Fuensanta
+    correctAns: Huerta de la Reina
+  - questionInfo: "\xBFA qu\xE9 parque corresponde San Pablo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - Ninguno es de la iglesia
+    - Granadal
+    - Los dos
+    correctAns: Granadal
+  - questionInfo: "\xBFA qu\xE9 parque corresponde San Rafael MURIANO OBEJO?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - Consorcio
+    - Ninguno
+    - El Granadal
+    correctAns: El Granadal
+  - questionInfo: "\xBFA qu\xE9 parque corresponde Casilla del Aire?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - Granadal
+    - Consorcio
+    - No Existe
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque corresponde Pol\xEDgono Carretera de Palma.C.
+      Log\xEDstico?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Consorcio
+    - Central
+    - Granadal
+    - No existe
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque corresponde el Parque Figueroa?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Granadal
+    - Consorcio
+    - Los dos
+    - Central
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque corresponde el Pol\xEDgono Guadalquivir?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Granadal
+    - Central
+    - Consorcio
+    - Ninguno
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque corresponde la zona Arruzafilla-Las Moreras?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Consorcio
+    - Central
+    - Quemadas
+    - Ninguno
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque corresponde la zona Huerta de la Marquesa?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Ninguno
+    - Quemadas
+    - Consorcio
+    - Central
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque corresponde la zona Urbanizaci\xF3n Los Encinares?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Granadal
+    - Ninguno
+    - Central
+    - Consorcio
+    correctAns: Granadal
+  - questionInfo: "\xBFA qu\xE9 parque corresponde la zona Camino del Judio?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Los dos
+    - El Granadal
+    - Ninguno
+    - Central
+    correctAns: El Granadal
+  - questionInfo: "\xBFA qu\xE9 parque corresponde la zona Turru\xF1uelos-Huerta
+      Santa Isabel?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - El Granadal
+    - Ninguno
+    - Los dos
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque corresponde la zona Olivos Borrachos?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Ninguno
+    - Consorcio
+    - Granadal
+    - Central
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque corresponde la zona Carretera Badajoz-Granada(232/267
+      Km.)?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - El Granadal
+    - Central
+    - Ninguno
+    - Al Consorcio
+    correctAns: El Granadal
+  - questionInfo: "\xBFA qu\xE9 parque corresponde la zona Ermita Santo Domingo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Los dos
+    - El Granadal
+    - Consorcio
+    - Central
+    correctAns: El Granadal
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Do\xF1a Berenguela?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Basilio
+    - "Parcelaci\xF3n Las Pitas"
+    - Huerta de la Reina
+    - "Ca\xF1ero"
+    correctAns: Huerta de la Reina
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Do\xF1a Engracia?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Sector Sur
+    - Villarrubia
+    - San Pedro San Francisco
+    correctAns: San Pedro San Francisco
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Don Quijote?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - No existe
+    - "Ca\xF1ero"
+    - Figueroa
+    - Ribera
+    correctAns: "Ca\xF1ero"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Don Rodrigo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fray Albino
+    - Ribera
+    - Naranjo
+    - "Ca\xF1ero"
+    correctAns: Ribera
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 La Dolorosa?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Majaneque-Barquera
+    - Levante
+    - Sector Sur
+    - Figueroa
+    correctAns: Majaneque-Barquera
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Doctor Gregorio Mara\xF1\xF3n?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Parque Cruz Conde
+    - "F\xE1tima"
+    - Levante
+    - Vallellano
+    correctAns: Vallellano
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Avda. Doctor Fleming ?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Santa Rosa
+    - San Basilio
+    - "F\xE1tima"
+    correctAns: San Basilio
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Plaza Las Doblas?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fray Albino
+    - Centro
+    - Tejares
+    - "F\xE1tima"
+    correctAns: Centro
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Diario C\xF3rdoba?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Poligono La Torrecilla
+    - Centro
+    - Vallellano
+    - Parque Cruz Conde
+    correctAns: Centro
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Doctor Barraquer?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Pol\xEDgono Las Quemadas"
+    - "Tecnoc\xF3rdoba"
+    - Naranjo
+    - Vallellano
+    correctAns: Vallellano
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Dinamarca?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "El \xC1ngel"
+    - "Tecnoc\xF3rdoba"
+    - Vallellano
+    - Naranjo
+    correctAns: "Tecnoc\xF3rdoba"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Avda. de los Custodios?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Siete Fincas
+    - Mirabuenos
+    - Catedral
+    - Vista Alegre
+    correctAns: Vista Alegre
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Cuesta Luj\xE1n?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Centro
+    - Figueroa
+    - Sector Sur
+    - Arcangel
+    correctAns: Centro
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Calle Cristo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Basilio
+    - Catedral
+    - San Lorenzo
+    - Santa Rosa
+    correctAns: San Basilio
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Cortijo Majaneque?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Pol\xEDgono Quemadas"
+    - Majaneque
+    - "El Hiquer\xF3n"
+    - Santo Domingo
+    correctAns: Majaneque
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Plaza de la Costituci\xF3n?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fray Albino
+    - Vista Alegre
+    - "Ciudad Jard\xEDn"
+    - Parque Cruz Conde
+    correctAns: Vista Alegre
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Consolaci\xF3n?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Ribera
+    - San Rafael del Albaida
+    - San Cayetano
+    - Santa Rosa
+    correctAns: Ribera
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Avda. Conde Vallellano?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Ciudad Jard\xEDn"
+    - Centro
+    - Arcangel
+    - Vallellano
+    correctAns: Vallellano
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Conde de Robledo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "San Pablo-San Andr\xE9s"
+    - Santa Marina
+    - Centro
+    - Villarrubia
+    correctAns: Centro

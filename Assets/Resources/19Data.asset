@@ -1,0 +1,456 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: 19Data
+  m_EditorClassIdentifier: 
+  categoryName: 19
+  questions:
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Pedro L\xF3pez?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - No existe
+    - San Pedro-San Francisco
+    - La Magdalena
+    - Centro
+    correctAns: San Pedro-San Francisco
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Abejar?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Naranjo
+    - Brillante
+    - La Magdalena
+    - San Pedro-San Francisco
+    correctAns: La Magdalena
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Las Acacias?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Mirabuenos
+    - Las Palmeras
+    - Santa Rosa
+    - Valdeolleros
+    correctAns: Santa Rosa
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Carrefour Zahira?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Fidiana
+    - Sector Sur
+    - "Ciudad Jard\xEDn"
+    correctAns: Fidiana
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Carretera de Alba?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Levante
+    - Brillante
+    - Fidiana
+    - Fuensanta-Santuario
+    correctAns: Brillante
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 la calle Arfe?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Centro
+    - Brillante
+    - Cercadillas
+    - Parque Cruz Conde
+    correctAns: Cercadillas
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Arcos de la Frontera?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Catedral
+    - "Ciudad Jard\xEDn"
+    - "F\xE1tima"
+    - Levante
+    correctAns: "F\xE1tima"
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Plaza Ba\xF1uelos?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "F\xE1tima"
+    - Centro
+    - Sector Sur
+    - Fray Albino
+    correctAns: Centro
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 la Cuesta del Bailio?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Centro
+    - Brillante
+    - Las Palmeras
+    - Arruzafilla-Las Moreras
+    correctAns: Centro
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Pasaje de Bujalance?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - La Colina
+    - Sector Sur
+    - Parque Cruz Conde
+    - Vallellano
+    correctAns: Sector Sur
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Bilevar Hern\xE1n Ruiz?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Cercadillas
+    - "Ciudad Jard\xEDn"
+    - Sector Sur
+    - Fray Albino
+    correctAns: Cercadillas
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 la calle Cabrera?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Fray Albino
+    - Campo de la Verdad
+    - Centro
+    correctAns: Centro
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Ciudad de Montilla?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - No existe
+    - Fray Albino
+    - Parque Cruz Conde
+    - Las Palmeras
+    correctAns: Fray Albino
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Ciudad de Nuremberg?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fray Albino
+    - Santa Rosa
+    - Arruzafilla-Las Moreras
+    - Valdeolleros
+    correctAns: Arruzafilla-Las Moreras
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Ciudad de Linares?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Sector Sur
+    - Miralbaida
+    - Levante
+    - Fray Albino
+    correctAns: Sector Sur
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Glorieta Ciudad de C\xF3rdoba?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Sector Sur
+    - Valdeolleros
+    - Brillante
+    - Las Palmeras
+    correctAns: Sector Sur
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Claudio Marcelo?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Ribera
+    - Catedral
+    - Centro
+    - Brillante
+    correctAns: Centro
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Ciudad de Manchester?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - No existe
+    - Fuensanta-Santuario
+    - Levante
+    - Parque Cruz Conde
+    correctAns: Fuensanta-Santuario
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Avda Carlos III?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Levante
+    - Brillante
+    - Centro
+    - Fray Albino
+    correctAns: Levante
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 la Plaza de Col\xF3n?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Tejares
+    - Brillante
+    - Sector Sur
+    - Valdeolleros
+    correctAns: Tejares
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Avda. Compositor Rafael Castro?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Arruzafilla-Las Moreras
+    - Arcangel
+    - "F\xE1tima"
+    - Levante
+    correctAns: Arcangel
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Pasaje Comuneros?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Santa Rosa
+    - "Ciudad Jard\xEDn"
+    - Fuensanta-Santuario
+    - Sector Sur
+    correctAns: Fuensanta-Santuario
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Conde Gondomar?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Centro
+    - Brillante
+    - Valdeolleros
+    - "F\xE1tima"
+    correctAns: Centro
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Plaza Conde de Gavia?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - La Magdalena
+    - Tejares
+    - Centro
+    - Ribera
+    correctAns: La Magdalena
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Plaza Conde de Priego?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Valdeolleros
+    - Santa Marina
+    - "San Andr\xE9s-San Francisco"
+    - Las Moreras
+    correctAns: Santa Marina
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Conde de los Torres Cabrera?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Sector Sur
+    - "F\xE1tima"
+    - Parque Cruz conde
+    - Centro
+    correctAns: Centro
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Pasaje Cristo del Amor?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fray Albino
+    - Santa Rosa
+    - Huerta de la Reina
+    - Brillante
+    correctAns: Fray Albino
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Crinista Rey D\xEDaz?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Santa Rosa
+    - Valdeolleros
+    - Brillante
+    - Huerta de la Reina
+    correctAns: Santa Rosa
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Pasaje de la Cruz?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fuensanta-Santuario
+    - Parque Cruz Conde
+    - Sector Sur
+    - Los Arenales
+    correctAns: Fuensanta-Santuario
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Doble de Cepa?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - No existe
+    - Fray Albino
+    - Villarrubia
+    - Alcaracejos
+    correctAns: Fray Albino
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Avda. de la F\xE1brica?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Sector Sur
+    - "Electromec\xE1nicas"
+    - "El Higuer\xF3n"
+    - Fuensanta-Santuario
+    correctAns: "Electromec\xE1nicas"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Fern\xE1n P\xE9rez Oliva?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Catedral
+    - "Ciudad Jard\xEDn"
+    - "San Pablo-San Andr\xE9s"
+    - Las Moreras-Arruzafilla
+    correctAns: "San Pablo-San Andr\xE9s"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Federico Mayo?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Ca\xF1ero"
+    - Fidiana
+    - Levante
+    - "F\xE1tima"
+    correctAns: "Ca\xF1ero"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Plaza del Huerto Hundido?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Costanillas
+    - Campo de la Verdad
+    - Sector Sur
+    - "F\xE1tima"
+    correctAns: Costanillas
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Huerto de San Pablo?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Centro
+    - Brillante
+    - Catedral
+    - San Pedro San Francisco
+    correctAns: San Pedro San Francisco
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Mexico?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - No existe
+    - Brillante
+    - Santa Marina
+    - Sector Sur
+    correctAns: Brillante
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Medina y Corella?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Arruzafilla-Las Moreras
+    - Santa Rosa
+    - La Perla
+    - Catedral
+    correctAns: Catedral
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Joaqu\xEDn Altoaguirre?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Las Palmeras
+    - "Vi\xF1uela-Rescatado"
+    - Brillante
+    - Centro
+    correctAns: "Vi\xF1uela-Rescatado"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Cruz Conde?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Centro
+    - Brillante
+    - Parque Cruz Conde
+    - Margaritas-Colonia de la Paz
+    correctAns: Centro
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Jos\xE9 D\xE1maso Petete?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "F\xE1tima"
+    - Huerta de la Marquesa
+    - Huerta de la Reina
+    - San Basilio
+    correctAns: Huerta de la Marquesa

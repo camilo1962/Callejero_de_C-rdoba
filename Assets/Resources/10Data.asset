@@ -1,0 +1,456 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: 10Data
+  m_EditorClassIdentifier: 
+  categoryName: 10
+  questions:
+  - questionInfo: "\xBFA qu\xE9 zona pertenece Avda de la Concordia?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Alcolea
+    - San Rafael del Albaida
+    - Villarrubia
+    - Encinarejo
+    correctAns: Villarrubia
+  - questionInfo: "\xBFA qu\xE9 zona pertenece Conde de Cardenas?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Centro
+    - La Magdalena
+    - Arcangel
+    - "Ciudad Jard\xEDn"
+    correctAns: Centro
+  - questionInfo: "\xBFA qu\xE9 zona pertenece Conde de Arenales?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Santa Marina
+    - Miralbaida
+    - "San Pablo-San Andr\xE9s"
+    - Santacruz
+    correctAns: "San Pablo-San Andr\xE9s"
+  - questionInfo: "\xBFA qu\xE9 zona pertenece Paseo de la Copla?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Huerta de la Reina
+    - Centro
+    - Miralbaida
+    - San Pedro-San Francisco
+    correctAns: Miralbaida
+  - questionInfo: "\xBFA qu\xE9 parque corresponde  la barriada de Santacruz?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Consorcio
+    - Ninguno
+    - Granadal
+    - Central
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque corresponde el barrio de Trassierra?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - El Granadal
+    - Consorcio
+    - Central
+    - Ninguno
+    correctAns: Central
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Avda del Corregidor?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Parque Cruz Conde
+    - San Pablo
+    - Centro
+    - "F\xE1tima"
+    correctAns: Parque Cruz Conde
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 la Plaza de la Corredera?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Trassierra
+    - San Pedro-San Francisco
+    - Fray Albino
+    - Sagunto
+    correctAns: San Pedro-San Francisco
+  - questionInfo: "\xBFQu\xE9 calle pertenece al parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Cordoba de Veracruz
+    - "Pasaje C\xF3rdoba"
+    - "Los C\xF3rdovas"
+    - "Conquistador Ordo\xF1o Alvarez"
+    correctAns: Cordoba de Veracruz
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Concepci\xF3n?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Ciudad Jard\xEDn"
+    - Campo de la Verdad
+    - Sector Sur
+    - Centro
+    correctAns: Centro
+  - questionInfo: "\xBFQu\xE9 calle pertenece al parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Colombia
+    - Compositor Ramon Medina
+    - Compositor Serrano Lucena
+    - Concepcion Arenal
+    correctAns: Colombia
+  - questionInfo: "\xBFQue calles desembocan en la Plaza de las Beatillas?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Espejo, Jurado Aguilar y Obispo Alguacil
+    - "Oca\xF1a, Zarco y San Agust\xEDn"
+    - Cidros, Beatas y Pedro Fdez.
+    - "Oca\xF1a, Zarco y Mayor de Santa Marina"
+    correctAns: "Oca\xF1a, Zarco y San Agust\xEDn"
+  - questionInfo: "\xBFQue calles desembocan en la Plaza de Bel\xE9n?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Islas Canarias y Gibraltar
+    - Platero Pedrajas y Escultor Verdiguier
+    - "Gibraltar y Doctor G\xF3mez Aguayo"
+    - "Escritores Ramirez G\xF3ngora y Gregorio Alfaro"
+    correctAns: "Escritores Ramirez G\xF3ngora y Gregorio Alfaro"
+  - questionInfo: "\xBFQ\xFAe calle se cruza con Avda Am\xE9rica? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Avda. del Corregidor
+    - "Avda. Gran Capit\xE1n"
+    - Avda. de Libia
+    - Avda. Conde Vallellano
+    correctAns: "Avda. Gran Capit\xE1n"
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 El Almendro?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Catedral
+    - Brillante
+    - Santa Rosa
+    - Colonia de la Paz
+    correctAns: Santa Rosa
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 la Plaza de Almagra?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Huerta de la Reina
+    - San Pedro-San Francisco
+    - Parque Cruz Conde
+    correctAns: San Pedro-San Francisco
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Alibejo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Electromec\xE1nicas"
+    - "Tecnoc\xF3rdoba"
+    - Sector Sur
+    - Brillante
+    correctAns: "Electromec\xE1nicas"
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 la Plaza de la Alhondiga ?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - No Existe
+    - Catedral
+    - San Francisco
+    - Villarrubia
+    correctAns: Catedral
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 el Algarrobo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - "Ciudad Jard\xEDn"
+    - Santa Rosa
+    - Fray Albino
+    correctAns: Santa Rosa
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Alfonso XIII?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fray Albino
+    - Parque Cruz Conde
+    - Centro
+    - Mirabuenos
+    correctAns: Centro
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Alfonso XII?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - La Magdalena
+    - Centro
+    - Fray Albino
+    - Sector Sur
+    correctAns: La Magdalena
+  - questionInfo: "\xBFQu\xE9 calle pertenece al parque Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Alfonso XI
+    - Adamuz
+    - Aixa
+    - Alcalde Velasco Navarro
+    correctAns: Alfonso XI
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Alfonso VII?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Sector Sur
+    - Margaritas-Colonia de la Paz
+    - Fray Albino
+    - Brillante
+    correctAns: Margaritas-Colonia de la Paz
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Algeciras?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Tejares
+    - Mirabuenos
+    - "Tecnoc\xF3rdoba"
+    - Sector Sur
+    correctAns: Sector Sur
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Plaza de la Alegria?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - "Ciudad Jard\xEDn"
+    - San Cayetano
+    - Tejares
+    correctAns: San Cayetano
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Calle Cepas?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Santa Marina
+    - San Pedro-San Francisco
+    - "Ca\xF1ero"
+    - Brillante
+    correctAns: Santa Marina
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Los Chopos?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Levante
+    - "F\xE1tima"
+    - Encinarejo
+    - Santa Rosa
+    correctAns: Santa Rosa
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 la Plaza Arrabal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fuensanta-Santuario
+    - Brillante
+    - Fray Albino
+    - "F\xE1tima"
+    correctAns: Fray Albino
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 la Cuesta de la P\xF3lvora?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Arcangel
+    - Brillante
+    - Cerro la Golondrina
+    - San Lorenzo
+    correctAns: Arcangel
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Descrubridor Juan Ponce de Le\xF3n?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Naranjo
+    - "Tecnoc\xF3rdoba"
+    - Sector Sur
+    - Centro
+    correctAns: Sector Sur
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Doctor Jose Altolaguirre?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "F\xE1tima"
+    - "Ciudad Jard\xEDn"
+    - Vista Alegre
+    - Parque Cruz Conde
+    correctAns: Parque Cruz Conde
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Doctor Manuel Concha Ruiz?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Costanillas
+    - Vallellano
+    - Brillante
+    - "Ciudad Jard\xEDn"
+    correctAns: Brillante
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Plaza Don Arias?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Lorenzo
+    - Centro
+    - Sector Sur
+    - Parque Cruz Conde
+    correctAns: San Lorenzo
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Don Lope de Sosa?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Ciudad Jard\xEDn"
+    - Vallellano
+    - Centro
+    - Villarrubia
+    correctAns: "Ciudad Jard\xEDn"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 En Medio?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Basilio
+    - Las Jaras
+    - Catedral
+    - "Ciudad Jard\xEDn"
+    correctAns: San Basilio
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Enrique Redel?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Centro
+    - Campoalegre
+    - "San Pablo-San Andr\xE9s"
+    correctAns: "San Pablo-San Andr\xE9s"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Plaza de la Flor del Olivo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Santa Marina
+    - Molinos Alta
+    - El Angel
+    - Alcaracejos
+    correctAns: Molinos Alta
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Fuente de los Picadores?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Huerta de la Reina
+    - "Ca\xF1ero"
+    - "Ciudad Jard\xEDn"
+    - Santacruz
+    correctAns: Huerta de la Reina
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Fuente de la Salud?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Ciudad Jard\xEDn"
+    - Centro
+    - Sector Sur
+    - Valdeolleros
+    correctAns: Valdeolleros
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Fuente del Elefante?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Obejo-El Muriano
+    - "Higuer\xF3n"
+    - Trassierra
+    - "Ca\xF1ero"
+    correctAns: Trassierra

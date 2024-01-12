@@ -1,0 +1,456 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: 22Data
+  m_EditorClassIdentifier: 
+  categoryName: 22
+  questions:
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 la calle Barrera del Peral?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Tecnoc\xF3rdoba"
+    - Costanillas
+    - Alcolea
+    - Fuensanta-Santuario
+    correctAns: Costanillas
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 la Calleja Beatas?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "San Pablo-San Andr\xE9s"
+    - Catedral
+    - Centro
+    - "F\xE1tima"
+    correctAns: "San Pablo-San Andr\xE9s"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Campo San Anton?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Cerro la Golondrina
+    - Naranjo
+    - "Nore\xF1a"
+    correctAns: Cerro la Golondrina
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Cantabrico?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Nore\xF1a"
+    - Miralbaida
+    - Sector Sur
+    - "Tecnoc\xF3rdoba"
+    correctAns: "Nore\xF1a"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Canteras?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Naranjo
+    - Catedral
+    - "Higuer\xF3n"
+    correctAns: Naranjo
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Espliego?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Parque Cruz Conde
+    - Sector Sur
+    - Campo de la Verdad
+    correctAns: Brillante
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Ingeniero Antonio Carbonell?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Valdeolleros
+    - "Electromec\xE1nicas"
+    - Brillante
+    - Santa Rosa
+    correctAns: "Electromec\xE1nicas"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Ingeniero Juan A. Vigueras Gonzalez?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "F\xE1tima"
+    - Lepante
+    - Fuensanta-Santuario
+    - "Ciudad Jard\xEDn"
+    correctAns: "F\xE1tima"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Ingeniero Iribarren?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Pol\xEDgono La Torrecilla"
+    - Parque Cruz Conde
+    - San Cayetano
+    - Santa Marina
+    correctAns: "Pol\xEDgono La Torrecilla"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Isabel Losa?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Centro
+    - Santa Marina
+    - Campo de la Verdad
+    - "F\xE1tima"
+    correctAns: Santa Marina
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Isabel II?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - La Magdalena
+    - Figueroa
+    - "Nore\xF1a"
+    - Brillante
+    correctAns: La Magdalena
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Jesus de los Reyes?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Costanillas
+    - Sector Sur
+    - Parque Figueroa
+    - Parque Cruz Conde
+    correctAns: Sector Sur
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Jerez?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Parque Cruz Conde
+    - Sector Sur
+    - Parque Figueroa
+    - Santa Marina
+    correctAns: Sector Sur
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Horno del Agua?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Cayetano
+    - Brillante
+    - Catedral
+    - San Lorenzo
+    correctAns: San Lorenzo
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 la Calleja la Hoguera?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Catedral
+    - "F\xE1tima"
+    - Fuensanta-Santuario
+    - Fidiana
+    correctAns: Catedral
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Historiador Diaz del Moral?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Cerro de la Golondrina
+    - Brillante
+    - Centro
+    - Catedral
+    correctAns: Centro
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Hinojosa del Duque?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Vista Alegre
+    - Sector Sur
+    - Parque Figueroa
+    correctAns: Brillante
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Doctor Manuel Villegas?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Levante
+    - "F\xE1tima"
+    - Parque Cruz Conde
+    - Brillante
+    correctAns: Levante
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Doctora de Alcal\xE1?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Huerta de la Reina
+    - Santa Rosa
+    - Sector Sur
+    - Fidiana
+    correctAns: Huerta de la Reina
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Domingo Ba\xF1os Doming\xF3n?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Santa Marina
+    - San Cayetano
+    - Costanillas
+    - Brillante
+    correctAns: Costanillas
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Don Teodomiro?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Ca\xF1ero"
+    - Catedral
+    - "F\xE1tima"
+    - Centro
+    correctAns: "Ca\xF1ero"
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Do\xF1a Mu\xF1a?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Centro
+    - Catedral
+    - Parque Cruz Conde
+    - Campo de la Verdad
+    correctAns: Catedral
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Batalla del Salado?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fuensanta-Santuario
+    - Naranjo
+    - Parque Cruz Conde
+    - Fidiana
+    correctAns: Naranjo
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Capellan Evangelico Miguel Orti?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Ca\xF1ero"
+    - Fidiana
+    - "F\xE1tima"
+    - Brillante
+    correctAns: Brillante
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 la Glorieta de la Media Luna?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Campo de la Verdad
+    - Huerta de la Marquesa
+    - "Ciudad Jard\xEDn"
+    - Miralbaida
+    correctAns: "Ciudad Jard\xEDn"
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Huerto San Pedro El Real?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Pedro-San Francisco
+    - San Cayetano
+    - Santa Marina
+    - Centro
+    correctAns: San Pedro-San Francisco
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Molino de la Albolafia?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Puente Romano
+    - Campo de la Verdad
+    - Trassierra
+    - Costanillas
+    correctAns: Puente Romano
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1n los Jardines Ni\xF1a del Milagro ?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Ciudad Jard\xEDn"
+    - Parque Cruz Conde
+    - Santa Rosa
+    - La Magdalena
+    correctAns: La Magdalena
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1n los Jardines Juan Carlos I ?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Ciudad Jard\xEDn"
+    - Centro
+    - Parque Cruz Conde
+    - Parque Figueroa
+    correctAns: "Ciudad Jard\xEDn"
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1n los Jardines de la Agricultura?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Tejares
+    - Brillante
+    - "Ciudad Jard\xEDn"
+    - "Vi\xF1uela-Rescatado"
+    correctAns: Tejares
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Dos Torres?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Campo de la Verdad
+    - Levante
+    - "F\xE1tima"
+    correctAns: Brillante
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Escultor Alonso Berruguete?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Barriada la Golondrina
+    - Sector Sur
+    - "Ciudad Jard\xEDn"
+    correctAns: Barriada la Golondrina
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Escultor Martinez Cerrillo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Campo de la Verdad
+    - Camping
+    - Levante
+    correctAns: Camping
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Estrellita Castro?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Costanillas
+    - Brillante
+    - Paraiso Arenal
+    - Las Palmeras
+    correctAns: Paraiso Arenal
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Ferrocarril?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "El Higuer\xF3n"
+    - "Ciudad Jard\xEDn"
+    - Parque Cruz Conde
+    - Costanillas
+    correctAns: "El Higuer\xF3n"
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 la Avda. Fray Albino?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Sector Sur
+    - "F\xE1tima"
+    - Fuensanta-Santuario
+    - "Electromec\xE1nicas"
+    correctAns: Sector Sur
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Frias?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Arcangel
+    - Parque Cruz Conde
+    - Parque Figueroa
+    - La Magdalena
+    correctAns: La Magdalena
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Familia Annea?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Trassierra
+    - Fuensanta-Santuario
+    - Santa Cruz
+    - Alcolea
+    correctAns: Fuensanta-Santuario
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Dulcinea?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Huerta de la Reina
+    - "Ca\xF1ero"
+    - Fidiana
+    - "Ciudad Jard\xEDn"
+    correctAns: "Ca\xF1ero"
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Duque de la Victoria?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Pedro-San Francisco
+    - Levante
+    - Catedral
+    - Campo de la Verdad
+    correctAns: San Pedro-San Francisco

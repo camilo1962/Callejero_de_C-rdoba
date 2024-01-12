@@ -1,0 +1,456 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: 4Data
+  m_EditorClassIdentifier: 
+  categoryName: 4
+  questions:
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Joaqu\xEDn Sama Naharro?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Ciudad Jard\xEDn"
+    - Fuensanta
+    - Huerta de la Reina
+    - Cerro la Golondrina
+    correctAns: Huerta de la Reina
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Torremolinos?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Catedral
+    - Encinarejo
+    - Villarrubia
+    - Sector Sur
+    correctAns: Sector Sur
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Trueque?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - San Pedro-San Francisco
+    - San Lorenzo
+    - Santa Marina
+    correctAns: San Lorenzo
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Und\xE9cima?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Torreblanca
+    - Campo de la Verdad
+    - Cerro la Golondrina
+    - Sector Sur
+    correctAns: Campo de la Verdad
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Utrera?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Sector Sur
+    - Valdeolleros
+    - Santa Marina
+    - Catedral
+    correctAns: Sector Sur
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Turquesa?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - QUEMADILLAS
+    - POLIG. GRANADAL
+    - VALDEOLLEROS
+    - SECTOR SUR
+    correctAns: POLIG. GRANADAL
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Manzanilla?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Naranjo
+    - Costanillas
+    - Aguilarejo
+    - San Lorenzo
+    correctAns: Aguilarejo
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 la Plaza de la Magdalena?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - La Magdalena
+    - "Campi\xF1uela"
+    - "Ciudad Jad\xEDn"
+    - Santacruz
+    correctAns: La Magdalena
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Maestro Priego Lopez?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Valdeolleros
+    - "Ca\xF1ero"
+    - "Ciudad Jard\xEDn"
+    correctAns: "Ciudad Jard\xEDn"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Maestre Escuela?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Urb. Encinares
+    - Campoalegre
+    - "Ciudad Jard\xEDn"
+    - Brillante
+    correctAns: Brillante
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Machaquito?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Huerta de la Reina
+    - Urb. El Sol
+    - Huerta de la Marquesa
+    - Alcolea
+    correctAns: Huerta de la Marquesa
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Londres?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Sector Sur
+    - Las Delicias
+    - Fidiana
+    correctAns: Brillante
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Lucero?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Sector Sur
+    - "Ciudad Jard\xEDn"
+    - "Ca\xF1ero"
+    - Urb. El Sol
+    correctAns: Urb. El Sol
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Lepanto?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Cayetano
+    - Sector Sur
+    - "Ca\xF1ero"
+    - Brillante
+    correctAns: San Cayetano
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 La Ladera?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Levante
+    - Cercadillas
+    - Quemadillas
+    - "Campi\xF1uela"
+    correctAns: Levante
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Juanito Valderrama?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Catedral
+    - Paraiso Arenal
+    - Barriada Golondrina
+    - Villarrubia
+    correctAns: Paraiso Arenal
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Hinojo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Santa Rosa
+    - "San Pablo-San Andr\xE9s"
+    - Margaritas
+    - Las Moreras
+    correctAns: "San Pablo-San Andr\xE9s"
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Los Guindos ?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - La Colina
+    - Villarrubia
+    - Santacruz
+    - Alcolea
+    correctAns: La Colina
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Guadalmedina?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Alcolea
+    - Brillante
+    - Villarrubia
+    - Ribera
+    correctAns: Villarrubia
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Goya?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Huerta de la Reina
+    - Brillante
+    - Santa Rosa
+    - Margaritas
+    correctAns: Huerta de la Reina
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Gin\xE9s de Sepulveda?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Levante
+    - Huerta de la Reina
+    - Margaritas
+    - Encinarejo
+    correctAns: Huerta de la Reina
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Genista?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Sector Sur
+    - "Ciudad Jard\xECn"
+    - "F\xE1tima"
+    - Brillante
+    correctAns: Brillante
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Francisco Pizarro?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fuensanta-Santuario
+    - Santacruz
+    - "F\xE1tima"
+    - "Electromec\xE1nicas"
+    correctAns: Fuensanta-Santuario
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Fray Luis de Granada?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "F\xE1tima"
+    - Tejares
+    - Cercadillas
+    - Arcangel
+    correctAns: Tejares
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1  Pasaje de la Fraternidad?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Naranjo
+    - Sector Sur
+    - Santacruz
+    - Arcangel
+    correctAns: Arcangel
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Finlandia?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Costanillas
+    - Brillante
+    - "Tecnoc\xF3rdoba"
+    - Levante
+    correctAns: "Tecnoc\xF3rdoba"
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Fernando de Cordoba?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Levante
+    - "Higuer\xF3n"
+    - Villarrubia
+    - Tejares
+    correctAns: Tejares
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Fernandez de Cordoba?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Campo de la Verdad
+    - Fray Albino
+    - La Magdalena
+    - "Ca\xF1ero"
+    correctAns: Campo de la Verdad
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Felipe II?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "El \xC1ngel"
+    - "Ciudad Jard\xEDn"
+    - "Nore\xF1a"
+    - Encinarejo
+    correctAns: "Ciudad Jard\xEDn"
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Eucaliptus?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Encinarejo
+    - Alcolea
+    - Brillante
+    - Las Moreras
+    correctAns: Brillante
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1  Pasaje Estepona?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "F\xE1tima"
+    - Levante
+    - Fuensanta
+    - Campo de la Verdad
+    correctAns: "F\xE1tima"
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1  Calle de la Esperanza?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Mirabuenos
+    - San Cayetano
+    - Muriano-Obejo
+    - Levante
+    correctAns: San Cayetano
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1  Escultor Martinez Cerrillo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Nore\xF1a"
+    - "Ciudad Jard\xEDn"
+    - Ronda-CENEMESA
+    - Camping
+    correctAns: Camping
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1  Escuderia?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Levante
+    - "F\xE1tima"
+    - "Ca\xF1ero"
+    correctAns: Brillante
+  - questionInfo: "\xBFA qu\xE9 parque corresponde Escritora Emilia Pardo Bazan?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - El Granadal
+    - Central
+    - Ninguno
+    - Los dos
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque corresponde Escritor Sebastian Cuevas?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Ninguno
+    - Consorcio
+    - El granadal
+    - Central
+    correctAns: El Granadal
+  - questionInfo: "\xBFA qu\xE9 parque corresponde Escritor Leiva Mu\xF1oz?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - Los dos
+    - Ninguno
+    - Granadal
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque corresponde Escritor Castilla Aguayo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - Granadal
+    - Lois dos
+    - Ninguno
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque corresponde Ermita de San Alvaro?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - Ninguno
+    - El Granadal
+    - Consorcio
+    correctAns: El Granadal
+  - questionInfo: "\xBFA qu\xE9 parque corresponde Doctor Blanco Soler?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - El Granadal
+    - Central
+    - Los dos
+    - Ninguno
+    correctAns: Central

@@ -1,0 +1,456 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: 23Data
+  m_EditorClassIdentifier: 
+  categoryName: 23
+  questions:
+  - questionInfo: "\xBFA qu\xE9 parque corresponde Concilio de Nicea?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - El Granadal
+    - Central
+    - No existe
+    - Los dos
+    correctAns: El Granadal
+  - questionInfo: "\xBFA qu\xE9 parque corresponde San Rafael del Albaida?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - El Granadal
+    - Central
+    - No existe
+    - Los dos
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque corresponde Conquistador Ruiz Tafur?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - El Granadal
+    - Central
+    - No existe
+    - Los dos
+    correctAns: El Granadal
+  - questionInfo: "\xBFA qu\xE9 parque corresponde Conquistador Benito de Ba\xF1os?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - El Granadal
+    - Central
+    - No existe
+    - Los dos
+    correctAns: El Granadal
+  - questionInfo: "\xBFA qu\xE9 parque corresponde Glorieta Conde de Guadalorce?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - El Granadal
+    - Central
+    - No existe
+    - Los dos
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque corresponde Conchita Citr\xF3n?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - El Granadal
+    - Central
+    - No existe
+    - Los dos
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque corresponde Escultor Ramon Barba?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - El Granadal
+    - Central
+    - No existe
+    - Los dos
+    correctAns: El Granadal
+  - questionInfo: "\xBFA qu\xE9 parque corresponde Escultor Juan de Mesa?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - El Granadal
+    - Central
+    - No existe
+    - Los dos
+    correctAns: El Granadal
+  - questionInfo: "\xBFA qu\xE9 parque corresponde Escritora Angeles Lopez de Ayala?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - El Granadal
+    - Central
+    - No existe
+    - Los dos
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque corresponde Escritor Cortes Ruano?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - El Granadal
+    - Central
+    - No existe
+    - Los dos
+    correctAns: El Granadal
+  - questionInfo: "\xBFA qu\xE9 parque corresponde el Barrio del Canal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - El Granadal
+    - Central
+    - No existe
+    - Los dos
+    correctAns: Central
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Esca\xF1uela?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Sector Sur
+    - Cerro de la Golondrina
+    - Levante
+    - Centro
+    correctAns: Cerro de la Golondrina
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Enrique II?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Centro
+    - Tejares
+    - "Ciudad Jard\xEDn"
+    - Fray Albino
+    correctAns: Fray Albino
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Enea?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Centro
+    - Cerro de la Golondrina
+    - Parque Cruz Conde
+    correctAns: Brillante
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Fray Martin de Cordoba?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Margaritas-Colonia de la Paz
+    - San Pedro-San Francisco
+    - Valdeolleros
+    - "F\xE1tima"
+    correctAns: Margaritas-Colonia de la Paz
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Fray Juan de Almoguera?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Huerta de la Reina
+    - Naranjo
+    - Sector Sur
+    - Campo de la Verdad
+    correctAns: Naranjo
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Francisco Zueras Torrens?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "F\xE1tima"
+    - Levante
+    - Alcolea
+    - Campo de la Verdad
+    correctAns: "F\xE1tima"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Fray Bartolome de las Casas?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Campo de la Verdad
+    - Cercadillas
+    - Sector Sur
+    - Parque Cruz Conde
+    correctAns: Sector Sur
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Francisco Rabal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Huerta de la Reina
+    - Costanillas
+    - Huerta de la Marquesa
+    - Santa Rosa
+    correctAns: Huerta de la Reina
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Frailes?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Lorenzo
+    - Catedral
+    - "F\xE1tima"
+    - Levante
+    correctAns: San Lorenzo
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Los Genoveses?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 'Santa Rosa '
+    - "F\xE1tima"
+    - Fuensanta-Santuario
+    - Valdeolleros
+    correctAns: Valdeolleros
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Geraneos del Hornillo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Encinarejo
+    - "Urbanizaci\xF3n el Cruce"
+    - Centro
+    - Brillante
+    correctAns: "Urbanizaci\xF3n el Cruce"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Cantaor Antonio Mairena?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Ciudad Jard\xEDn"
+    - Miralbaida
+    - Costanillas
+    - Paraiso Arenal
+    correctAns: Miralbaida
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Pasaje Cantabria?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Arruzafilla-Las Moreras
+    - Arcangel
+    - Levante
+    - "F\xE1tima"
+    correctAns: Arcangel
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Calleja Buenos Vinos?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Costanillas
+    - Catedral
+    - Centro
+    - Levante
+    correctAns: Costanillas
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Buen Pastor?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Valdeolleros
+    - Catedral
+    - "Ciudad Jard\xEDn"
+    - Parque Cruz Conde
+    correctAns: Catedral
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Buen Suceso?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "F\xE1tima"
+    - Sector Sur
+    - Costanillas
+    - "San Pablo-San Andr\xE9s"
+    correctAns: "San Pablo-San Andr\xE9s"
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Pasaje Buena Vista?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Levante
+    - "F\xE1tima"
+    - Sectir Sur
+    - Las Palmeras
+    correctAns: "F\xE1tima"
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Brezo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - "Ciudad Jard\xEDn"
+    - Santa Rosa
+    - Las Moreras-Arruzafilla
+    correctAns: Brillante
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Calleja del Arquitecto Manuel Pastor?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Encinarejo
+    - Catedral
+    - Sector Sur
+    - "F\xE1tima"
+    correctAns: Catedral
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Arquitecto Hurtado Izquierdo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Ca\xF1ero"
+    - "F\xE1tima"
+    - Valdeolleros
+    - Campo de la Verdad
+    correctAns: "Ca\xF1ero"
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Glorieta Cisneros?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - "Ciudad Jard\xEDn"
+    - Parque Cruz Conde
+    - Margaritas-Arruzafilla
+    correctAns: "Ciudad Jard\xEDn"
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 El Cisne?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Cerro de la Golondrina
+    - Brillante
+    - Centro
+    - Valdeolleros
+    correctAns: Cerro de la Golondrina
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Arqueologo Garcia y Bellido?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - huerta de la Reina
+    - Margaritas-Colonia de la Paz
+    - Santa Rosa
+    - Brillante
+    correctAns: Margaritas-Colonia de la Paz
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Ciudad de Archidona?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Levante
+    - Sector Sur
+    - Campo de la Verdad
+    - "Tecnoc\xF3rdoba"
+    correctAns: Levante
+  - questionInfo: "\xBFA qu\xE9 parque corresponde Chaparro?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Granadal
+    - Consorcio
+    - Central
+    - Los tres
+    correctAns: Granadal
+  - questionInfo: "\xBFA qu\xE9 parque corresponde el Pasaje Chiclana?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Al Granadal
+    - Consorcio
+    - Central
+    - Ninguno, no existe
+    correctAns: Al Granadal
+  - questionInfo: "\xBFA qu\xE9 parque corresponde la Avda. de Cervantes?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Granadal
+    - Ninguno
+    - Central
+    - Los dos
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque corresponde Cer\xE1mica?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Granadal
+    - Consorcio
+    - Central
+    - Ninguno, no existe
+    correctAns: Granadal
+  - questionInfo: "\xBFA qu\xE9 parque corresponde Cea?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Granadal
+    - Consorcio
+    - Central
+    - Ninguno, no existe
+    correctAns: Central

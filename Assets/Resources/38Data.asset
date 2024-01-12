@@ -1,0 +1,475 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: 38Data
+  m_EditorClassIdentifier: 
+  categoryName: 38
+  questions:
+  - questionInfo: "\xBFQue ubicaci\xF3n es la correcta?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Plaza de Toros, Huerta de la Marquesa
+    - Campo "El Nuevo Arcangel", Brillante
+    - "Campo \"El Nuevo Arcangel\", San Hip\xF3lito"
+    - "Ca\xF1ito Baz\xE1n, Carretera Puesta en Riegos"
+    correctAns: Plaza de Toros, Huerta de la Marquesa
+  - questionInfo: "Indica en qu\xE9 zona se encuentran las Electromec\xE1nicas"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Zona Sur
+    - Distrito Norte
+    - Periferia noroccidental
+    - Al este de la ciudad
+    correctAns: Periferia noroccidental
+  - questionInfo: "\xBFEn qu\xE9 pol\xEDgono industrial se encuentra la Avenida del
+      Profesor Arnold J. Toynbee ?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Chinales
+    - La Torrecilla
+    - El Granadal
+    - Las Quemadas
+    correctAns: Chinales
+  - questionInfo: "Con el sentido de la circulaci\xF3n nos dirigimos a la plaza de
+      Bellavista desde Madres Escolapias, indica qu\xE9 calle es la primera que podemos
+      girar a la derecha."
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Agust\xEDn de la Oliva"
+    - Palanca
+    - Juan Latino
+    - "T\xE9llez de Meneses"
+    correctAns: Juan Latino
+  - questionInfo: "La calle Acad\xE9mico P\xE9rez Pavia est\xE1 entre las calles:"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Avenida de la Arruzafilla y Av. Turru\xF1uelos"
+    - "Avenida Calasancio y calle Mart\xEDn Saavedra"
+    - "Ab\xE9n Haz\xE1n y calle del Poeta Peralta"
+    - "Calles Londres y M\xE9xico"
+    correctAns: "Avenida Calasancio y calle Mart\xEDn Saavedra"
+  - questionInfo: "Cu\xE1l de los siguientes barrios no se encuentra en C\xF3rdoba?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Zumbac\xF3n"
+    - Valdeolleros
+    - Las Pitas
+    - Cercadilla
+    correctAns: Las Pitas
+  - questionInfo: "Los Jardines de Agricultura se encuentran pr\xF3ximo a la calle:"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - El Viso
+    - Acebo
+    - Acebuche
+    - Arfe
+    correctAns: Arfe
+  - questionInfo: 'Una de estas calles no tiene salida, es un "fondo de saco":'
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Lindo
+    - Osario
+    - "San \xC1lvaro"
+    - "M\xE1laga"
+    correctAns: Lindo
+  - questionInfo: "La calle Rey est\xE1 delimitada por la calles:"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Blanco Belmonte y Badanillas
+    - "Sevilla y \xE1ngel de Saavedra"
+    - Amador de los Rios y Torrijos
+    - "Manuel ruiz Maya y Tom\xE1s de Aquino"
+    correctAns: Blanco Belmonte y Badanillas
+  - questionInfo: "Desde la Catedral, siguiendo en linea recta,\xBF qu\xE9 calle
+      continua a Amador de los Rios?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Tom\xE1s Conde"
+    - Ronda de Isasa
+    - Corregidor Luis Cernuda
+    - Averroes
+    correctAns: Corregidor Luis Cernuda
+  - questionInfo: "La entrada a la Diputaci\xF3n se encuentra en la calle:"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Plaza de Col\xF3n"
+    - Plaza de las Tendillas
+    - Glorieta de Hiroshima y Nagasaki
+    - Glorieta de la Media Luna
+    correctAns: "Plaza de Col\xF3n"
+  - questionInfo: "Atendiendo al sentido de la circulaci\xF3n, la calle Marruecos
+      termina enla calle"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Antonio Maura
+    - Camino de los Sastres
+    - Felipe II
+    - Avenida Medina Azahara
+    correctAns: Antonio Maura
+  - questionInfo: "\xBFQu\xE9 calle no es paralela a la calle de la Conferencia?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Calle de la Asociaci\xF3n"
+    - Calle de la Junta
+    - Calle del Sindicato
+    - Calle del Consejo de Distrito
+    correctAns: Calle del Consejo de Distrito
+  - questionInfo: "\xBFQu\xE9 calle es paralela a la Avenida Conde Vallellano?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Calle del Doctor \xC1lvarez Garc\xEDa"
+    - Avenida del Aeropuerto
+    - Avenida del Doctor Fleming
+    - "Calle Gregorio Mara\xF1\xF3n"
+    correctAns: "Calle del Doctor \xC1lvarez Garc\xEDa"
+  - questionInfo: "\xBFQu\xE9 calle es perpendicular a Don Lope de Sosa?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Jos\xE9 Mar\xEDa Valdenebro"
+    - "Maestro Priego L\xF3pez"
+    - "Infanta Do\xF1a Mar\xEDa"
+    - Los Alderetes
+    correctAns: "Infanta Do\xF1a Mar\xEDa"
+  - questionInfo: "La plaza de Espa\xF1a tambi\xE9n se llama...?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Plaza de Gonzalo de Ayora
+    - "Plaza de la Constituci\xF3n"
+    - Plaza de los Carrillos
+    - Plaza Chirinos
+    correctAns: Plaza de Gonzalo de Ayora
+  - questionInfo: "Atendiendo al sentido de la circulaci\xF3n, para entrar en la
+      calle Fray Luis de Ganada desde el inicio, debemos estar en la ?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Calle Alhaken II
+    - "Avenida Am\xE9rica"
+    - "Avenida del Gran Capit\xE1n"
+    - Glorieta de las Tres Culturas
+    correctAns: "Avenida del Gran Capit\xE1n"
+  - questionInfo: "\xBFQu\xE9 dos calles llegan o salen de la Glorieta Santa Mar\xEDa
+      de Rodat?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Pedro de Madrazo y Funcionario L\xE1zaro Navajas"
+    - "Ab\xE9n Cuzm\xE1n y calle de las Pulidoras"
+    - "Periodista Gago Jim\xE9nez y Pablo Ruiz Picasso"
+    - "Avenida Jes\xFAs Rescatado y Avenida de Libia"
+    correctAns: "Periodista Gago Jim\xE9nez y Pablo Ruiz Picasso"
+  - questionInfo: "\xBF Qu\xE9 dos calles se entrecruzan?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Avenida Jes\xFAs Rescatado y Avenida de Libia"
+    - Raimundo Lulio y Espejo Blancas
+    - "Avenida Carlos II y Sor \xC1ngela de la Cruz"
+    - Avenida del Brillante y Espejo Blancas
+    correctAns: "Avenida Jes\xFAs Rescatado y Avenida de Libia"
+  - questionInfo: "\xBFQu\xE9 plaza une la Avenida Ollar\xEDas con Cronista Salcedo
+      Hierro?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Plaza Chirinos
+    - Plaza San Cayetano
+    - "Plaza de Ca\xF1ero"
+    - Plaza de  la Flor del Olivo
+    correctAns: Plaza de  la Flor del Olivo
+  - questionInfo: "Si hay un incendio en la Gerencia Municipal de Urbanismo, \xBFqu\xE9
+      calle es la m\xE1s cercana?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Avenida Medina Azahara
+    - Plaza de las Tendillas
+    - Calle Torrijos
+    - Caballerizas Reales
+    correctAns: Avenida Medina Azahara
+  - questionInfo: "\xBFQu\xE9 calles confluyen en la Plaza del Mediod\xEDa ?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Loja y Algeciras
+    - Huelva y Algeciras
+    - Pasaje Ubrique y Libertador Sucre
+    - Padre Morales y Pintor Espinosa
+    correctAns: Loja y Algeciras
+  - questionInfo: "\xBFCual de las siguiente no est\xE1 pr\xF3xima a la Avenida Men\xE9ndez
+      Pidal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Alberto Magno
+    - "Castello d\xB4Empuries"
+    - Padre Morales
+    - Madres Escolapias
+    correctAns: Madres Escolapias
+  - questionInfo: "\xBFQu\xE9 calle es la mas alejada del Parque de Bomberos El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Poeta Miguel Hern\xE1ndez"
+    - Laurel
+    - "C\xE1rcamo"
+    - Rodrigo de Triana
+    correctAns: "Poeta Miguel Hern\xE1ndez"
+  - questionInfo: "\xBFCual de estas parejas de calles no se interseccionan?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Poeta Luis Cernuda y Obispo Azcargorta
+    - "Caravaca de la Cruz y Hermano Luj\xE1n"
+    - Nieves Viejas y Pozo de dos Bocas
+    - "Luis Ponce de Le\xF3n y Virgen del Rayo"
+    correctAns: "Luis Ponce de Le\xF3n y Virgen del Rayo"
+  - questionInfo: "Si entramos a C\xF3rdoba por Sevilla, que pol\xEDgono industrial
+      nos encontramos?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - La Torrecilla
+    - El Granadal
+    - Chinales
+    - Las Quemadas
+    correctAns: La Torrecilla
+  - questionInfo: 'Indica la calle sin salida:'
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Calle de las Flores
+    - Calle Judios
+    - "Tom\xE1s Conde"
+    - Betis
+    correctAns: Calle de las Flores
+  - questionInfo: "Nos indican un fuego en el cuadro el\xE9ctrico del Gran Teatro
+      \xBFEn qu\xE9 calle se encuentra?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Plaza de las Tendillas
+    - Plaza de los Carrillos
+    - Alfonso XIII
+    - "Avenida del Gran Capit\xE1n"
+    correctAns: "Avenida del Gran Capit\xE1n"
+  - questionInfo: "Aviso de fuego de pastos en el Entorno del Colegio La Aduana ,
+      \xBFqu\xE9 carretera debemos coger?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Villaviciosa
+    - Sevilla
+    - Aeropuerto
+    - Madrid
+    correctAns: Villaviciosa
+  - questionInfo: "\xBFQue calle est\xE1 m\xE1s cerca del Parque de Bomberos Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Mar\xEDa Zambrano"
+    - Teresa de Calcuta
+    - "Mar\xEDa Montesori"
+    - "Pepe Espali\xFA"
+    correctAns: "Pepe Espali\xFA"
+  - questionInfo: "\xBFQue calle est\xE1 m\xE1s cerca del Parque de Bomberos \"El
+      Granadal\"?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Naranjal de Almagro
+    - Pintor Espinosa
+    - "Pintor Zurbar\xE1n"
+    - Dulcinea
+    correctAns: Dulcinea
+  - questionInfo: "\xBFQu\xE9 otro nombre recibe la calle Claudio Marcelo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Calle Nueva
+    - Calle Vieja
+    - Calle Empedrada
+    - Calle Marcos Redondo
+    correctAns: Calle Nueva
+  - questionInfo: "Si nos dirigimos a  la Delegaci\xF3n de Educaci\xF3n de la Junta
+      de Andaluc\xEDa, \xBFqu\xE9 calles debemos circular para ir desde el Parque
+      Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Av de los Custodios, Escritor Azor\xEDn, Rosa Chacel..."
+    - "Pintor Espinosa, Avenida de lo0s Custodios, Men\xE9ndez Pidal..."
+    - Avenida de los Custodios, Avenida del Corregidor,...
+    - Avenida de los Custodios, Avenida Conde Vallellano...
+    correctAns: "Av de los Custodios, Escritor Azor\xEDn, Rosa Chacel..."
+  - questionInfo: "La calle Arcos de la Frontera est\xE1 en el barrio :"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Sector Sur
+    - Campo de la Verdad
+    - Campo de la Merced
+    - "F\xE1tima"
+    correctAns: "F\xE1tima"
+  - questionInfo: "\xBFCual de los siguientes lugares no est\xE1 en C\xF3rdoba?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Chinales
+    - Asomadilla
+    - Tablero
+    - Tomateras
+    correctAns: Tomateras
+  - questionInfo: "\xBF Qu\xE9 barrio es el de mayor poblaci\xF3n, seg\xFAn el patr\xF3n
+      de 01/01/2002?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Levante
+    - Sector Sur
+    - Brillante
+    - Huerta de la Reina
+    correctAns: Levante
+  - questionInfo: "\xBF Qu\xE9 ibarrio es el menos poblado, seg\xFAn el censo de
+      2002?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Villarrubia
+    - San Rafael del Albaida
+    - Arruzafilla
+    - Huerta de Santa Isabel
+    correctAns: San Rafael del Albaida
+  - questionInfo: "Los Ba\xF1os de Popea se encuentran en:"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "El Higuer\xF3n"
+    - Villarrubia
+    - El Brillante
+    - "Santa Mar\xEDa Trassierra"
+    correctAns: "Santa Mar\xEDa Trassierra"
+  - questionInfo: "\xBF Qu\xE9 lugar se encuentra m\xE1s cerca del parque  de Bomberos
+      Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "IES S\xE9neca"
+    - IES Blas Infante
+    - IES Fidiana
+    - "IES Maim\xF3nides"
+    correctAns: "IES S\xE9neca"
+  - questionInfo: "\xBFQu\xE9 calle no es de del barrio Figueroa?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Avenida del Mediterraneo
+    - Pasaje Marino Argote
+    - Pasaje Marino Oquendo
+    - Avenida de  la Arruzafilla
+    correctAns: Avenida de  la Arruzafilla

@@ -1,0 +1,458 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: 31Data
+  m_EditorClassIdentifier: 
+  categoryName: 31
+  questions:
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Cuevas de la Gran Roma?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Valdeolleros
+    - Parque Cruz Conde
+    - Levante
+    correctAns: Brillante
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Cuesta del Peromato?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Catedral
+    - San Lorenzo
+    - Costanillas
+    - Naranjo
+    correctAns: Catedral
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Curreles, Francisco Jimenez?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Costanillas
+    - Fuensanta-Santuario
+    - Levante
+    - "F\xE1tima"
+    correctAns: Costanillas
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Custodio?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Catedral
+    - "Ciudad Jard\xEDn"
+    - Brillante
+    - San Lorenzo
+    correctAns: San Lorenzo
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Cuesta?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Naranjo
+    - Levante
+    - Brillante
+    - Campo de la Verdad
+    correctAns: Naranjo
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Crucifijo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fray Albino
+    - Catedral
+    - Ribera
+    - La Magdalena
+    correctAns: La Magdalena
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Paseo del Cristo del Descendimiento?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Catedral
+    - Fray Albino
+    - Santa Rosa
+    - Campo de la Verdad
+    correctAns: Fray Albino
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Ciudad de Mengibar?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Levante
+    - Brillante
+    - Valdeolleros
+    - Santa Rosa
+    correctAns: Levante
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Avda. Clara Campoamor?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Las Palmeras
+    - Arruzafilla-Las Moreras
+    - Riber
+    - "F\xE1tima"
+    correctAns: Arruzafilla-Las Moreras
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Cobo de Guzm\xE1n?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fray Albino
+    - Valdeolleros
+    - Catedral
+    - Ribera
+    correctAns: Valdeolleros
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Comandante Velazquez?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Santa Rosa
+    - Huerta de la Reina
+    - Fidiana
+    - Brillante
+    correctAns: Santa Rosa
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Compas de San Francisco?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Pedro-San Francisco
+    - "F\xE1tima"
+    - Catedral
+    - Ribera
+    correctAns: San Pedro-San Francisco
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Cometa?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Urbanizaci\xF3n El Sol"
+    - "Ciudad Jard\xEDn"
+    - Parque Cruz Conde
+    - Huerta de la Marquesa
+    correctAns: "Urbanizaci\xF3n El Sol"
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Damian de Castro?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Valdeolleros
+    - Levante
+    - Fidiana
+    - "F\xE1tima"
+    correctAns: Levante
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Daza de Valdes?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Naranjo
+    - Brillante
+    - San Lorenzo
+    - Valdeolleros
+    correctAns: Valdeolleros
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Dean Francisco Javier?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Margaritas-Colonia de la Paz
+    - Naranjo
+    - Sector Sur
+    - Parque Cruz Conde
+    correctAns: Naranjo
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Descubridor Juan Diaz de Solis?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Sector Sur
+    - Levante
+    - Arruzafilla-Las Moreras
+    - Azahara
+    correctAns: Sector Sur
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Descubridor Francisco Hernandez de
+      Cordoba?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Azahara
+    - Sector Sur
+    - Levante
+    - Arruzafilla-Las Moreras
+    correctAns: Sector Sur
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Descubridor Vicente Ya\xF1ez Pinzon?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Arruzafilla-Las Moreras
+    - Azahara
+    - Sector Sur
+    - Levante
+    correctAns: Sector Sur
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Gomez Bravo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Ciudad Jard\xEDn"
+    - Arruzafilla-Las Moreras
+    - Villarrubia
+    - Margaritas-Colonia de la Paz
+    correctAns: Margaritas-Colonia de la Paz
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Gonzalo Ximenez de Quesada?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Ciudad Jard\xEDn"
+    - San Pedro-San Francisco
+    - Margaritas-Colonia de la Paz
+    - Sector Sur
+    correctAns: "Ciudad Jard\xEDn"
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Gragea?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Pedro-San Francisco
+    - Tejares
+    - Sector Sur
+    - Huerta de la Marquesa
+    correctAns: San Pedro-San Francisco
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Gutierrez de los Rios Antigua calle
+      Almonas?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Pedro-San Francisco
+    - Catedral
+    - "F\xE1tima"
+    - Ribera
+    correctAns: San Pedro-San Francisco
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Haza San Antonio?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante-Los Morales
+    - "Ca\xF1ero"
+    - Fidiana
+    - Villarrubia
+    correctAns: Brillante-Los Morales
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Libertador Sucre?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Sector Sur
+    - Levante
+    - Fidiana
+    - Valdeolleros
+    correctAns: Sector Sur
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Libertador Hidalgo y Costilla?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Sector Sur
+    - Fidiana
+    - Fuensanta-Santuario
+    - Ribera
+    correctAns: Sector Sur
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Libertador Juan Rafael Mora?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fidiana
+    - Sector Sur
+    - Quemadillas
+    - Centro
+    correctAns: Sector Sur
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Lindo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Parque Cruz Conde
+    - Centro
+    - Santa Rosa
+    - Valdeolleros
+    correctAns: Centro
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Libertadora Manuela Saenz?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Ribera
+    - Huerta de la Marquesa
+    - Santa Rosa
+    - Sector Sur
+    correctAns: Sector Sur
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 la Avda. de Linneo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Campo de la Verdad
+    - Parque Cruz Conde
+    - Fidiana
+    - Santa Rosa
+    correctAns: Parque Cruz Conde
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Manchado?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Lorenzo
+    - Santa Marina
+    - "San Pablo-San Andr\xE9s"
+    - Catedral
+    correctAns: "San Pablo-San Andr\xE9s"
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Los Omeyas?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Cerdadillas
+    - Sector Sur
+    - Campo de la Verdad
+    - Levante
+    correctAns: Cerdadillas
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Avda. Oller\xEDas?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Centro
+    - Santa Marina
+    - Campo de la Verdad
+    - Huerta de la Marquesa
+    correctAns: Santa Marina
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Obispo Fitero?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Centro
+    - Fidiana
+    - "Ca\xF1ero"
+    - Brillante
+    correctAns: Centro
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Olmillo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Centro
+    - Brillante
+    - Campo de la Verdad
+    - fidiana
+    correctAns: Centro
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Osario?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Sector Sur
+    - Catedral
+    - Centro
+    - Huerta de la Marquesa
+    correctAns: Centro
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Paco Natera?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Arruzafilla-Las Moreras
+    - "F\xE1tima"
+    - "Tecnoc\xF3rdoba"
+    - Brillante
+    correctAns: "F\xE1tima"
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Palanca?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Naranjo
+    - Fuensanta-Santuario
+    - Sector Sur
+    - Campo de la Verdad
+    correctAns: Naranjo
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Patio Pico de Mulhacen?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Santa Rosa
+    - Las Palmeras
+    - Catedral
+    - Arruzafilla-Las Moreras
+    correctAns: Las Palmeras
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Pintor Arbasia?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Valdeolleros
+    - Parque Figueroa
+    - Centro
+    - Naranjo
+    correctAns: Valdeolleros

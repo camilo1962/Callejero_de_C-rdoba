@@ -1,0 +1,457 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: 33Data
+  m_EditorClassIdentifier: 
+  categoryName: 33
+  questions:
+  - questionInfo: "\xBFEn qu\xE9 barrio se encuentra Aben Guzm\xE1n? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Ca\xF1ero"
+    - ValdeolleroaBrillante
+    - Campo de la Verdad
+    - Parque Figueroa
+    correctAns: "Ca\xF1ero"
+  - questionInfo: "\xBFEn qu\xE9 barrio se encuentra Aben Mazarra?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "El Higuer\xF3n"
+    - Huerta de la Reina
+    - Valdeolleros
+    - Huerta de la Marquesa
+    correctAns: Valdeolleros
+  - questionInfo: "\xBFEn qu\xE9 barrio se encuentra Acad\xE9mica Garc\xEDa Moreno? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - "Figueroa-Comisar\xEDa"
+    - Levante
+    - Sector Sur
+    correctAns: "Figueroa-Comisar\xEDa"
+  - questionInfo: "\xBFEn qu\xE9 barrio se encuentra Acad\xE9mico Moreno? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Cercadillas
+    - Brillante
+    - "Higuer\xF3n"
+    - "Ciudad Jard\xEDn"
+    correctAns: Brillante
+  - questionInfo: "\xBFEn qu\xE9 barrio se encuentra Acad\xE9mico Gracia Boix ?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Cercadillas
+    - Las Moreras-Arruzafilla
+    - Las Palmeras
+    correctAns: Cercadillas
+  - questionInfo: "\xBFEn qu\xE9 barrio se encuentra Acad\xE9mico Dionisio Ortiz
+      Juarez? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Margaritas-Colonia de la Paz
+    - Ribera
+    - Brillante
+    - Arruzafilla-Las Moreras
+    correctAns: Margaritas-Colonia de la Paz
+  - questionInfo: "\xBFEn qu\xE9 barrio se encuentra Acad\xE9mico Aguilar Priego? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Ribera
+    - Levante
+    - Margaritas-Colonia de la Paz
+    correctAns: Brillante
+  - questionInfo: "\xBFEn qu\xE9 barrio se encuentra Acad\xE9mico Saraza? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Naranjo
+    - Huerta de la Reina
+    - Brillante
+    - Margaritas-Colonia de la Paz
+    correctAns: Naranjo
+  - questionInfo: "\xBFEn qu\xE9 barrio se encuentra Alhondiguilla? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Valdeolleros
+    - "Zumbac\xF3n"
+    - Brillante
+    - Santa Rosa
+    correctAns: "Zumbac\xF3n"
+  - questionInfo: "\xBFEn qu\xE9 barrio se encuentra Almanzor? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Ribera
+    - Catedral
+    - Parque Cruz Conde
+    - Santa Marina
+    correctAns: Catedral
+  - questionInfo: "\xBFEn qu\xE9 barrio se encuentra Amparo? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Catedral-Ribera
+    - Campo de la Verdad
+    - Valdeolleros
+    - Naranjo
+    correctAns: Catedral-Ribera
+  - questionInfo: "\xBFEn qu\xE9 barrio se encuentra Analista Ada Byron? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Parque Figueroa
+    - "Figueroa-Comisar\xEDa"
+    - Sector Sur
+    - Costanillas
+    correctAns: "Figueroa-Comisar\xEDa"
+  - questionInfo: "\xBFEn qu\xE9 barrio se encuentra Anastasio Rela\xF1o? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Costanillas
+    - "Ciudad Jard\xEDn"
+    - Parque Cruz Conde
+    - Huerta de la Reina
+    correctAns: Huerta de la Reina
+  - questionInfo: "\xBFEn qu\xE9 barrio se encuentra Ana Garcia Cuenca? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Santa Marina
+    - Brillante
+    - Sector Sur
+    - Fidiana
+    correctAns: Brillante
+  - questionInfo: "\xBFEn qu\xE9 barrio se encuentra Arabista Manuel Oca\xF1a Jim\xE9nez? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Huerta de la Reina
+    - Huerta de la Marquesa
+    - "Ciudad Jard\xEDn"
+    - Levante
+    correctAns: Huerta de la Marquesa
+  - questionInfo: "\xBFEn qu\xE9 barrio se encuentra Ciudad de Buckara? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fray Albino
+    - "F\xE1tima"
+    - Levante
+    - "Tecnoc\xF3rdoba"
+    correctAns: "F\xE1tima"
+  - questionInfo: "\xBFEn qu\xE9 barrio se encuentra Arquitecto Juan Ochoa? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Huerta de la Marquesa
+    - Brillante
+    - Valdeolleros
+    - Levante
+    correctAns: Brillante
+  - questionInfo: "\xBFEn qu\xE9 barrio se encuentra Arroyo de San Rafael? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "San Pablo-San Andr\xE9s"
+    - San Lorenzo
+    - Santa Marina
+    - Catedral
+    correctAns: "San Pablo-San Andr\xE9s"
+  - questionInfo: "\xBFEn qu\xE9 barrio se encuentra Glorieta Artilleros? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Patriarca-Arruzafilla
+    - Centro
+    - Sector Sur
+    - Campo de la Verdad
+    correctAns: Centro
+  - questionInfo: "\xBFEn qu\xE9 barrio se encuentra Arroyo del Vedao? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Lorenzo
+    - Valdeolleros
+    - Huerta de la Marquesa
+    - Patriarca-Arruzafilla
+    correctAns: Patriarca-Arruzafilla
+  - questionInfo: "\xBFQu\xE9 calle desemboca en la Avda la Arruzafilla? ? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Victoria Kent
+    - Betis
+    - Goya
+    - "Do\xF1a Berenguela"
+    correctAns: Victoria Kent
+  - questionInfo: "\xBFA qu\xE9 zona pertenece  la calle Asturias?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Ciudad Jard\xEDn"
+    - Sector Sur
+    - Campo de la Verdad
+    - Brillante
+    correctAns: Sector Sur
+  - questionInfo: "\xBFA qu\xE9 zona pertenece  As\xEDn Palacios?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Rafael del Albaida
+    - Huerta de la Marquesa
+    - Campo de la Verdad
+    - Margaritas-Colonia de la Paz
+    correctAns: Margaritas-Colonia de la Paz
+  - questionInfo: "\xBFA qu\xE9 zona pertenece  la calle Cabezas?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Cercadillas
+    - Valdeolleros
+    - Ribera
+    - Catedral
+    correctAns: Catedral
+  - questionInfo: "\xBFA qu\xE9 zona pertenece  la calle Cabra?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Valdeolleros
+    - Campo de la Verdad
+    - Sector Sur
+    - Centro
+    correctAns: Sector Sur
+  - questionInfo: "\xBFA qu\xE9 zona pertenece  Camino de la Barca?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Huerta de la Marquesa
+    - Arcangel
+    - "F\xE1tima"
+    - Fidiana
+    correctAns: Arcangel
+  - questionInfo: "\xBFA qu\xE9 zona pertenece  Pasaje Camino de la Gregoria?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Lorenzo
+    - Patriarca-Arruzafa
+    - Carretera del Aeropuerta
+    - Carbonell
+    correctAns: Patriarca-Arruzafa
+  - questionInfo: "\xBFA qu\xE9 zona pertenece  Diego M\xE9ndez?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fray Albino
+    - Vallellano
+    - La Magdalena
+    - Tejares
+    correctAns: La Magdalena
+  - questionInfo: "\xBFA qu\xE9 zona pertenece  Doctor Francisco Bueno?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Santa Rosa
+    - Brillante
+    - Levante
+    - "F\xE1tima"
+    correctAns: Brillante
+  - questionInfo: "\xBFA qu\xE9 zona pertenece  Doctor Juan Barbudo Ortiz?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Santa Rosa
+    - "F\xE1tima"
+    - Parque Cruz Conde
+    - Vallellano
+    correctAns: "F\xE1tima"
+  - questionInfo: "\xBFA qu\xE9 zona pertenece  Doctor Julian Ruiz Martin?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "F\xE1tima"
+    - Parque Cruz Conde
+    - Brillante
+    - Levante
+    correctAns: Parque Cruz Conde
+  - questionInfo: "\xBFA qu\xE9 zona pertenece  Doctor Gomez Aguado?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Levante
+    - Parque Cruz Conde
+    - Vallellano
+    - "Ciudad Jard\xEDn"
+    correctAns: Levante
+  - questionInfo: "\xBFA qu\xE9 zona pertenece  Doctor Jim\xE9nez D\xEDaz?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Vallellano
+    - Brillante
+    - Levante
+    - Parque Cruz Conde
+    correctAns: Vallellano
+  - questionInfo: "\xBFA qu\xE9 zona pertenece  Doctora Matilde Montoya?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Levante
+    - Parque Cruz Conde
+    - San Rafael del Albaida
+    - Vista Alegre
+    correctAns: San Rafael del Albaida
+  - questionInfo: "\xBFA qu\xE9 zona pertenece  Do\xF1a Mencia?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Campo de la Verdad
+    - Sector Sur
+    - Parque Cruz Conde
+    - "F\xE1tima"
+    correctAns: Sector Sur
+  - questionInfo: "\xBFA qu\xE9 zona pertenece  Egido?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Catedral
+    - Campo de la Verdad
+    - Levante
+    - Sector Sur
+    correctAns: Campo de la Verdad
+  - questionInfo: "\xBFA qu\xE9 zona pertenece  Encarnaci\xF3n?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Pedro-San Francisco
+    - Catedral
+    - San Lorenzo
+    - Santa Marina
+    correctAns: Catedral
+  - questionInfo: "\xBFA qu\xE9 zona pertenece  Encarnaci\xF3n Agustina?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - La Magdalena
+    - Fray Albino
+    - Catedral
+    - Brillante
+    correctAns: La Magdalena
+  - questionInfo: "\xBFA qu\xE9 zona pertenece  Escultor Juan de Mesa?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Levante
+    - San Pedro-San Francisco
+    - Santa Marina
+    correctAns: San Pedro-San Francisco
+  - questionInfo: "\xBFA qu\xE9 zona pertenece  Espejo Blancas?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Levante
+    - Valdeolleros
+    - Santa Rosa
+    - Centro
+    correctAns: Valdeolleros

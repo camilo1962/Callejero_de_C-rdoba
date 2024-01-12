@@ -1,0 +1,456 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: 20Data
+  m_EditorClassIdentifier: 
+  categoryName: 20
+  questions:
+  - questionInfo: "\xBFA qu\xE9 parque pertenece la Avda. Jes\xFAs Rescatado?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Granadal
+    - Ninguno
+    - Central
+    - Consorcio
+    correctAns: Granadal
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque Granadal?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Jes\xFAs Nazareno"
+    - Alcalde Sanchez Badajoz
+    - Alcalde Guzman Reina
+    - Alcalde Aparicio y Marin
+    correctAns: "Jes\xFAs Nazareno"
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Plaza Jazm\xEDn"
+    - Atlantico
+    - Aulaga
+    - La Austriada
+    correctAns: "Plaza Jazm\xEDn"
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Jardines del Duque de Rivas
+    - Alvarez de los Angeles
+    - Anton Montoro
+    - Algazel
+    correctAns: Jardines del Duque de Rivas
+  - questionInfo: "\xBFA qu\xE9 parque pertenecen los Jardines de la Victoria?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Granadal
+    - Ninguno
+    - Central
+    - Los dos
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenecen los Jardines de la Merced?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Granadal
+    - Ninguno
+    - Central
+    - Consorcio
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece la calle Jaen?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Granadal
+    - Ninguno
+    - Central
+    - Consorcio
+    correctAns: Central
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque Granadal?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Islandia
+    - Alcalde Pineda Infantas y Castillejo
+    - Alcalde Fernandez de Mesas Porras
+    - Alcazaba
+    correctAns: Islandia
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Isla de Lanzarote?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Granadal
+    - Ninguno
+    - Central
+    - Consorcio
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Isla de Madeira?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Granadal
+    - Ninguno
+    - Central
+    - Consorcio
+    correctAns: Central
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque Granadal?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Antonio Chacon
+    - Antonio de la Torre y del Cerro
+    - Antonio del Castillo
+    - Isaac Peral
+    correctAns: Isaac Peral
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Ingeniero Ruiz de Azua?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Granadal
+    - Ninguno
+    - Central
+    - Consorcio
+    correctAns: Granadal
+  - questionInfo: "\xBFA qu\xE9 parque pertenece El Cerro la Golondrina?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Granadal
+    - Ninguno
+    - Central
+    - Consorcio
+    correctAns: Granadal
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque Central? "
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Carrillo Sotomayor
+    - Cartago
+    - Carmen Rico Godoy
+    - "General Lazaro C\xE1rdenas"
+    correctAns: "General Lazaro C\xE1rdenas"
+  - questionInfo: "\xBFQu\xE9 calle pertenece al parque Granadal?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Escultor Fern\xE1ndez M\xE1rquez"
+    - Antonio Fraguero
+    - Antonio Gaudi
+    - Pasaje Antonio Nebrija
+    correctAns: "Escultor Fern\xE1ndez M\xE1rquez"
+  - questionInfo: "\xBFQue calle corresponde al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Altucitrano
+    - Alvar Rodriguez
+    - Alvaro Paulo
+    - Eduardo Lucena
+    correctAns: Eduardo Lucena
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Doctor Severo Ochoa?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Granadal
+    - Ninguno
+    - Central
+    - Consorcio
+    correctAns: Central
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Antonio de la Torre y del Cerro
+    - "Plaza de Ca\xF1ero"
+    - Antonio del Castillo
+    - Antonio de la Torre y del Cerro
+    correctAns: "Plaza de Ca\xF1ero"
+  - questionInfo: "\xBFA qu\xE9 parque pertenece la Avda. Ca\xF1ito Baz\xE1n?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Granadal
+    - Ninguno
+    - Central
+    - Consorcio
+    correctAns: Central
+  - questionInfo: "\xBFQu\xE9 calle pertenece al Parque Granadal?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Arqueologo Antonio Blanco
+    - Arabista Joaquina Eguaras
+    - Candelaria
+    - "A\xF1ora"
+    correctAns: Candelaria
+  - questionInfo: "\xBFA qu\xE9 parque pertenece la Avda Campo de la Verdad?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Granadal
+    - Ninguno
+    - Central
+    - Consorcio
+    correctAns: Granadal
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Campo Mader de Dios?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - No Existe
+    - La Magdalena
+    - Arcangel
+    - "Nore\xF1a"
+    correctAns: La Magdalena
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Camino de la Albaida?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Huerta de la Reina
+    - "Ciudad Jard\xEDn"
+    - Patriarca-Arruzafa
+    - Arruzafilla-Las Moreras
+    correctAns: Patriarca-Arruzafa
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Calleja Barqueros?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Centro
+    - Catedral
+    - Campo de la Verdad
+    - Fuensanta-Santuario
+    correctAns: Centro
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Barroso?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Santa Rosa
+    - "Ciudad Jard\xEDn"
+    - Centro
+    correctAns: Centro
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Traves\xEDa Barrionuevo?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Costanillas
+    - La Magdalena
+    - Sector Sur
+    - Parque Cruz Conde
+    correctAns: La Magdalena
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Batalla de los Piconeros?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fray Albino
+    - Catedral
+    - Huerta de la Reina
+    - Huerta de la Marquesa
+    correctAns: Fray Albino
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Pasaje Batalla de Lepanto?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Parque Figueroa
+    - Campo de la Verdad
+    - Funsanta-Santuario
+    - Santa Rosa
+    correctAns: Parque Figueroa
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1  Baron de Fuente Quinto?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Tejares
+    - Centro
+    - "F\xE1tima"
+    correctAns: Brillante
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Pasaje Barber\xEDa Jornet?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - No existe
+    - "Ca\xF1ero"
+    - "F\xE1tima"
+    - Fuensanta-Santuario
+    correctAns: "Ca\xF1ero"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1  Pasaje Ayamonte?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Sector Sur
+    - Campo de la Verdad
+    - Brillante
+    - Arruzafilla-Las Moreras
+    correctAns: Sector Sur
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Plaza Arzobispo Romero Mengibar?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Levante
+    - "F\xE1tima"
+    - Sector Sur
+    - Campo de la Verdad
+    correctAns: "F\xE1tima"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1  Plaza de las Artes?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fuensanta-Santuario
+    - "F\xE1tima"
+    - Fidiana
+    - "San Pablo-San Andr\xE9s"
+    correctAns: Fidiana
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Arroyo San andr\xE9s?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "San Pablo-San Andr\xE9s"
+    - San Cayetano
+    - San Basilio
+    - Santa Marina
+    correctAns: "San Pablo-San Andr\xE9s"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Callej\xF3n Arquillos?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Parque Cruz Conde
+    - "Higuer\xF3n"
+    - Catedral
+    - No Existe
+    correctAns: Catedral
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Arquitecto Asensio?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Catedral
+    - "Ciudad Jard\xEDn"
+    - Levante
+    correctAns: Brillante
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Plaza Carrillos?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Centro
+    - Las Palmeras
+    - Brillante
+    - Arruzafilla-Las Moreras
+    correctAns: Centro
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Armando Dufours?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - No Existe
+    - Centro
+    - "Ciudad Jard\xEDn"
+    - Brillante
+    correctAns: Brillante
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Claustro?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Ribera
+    - Catedral
+    - No existe
+    - Fray Albino
+    correctAns: Ribera
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Ciudad de Cuzco?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - No Existe
+    - Fray Albino
+    - Parque Cruz Conde
+    - "Tecnoc\xF3rdoba"
+    correctAns: Fray Albino

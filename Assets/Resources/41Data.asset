@@ -1,0 +1,476 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: 41Data
+  m_EditorClassIdentifier: 
+  categoryName: 41
+  temaTipo: REAL
+  questions:
+  - questionInfo: "\xBFQue ubicaci\xF3n es la correcta?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Vered\xF3n de los Frailes, Carretera de Palma"
+    - "Vered\xF3n de los Frailes, El Brillante"
+    - "Vered\xF3n de los Frailes, Carretera de Villaviciosa"
+    - Ninguna correcta
+    correctAns: "Vered\xF3n de los Frailes, Carretera de Palma"
+  - questionInfo: Indica de las siguientes ubicaciones , donde se encuentra el hospital
+      de la Cruz Roja.
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Puerta de Almodovar
+    - Puerta Sevilla
+    - Puerta del Puente
+    - "Puerta del Rinc\xF3n"
+    correctAns: Puerta de Almodovar
+  - questionInfo: "\xBFEn qu\xE9 pol\xEDgono industrial se encuentra la calle del
+      Profesor Arnold Jarold Toynbee?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Ninguna es correcta
+    - La Torrecilla
+    - El Granadal
+    - Parque Joyero
+    correctAns: Ninguna es correcta
+  - questionInfo: "Con el sentido de la circulaci\xF3n nos dirigimos a la plaza de
+      Toros de los Califas desde la plaza Ibn Zaydun, indica qu\xE9 calle es la primera
+      que podemos girar a la derecha."
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Machaquito
+    - "Manuel Ben\xEDtez"
+    - Julio Pellicer
+    - Ninguna
+    correctAns: "Manuel Ben\xEDtez"
+  - questionInfo: "la calle de Portugal est\xE1 comunicada con las calles:"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Pedro Nolasco Mel\xE9ndez y Escritor Mercado Sol\xEDs"
+    - "Almacari y As\xEDn Palacios"
+    - "Rio N\xE9valo y Sagrada Familia"
+    - Isla Lanzarote e Islas Sisargas
+    correctAns: "Almacari y As\xEDn Palacios"
+  - questionInfo: "Cu\xE1l de los siguientes no se encuentra en C\xF3rdoba?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Arroyo del Moro
+    - Arroyo de los Nogales de Cantarranas
+    - Arroyo Pedroches
+    - Arroyo de Valdeconejos
+    correctAns: Arroyo de Valdeconejos
+  - questionInfo: "El Parque de la Asomadilla se encuentra pr\xF3ximo a la calle:"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Madres Escolapias
+    - Camino de la Barca
+    - Ronda de Isasa
+    - Ninguna es correcta
+    correctAns: Madres Escolapias
+  - questionInfo: 'Una de estas calles no tiene salida, es un "fondo de saco":'
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "de la Pe\xF1a"
+    - "Encarnaci\xF3n"
+    - Eduardo Dato
+    - "duque de Fern\xE1n Nu\xF1ez"
+    correctAns: "de la Pe\xF1a"
+  - questionInfo: "La calle Marroqu\xEDes est\xE1 delimitada por la calles:"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Oca\xF1a e Hinojo"
+    - Moriscos y Zarco
+    - Mayor de Santa Marina y Cepas
+    - Mayor de Santa Marina y Adarve
+    correctAns: Mayor de Santa Marina y Adarve
+  - questionInfo: "Se est\xE1n quemando pastos en el entorno de la Urbanizaci\xF3n
+      Las Jaras, \xBFqu\xE9 carretera cogeremos?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Carretera de Villaviciosa
+    - Carretera de Badajoz
+    - Carretera de Granada
+    - Carretera de Palma del Rio
+    correctAns: Carretera de Villaviciosa
+  - questionInfo: "La entrada al Parque Ciudad de los Ni\xF1os se encuentra en:"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Ninguna es correcta
+    - "Avenida Men\xE9ndez Pidal"
+    - Avenida del Aeropuerto
+    - Avenida del Brillante
+    correctAns: "Avenida Men\xE9ndez Pidal"
+  - questionInfo: "Atendiendo al sentido de la circulaci\xF3n, la calle Platero Pedro
+      de Bares termina en:"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Avenida del Cairo
+    - "Hermano Juan Fern\xE1ndez"
+    - Avenida Rabanales
+    - "Calle C\xE1rtago"
+    correctAns: Avenida del Cairo
+  - questionInfo: "\xBFQu\xE9 calle no es paralela a Pintor Mu\xF1oz Lucena?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Arquitecto Hurtado Izquierdo
+    - Fernando Camacho
+    - "Escritor Jim\xE9nez Lora"
+    - Federico Mayo
+    correctAns: Federico Mayo
+  - questionInfo: "\xBFQu\xE9 calle es paralela a la calle Alhondiguilla?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - La Granjuela
+    - Patricio Furriel
+    - Avenida Virgen de Linares
+    - Pintor Arbasia
+    correctAns: La Granjuela
+  - questionInfo: "\xBFQu\xE9 calle es perpendicular a la calle Isla Madeira?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Calle Isla de Hierro
+    - Calle Isla Formentera
+    - "Cant\xE1brico"
+    - Calle de la Isla Malante
+    correctAns: Calle Isla de Hierro
+  - questionInfo: "La glorieta Almog\xE1vares en la actualidad se llama ..."
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Glorieta Ciudad de Nuremberg
+    - Glorieta del Tambor
+    - Glorieta del Parque Automovilistico
+    - No ha cambiado de nombre.
+    correctAns: Glorieta Ciudad de Nuremberg
+  - questionInfo: "Atendiendo al sentido de la circulaci\xF3n, para entrar en la
+      calle Antonio Maura desde el inicio, debemos estar en ...?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - la avenida del Aeropuerto
+    - "la avenida Rep\xFAblica Argentina"
+    - la plaza Costa Sol
+    - "la calle Alb\xE9niz"
+    correctAns: "la avenida Rep\xFAblica Argentina"
+  - questionInfo: "\xBFQu\xE9 dos calles llegan o salen de la Plaza de Andaluc\xEDa?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Avenida del Corregidor y Avenida de Granada
+    - Avenida del Corregidor y Avenida de Libia
+    - "Avenida del Corregidor y Rep\xFAblica Argentina"
+    - "Avenida de C\xE1diz y Avenida de la Diputaci\xF3n"
+    correctAns: Avenida del Corregidor y Avenida de Granada
+  - questionInfo: "\xBF Qu\xE9 dos calles se entrecruzan?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Obispo P\xE9rez Criado y Costanillas"
+    - "Costanillas y Avenida Oller\xEDas"
+    - "Montero y calle el Ca\xF1o"
+    - Ninguna es correcta
+    correctAns: "Obispo P\xE9rez Criado y Costanillas"
+  - questionInfo: "\xBFQu\xE9 calle une la Avenida la Arruzafilla con la carretera
+      Santa Mar\xEDa Trassierra?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Avenida del Brillante
+    - "Mar\xEDa Montessori"
+    - "Mar\xEDa la Jud\xEDa"
+    - Teresa de Calcuta
+    correctAns: "Mar\xEDa Montessori"
+  - questionInfo: "Si hay un incendio en MercaC\xF3rdoba, \xBFqu\xE9 calle es la
+      m\xE1s cercana?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Avenida de las Lonjas
+    - "Periodista Jos\xE9 Lu\xEDs de C\xF3rdoba"
+    - Cuesta de la Polvora
+    - Ninguna
+    correctAns: Avenida de las Lonjas
+  - questionInfo: "\xBFQu\xE9 calles confluyen en la Cruz de Juarez ?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Escultor Fern\xE1ndez M\xE1rquez ye Ingeniero Ruiz de Azua"
+    - "Escultor Ram\xF3n Barba y Avenida Almog\xE1vares"
+    - "Avenida Almog\xE1vares e Ingeniero Ruiz de Azua"
+    - Todas son ciertas
+    correctAns: Todas son ciertas
+  - questionInfo: "\xBFCual de las siguiente no est\xE1 pr\xF3xima a la avenida la
+      Arruzafa?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Par\xEDs"
+    - "M\xE9xico"
+    - "Alcal\xE1 Galiano"
+    - Patricio Furriel
+    correctAns: Patricio Furriel
+  - questionInfo: "\xBFQu\xE9 calle es la mas alejada del Palacio de los Deportes
+      VistaAlegre?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Gloria Fuertes
+    - Manuel de la Haba
+    - "Escritor Azor\xEDn"
+    - Poeta Valdeomar Pineda
+    correctAns: Poeta Valdeomar Pineda
+  - questionInfo: "\xBFCu\xE1l de estas parejas de calles no est\xE1n en el mismo
+      barrio?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Damasco y Previsi\xF3n"
+    - Villa de Rota y Los Omeyas
+    - "Fray Mart\xEDn de C\xF3rdoba y Pasaje San Sebasti\xE1n"
+    - "Tarrasa y Joaqu\xEDn Sama Naharro"
+    correctAns: "Fray Mart\xEDn de C\xF3rdoba y Pasaje San Sebasti\xE1n"
+  - questionInfo: "Si entramos a C\xF3rdoba por Palma del Rio, que pol\xEDgono industrial
+      nos encontramos?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Parque Joyero
+    - Las Quemadas
+    - El Granadal
+    - Rabanales 21
+    correctAns: Parque Joyero
+  - questionInfo: 'Indica la calle sin salida:'
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Cea
+    - Barroso
+    - Lope de Hoces
+    - Judios
+    correctAns: Cea
+  - questionInfo: "Nos indican un fuego en el cuadro el\xE9ctrico de la Subdelegaci\xF3n
+      del Gobierno Civil \xBFEn qu\xE9 calle se encuentra?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Plaza de la Constituci\xF3n"
+    - Plaza Las Tendillas
+    - Plaza la Corredera
+    - Plaza Poeta Ibn Zaydun
+    correctAns: "Plaza de la Constituci\xF3n"
+  - questionInfo: "Aviso de fuego de pastos en la Urbanizaci\xF3n El Sol, \xBFqu\xE9
+      carretera debemos coger?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Carretera de Madrid
+    - Carretera de Granada
+    - Carretera de Palma
+    - Carretera de Villaviciosa
+    correctAns: Carretera de Madrid
+  - questionInfo: "\xBFQue calle est\xE1 m\xE1s cerca del Parque de Bomberos Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Ca\xF1ada Real de las Mestas"
+    - Avenida del Mediterraneo
+    - Avenida del Arroyo del Moro
+    - Avenida Virgen de los Dolores
+    correctAns: Avenida Virgen de los Dolores
+  - questionInfo: "\xBFQue calle est\xE1 m\xE1s cerca del Parque de Bomberos \"El
+      Granadal\"?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 'Platino '
+    - Gema
+    - "Rub\xED"
+    - Esmeralda
+    correctAns: 'Platino '
+  - questionInfo: "\xBFQu\xE9 otro nombre recibe la calle Torrijos?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Calle de Palacio
+    - Calleja del Palacio Episcopal
+    - Torrijos
+    - Las tres son correctas
+    correctAns: Las tres son correctas
+  - questionInfo: "Aviso de fuego de pastos en La Barquera, \xBFqu\xE9 carretera
+      debemos coger?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Villaviciosa
+    - Brillante
+    - Calasancio
+    - Palma del Rio
+    correctAns: Palma del Rio
+  - questionInfo: "La calle Pintor Monserrat est\xE1 en el barrio :"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Santa Rosa
+    - Valdeolleros
+    - Brillante
+    - Fray Albino
+    correctAns: Valdeolleros
+  - questionInfo: "\xBFCual de los siguientes jardines no est\xE1 en C\xF3rdoba?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Jardines de la Merced
+    - "Jard\xEDn de Las Due\xF1as"
+    - "Jard\xEDn de las Reinas"
+    - "Jard\xEDn Virgen de la Estrella"
+    correctAns: "Jard\xEDn de las Reinas"
+  - questionInfo: "\xBF Qu\xE9 itinerario hay que seguir para ir a la avenida del
+      Cairo desde el Parque el Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Azabache, Turquesa y avenida de Libia
+    - "Virgen del Mar, Calder\xF3n de la Barca y Nuestra Sra. de la Fuensanta"
+    - "Virgen del Mar, Calder\xF3n de la Barca y Conquistador Ordo\xF1o \xC1lvarez"
+    - Ninguna es correcta
+    correctAns: Azabache, Turquesa y avenida de Libia
+  - questionInfo: "\xBF Qu\xE9 barrio no es de su distrito?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Sagunto, Levante
+    - "Zumbac\xF3n-Gavil\xE1n, Levante"
+    - San Lorenzo, Levante
+    - "F\xE1tima, Levante"
+    correctAns: San Lorenzo, Levante
+  - questionInfo: "Las urbanizaci\xF3nes PerlaI y II se encuentra cerca de:"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fontanar de Quintos
+    - La Barquera
+    - Majaneque
+    - Las tres son correctas
+    correctAns: Las tres son correctas
+  - questionInfo: "\xBF Qu\xE9 lugar se encuentra m\xE1s cerca del parque  de Bomberos
+      Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Parque Cruz Conde
+    - "Parque de Ruth y Jos\xE9 "
+    - Parque de la Asomadilla
+    - Parque del Doctor Alfonso Carpintero
+    correctAns: Parque Cruz Conde
+  - questionInfo: "\xBFQu\xE9 calle no es de del barrio El Brillante?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Eucaliptus
+    - Roma
+    - Vandalino
+    - "\xDAbeda"
+    correctAns: "\xDAbeda"

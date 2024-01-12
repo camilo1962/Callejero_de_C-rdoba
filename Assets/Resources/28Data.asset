@@ -1,0 +1,456 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: 28Data
+  m_EditorClassIdentifier: 
+  categoryName: 28
+  questions:
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Poeta Paredes?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Centro
+    - Brillante
+    - Levante
+    - Fray Albino
+    correctAns: Brillante
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 la Plaza Poeta Juan Bernier?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brilante
+    - "San Pablo-San Andr\xE9s"
+    - Levante
+    - Fray Albino
+    correctAns: "San Pablo-San Andr\xE9s"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Platero Repiso?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "San Pablo-San Andr\xE9s"
+    - Huerta de la Reina
+    - "F\xE1tima"
+    - "Vi\xF1uela-Rescatado"
+    correctAns: "Vi\xF1uela-Rescatado"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Pasaje Platero Alcantara?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Sector Sur
+    - Arcangel
+    - Levante
+    - Brillante
+    correctAns: Arcangel
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 la Plaza Pintor Topham?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Campo de la Verdad
+    - Fuensanta-Santuario
+    - Fray Albino
+    - Muriano-Obejo
+    correctAns: Fuensanta-Santuario
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Mayor de Santa Maria?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Santa Rosa
+    - Centro
+    - Santa Marina
+    - San Lorenzo
+    correctAns: Santa Marina
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 la Plaza Mathama Ghandi?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "F\xE1tima"
+    - Campo de la Verdad
+    - Brillante
+    - Parque Cruz Conde
+    correctAns: "F\xE1tima"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Matarratones?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Catedral
+    - Ribera
+    - Costanillas
+    - Santa Marina
+    correctAns: Costanillas
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Pasaje Maruja Cazalla?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Santa Rosa
+    - Arruzafilla-Las Moreras
+    - Villarrubia
+    - "Ciudad Jard\xEDn"
+    correctAns: Arruzafilla-Las Moreras
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Marques de Boil?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Ciudad Jard\xEDn"
+    - Valdeolleros
+    - Centro
+    - Catedral
+    correctAns: Centro
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Pasaje Marino Jos\xE9 de los Rios?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Parque Figueroa
+    - Sector Sur
+    - Arruzafilla-Las Moreras
+    - Levante
+    correctAns: Parque Figueroa
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Pasaje Marino Martin Aguayo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Arruzafilla-Las Moreras
+    - Sector Sur
+    - Parque Figueroa
+    - Brillante
+    correctAns: Parque Figueroa
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Pasaje Marino Blas de Lezo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Parque Figueroa
+    - Arruzafilla-Las Moreras
+    - Las Palmeras
+    - Huerta de la Reina
+    correctAns: Parque Figueroa
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Pasaje Marino Luis Cordoba Arce?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Parque Figueroa
+    - Huerta de la Reina
+    - Las Palmeras
+    - Sector Sur
+    correctAns: Parque Figueroa
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Pasaje Marino Pedro de los Rios?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Catedral
+    - Parque Figueroa
+    - Valdeolleros
+    - Brillante
+    correctAns: Parque Figueroa
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Pasaje Marino Martin Aguayo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Valdeolleros
+    - Brillante
+    - Parque Figueroa
+    - Centro
+    correctAns: Parque Figueroa
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Pasaje Marino Diego de Argote?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Parque Figueroa
+    - "F\xE1tima"
+    - Valdeolleros
+    - Levante
+    correctAns: Parque Figueroa
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 la Avda. Marie Curie?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Parque Cruz Conde
+    - Arruzafilla-Las Moreras
+    - Brillante
+    - Levante
+    correctAns: Arruzafilla-Las Moreras
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 la Avda. Maria Montesori?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Paraiso Arenal
+    - Fuensanta-Santuario
+    - Arruzafilla-Las Moreras
+    - San Lorenzo
+    correctAns: Arruzafilla-Las Moreras
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 la Avda. Maria de Molina?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - San Lorenzo
+    - Fuensanta-Santuario
+    - Arruzafilla-Las Moreras
+    correctAns: Arruzafilla-Las Moreras
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 la Avda. Maria la Judia?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Miralbaida
+    - Costanillas
+    - Arruzafilla-Las Moreras
+    - Valdeolleros
+    correctAns: Arruzafilla-Las Moreras
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 la Plaza Marinaleda?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - "F\xE1tima"
+    - Fuensanta-Santuario
+    - Parque Figueroa
+    correctAns: "F\xE1tima"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 la Glorieta de la Louviere?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Parque Cruz Conde
+    - Fidiana
+    - "F\xE1tima"
+    - Campo de la Verdad
+    correctAns: Fidiana
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Lope de Hoces?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Azahara
+    - Centro
+    - Catedral
+    - Ribera
+    correctAns: Centro
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Julio Alarc\xF3n?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Catedral
+    - Centro
+    - Brillante
+    - "Vi\xF1uela-Rescatado"
+    correctAns: "Vi\xF1uela-Rescatado"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 el Jardin de los Poetas?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Campo de la Verdad
+    - Costanillas
+    - Parque Figueroa
+    correctAns: Costanillas
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 la Avda. de los Mozarabes?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Cercadillas
+    - Ribera
+    - "Ciudad Jard\xEDn"
+    - Centro
+    correctAns: Cercadillas
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Horno de Porras?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Catedral
+    - Brillante
+    - "F\xE1tima"
+    - Huerta de la Reina
+    correctAns: Catedral
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Horno de Guiral?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Santa Marina
+    - Catedral
+    - Fray Albino
+    - Valdeolleros
+    correctAns: Catedral
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Hermanos Pinzones?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fuensanta-Santuario
+    - Levante
+    - "Ca\xF1ero"
+    - "San Pablo-San Andr\xE9s"
+    correctAns: Fuensanta-Santuario
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Guzmanas?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Costanillas
+    - San Lorenzo
+    - Santa Marina
+    - "San Pablo-San Andr\xE9s"
+    correctAns: Costanillas
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Guaran\xED?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Villarrubia
+    - "Zumbac\xF3n"
+    - "F\xE1tima"
+    - "San Pablo-San Andr\xE9s"
+    correctAns: "F\xE1tima"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Grabador Palomino?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "F\xE1tima"
+    - "Ciudad Jard\xEDn"
+    - San Lorenzo
+    - "San Pablo-San Andr\xE9s"
+    correctAns: "F\xE1tima"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Garcia Lovera?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Santa Rosa
+    - Centro
+    - "San Pablo-San Andr\xE9s"
+    correctAns: Centro
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Paseo de la Fuensanta?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Arcangel
+    - Campo de la Verdad
+    - San Lorenzo
+    - "San Pablo-San Andr\xE9s"
+    correctAns: Arcangel
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 la Calleja de las Flores?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Catedral
+    - San Lorenzo
+    - Santa Rosa
+    - "San Pablo-San Andr\xE9s"
+    correctAns: Catedral
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 la Plaza Felix Rodriguez de la Fuente?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fidiana
+    - Cerro de la Golondrina
+    - "Electromec\xE1nicas"
+    - "San Pablo-San Andr\xE9s"
+    correctAns: Cerro de la Golondrina
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Estrella Altair?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "F\xE1tima"
+    - Levante
+    - Campo de la Verdad
+    - "San Pablo-San Andr\xE9s"
+    correctAns: Levante
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Especieros?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Pedro-San Francisco
+    - Valdeolleros
+    - Sector Sur
+    - "San Pablo-San Andr\xE9s"
+    correctAns: San Pedro-San Francisco
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Calleja Cruz?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Pedro-San Francisco
+    - Catedral
+    - Ribera
+    - "San Pablo-San Andr\xE9s"
+    correctAns: San Pedro-San Francisco

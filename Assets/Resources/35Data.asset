@@ -1,0 +1,456 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: 35Data
+  m_EditorClassIdentifier: 
+  categoryName: 35
+  questions:
+  - questionInfo: "\xBFQue calle pertenece al Parque Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Zoraida
+    - Zona Verde
+    - "Molinillo de Sansue\xF1a"
+    - Glorieta Zenobia Camprubi
+    correctAns: Zona Verde
+  - questionInfo: "\xBFQue calle pertenece al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Zamorano
+    - Pasaje Zahira-Jose Aumente Baena
+    - Zancara
+    - Capataz Ignacio Torronteras Paz
+    correctAns: Pasaje Zahira-Jose Aumente Baena
+  - questionInfo: "\xBFQue calle pertenece al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Yosuf
+    - Calleja Yerbabuena
+    - Yeso
+    - Yahia
+    correctAns: Yeso
+  - questionInfo: "\xBFQue calle pertenece al Parque Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - El Vito
+    - Vista Hermosa
+    - "Pasaje Voluntaria Maria Ca\xF1as"
+    - Patio de la Voz del Pueblo
+    correctAns: Vista Hermosa
+  - questionInfo: "\xBFQue calle pertenece al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Virrey Pedro de Aragon
+    - Visitacion
+    - El Viso
+    - Vista Hermosa
+    correctAns: Virrey Pedro de Aragon
+  - questionInfo: "\xBFQue calle pertenece al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Virgen del Valle
+    - Virgen Milagrosa
+    - Virrey Ceballos
+    - Virrey Caballero Gongora
+    correctAns: Virrey Caballero Gongora
+  - questionInfo: "\xBFQue calle pertenece al Parque Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Virgen del Rayo
+    - Zapateria Vieja
+    - Glorieta Zenobia Camprubi
+    - Virrey Moya
+    correctAns: Virgen del Rayo
+  - questionInfo: "\xBFQue calle pertenece al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Sierra de Guadarrama
+    - "Sierra de Carde\xF1a y Montoro"
+    - Sierra de hornachuelos
+    - Pasaje Virgen de Luna
+    correctAns: Sierra de Guadarrama
+  - questionInfo: "\xBFQue calle pertenece al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Serbal
+    - Sierra de Cazorla
+    - "S\xE9ptima(Quemadillas)"
+    - Secunda Romana
+    correctAns: Sierra de Cazorla
+  - questionInfo: "\xBFQue calle pertenece al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Califato
+    - "Avda. San Jos\xE9 de Calasanz "
+    - "Pasaje Cale\xEDin de Eloy"
+    - Camino de Carbonell
+    correctAns: Califato
+  - questionInfo: "\xBFQue calle pertenece al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Arrabal del Mediodia
+    - Arzobispo Barrios
+    - Burgos
+    - Arroyo
+    correctAns: Burgos
+  - questionInfo: "\xBFQue calle pertenece al Parque Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Arroyo San Leon
+    - "Arquitecto F\xE9lix Hern\xE1ndez"
+    - Arrayanes
+    - Baena
+    correctAns: "Arquitecto F\xE9lix Hern\xE1ndez"
+  - questionInfo: "\xBFQue calle pertenece al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "C\xE9spedes"
+    - Ceuta
+    - Cecilio Valverde Mazuelas
+    - Glorieta Castilleja
+    correctAns: "C\xE9spedes"
+  - questionInfo: "\xBFQue calle pertenece al Parque Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Castillo D Empuries
+    - Catedratico Esquivel
+    - El Carpio
+    - Cedaceros
+    correctAns: Cedaceros
+  - questionInfo: "\xBFQue calle pertenece al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Glorieta del \xC1rbol del Paraiso"
+    - "Argui\xF1\xE1n"
+    - Los Argotes
+    - Arenillas
+    correctAns: "Argui\xF1\xE1n"
+  - questionInfo: "\xBFQue calle pertenece al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "El Casta\xF1o"
+    - Calleja Arcos
+    - Armas
+    - Celia Mendez Parque
+    correctAns: Calleja Arcos
+  - questionInfo: "\xBFQue calle pertenece al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Arabista Castej\xF3n y Mart\xEDnez Arizala"
+    - Antonio Fernandez Fosforito
+    - Anton Montoro
+    - Ancha de la Magdalena
+    correctAns: "Arabista Castej\xF3n y Mart\xEDnez Arizala"
+  - questionInfo: "\xBFQue calle pertenece al Parque Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Calle Amargacena
+    - Altillo
+    - Alta de Santa Ana
+    - Almacari
+    correctAns: Calle Amargacena
+  - questionInfo: "\xBFQue calle pertenece al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Alejandria
+    - Alemania
+    - Alfayatas
+    - "Doctor Gonzalo Mi\xF1o Figuerolas"
+    correctAns: Alejandria
+  - questionInfo: "\xBFQue calle pertenece al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Domingo Badia Leblich
+    - "Doctor Fco. Calzadilla Le\xF3n"
+    - Don Antonio Gomez Aguilar
+    - Don Carlos Romero
+    correctAns: "Doctor Fco. Calzadilla Le\xF3n"
+  - questionInfo: "\xBFQue calle pertenece al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Donantes de Sangre
+    - "Do\xF1a Aldonza"
+    - Dora La Cordobesita
+    - Don Alonso de Aguilar
+    correctAns: Don Alonso de Aguilar
+  - questionInfo: "\xBFQue calle pertenece al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Elena Moyano Madre Coraje (Teletavis)
+    - "Duque de Fernan Nu\xF1ez"
+    - Enrico Caruso
+    - Escritor Cardenas Angulo
+    correctAns: "Duque de Fernan Nu\xF1ez"
+  - questionInfo: "\xBFQue calle pertenece al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Escritor Almeida Garret
+    - Escritor Conde de Zamora
+    - Escritor Cristobal de Mesa
+    - Escritor Gomez de Rivera
+    correctAns: Escritor Conde de Zamora
+  - questionInfo: "\xBFQue calle pertenece al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Escritor Juan Alfonso de Baena
+    - Escritor Echegaray
+    - Escritor Julio Cortazar
+    - Escritor Jose de los Heros
+    correctAns: Escritor Echegaray
+  - questionInfo: "\xBFQue calle pertenece al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Escritora Maria Teresa de Le\xF3n"
+    - Escritor Gonzalo Serrano
+    - Escritor Vargas Machuca
+    - Escritor Leon Mansilla
+    correctAns: "Escritora Maria Teresa de Le\xF3n"
+  - questionInfo: "\xBFQue calle pertenece al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Escritor L\xF3pez de C\xE1rdenas"
+    - Elie J Nahmias
+    - Espejo
+    - Espiritu Santo
+    correctAns: Elie J Nahmias
+  - questionInfo: "\xBFQue calle pertenece al Parque Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fray Junipero Serra
+    - Fray Julian de Avila
+    - "Francisco Ortega Paco Pe\xF1as"
+    - Fray Diego de Cadiz
+    correctAns: Fray Julian de Avila
+  - questionInfo: "\xBFQue calle pertenece al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - La Farsalia
+    - "Jos\xE9 Alcaide Irlan"
+    - Fausto Garcia Tena
+    - "Fernan Dia\xF1ez"
+    correctAns: "Jos\xE9 Alcaide Irlan"
+  - questionInfo: "\xBFQue calle pertenece al Parque Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fernandez Ruano
+    - Fernando de Lara
+    - Federico Ledoux
+    - Fernando Amor y Mayor
+    correctAns: Fernando de Lara
+  - questionInfo: "\xBFQue calle pertenece al Parque Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Estrellita Castro
+    - "Escritora Rosario Acu\xF1a"
+    - Glorieta Escritora Teresa de la Parra
+    - Ebro
+    correctAns: Estrellita Castro
+  - questionInfo: "\xBFQue calle pertenece al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Pio XII
+    - Medea
+    - "Domingo Mu\xF1oz"
+    - Platero Pedrajas
+    correctAns: "Domingo Mu\xF1oz"
+  - questionInfo: "\xBFQue calle pertenece al Parque Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Puente de San Rafael
+    - Puente Romano
+    - "Qu\xEDmica Irene Curie"
+    - "Platero S\xE1nchez de la Cruz"
+    correctAns: "Platero S\xE1nchez de la Cruz"
+  - questionInfo: "\xBFQue calle pertenece al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 'La Rabida '
+    - "Rafael P\xE9rez Leon(Cuatro Reales)"
+    - Rafael Arroyo
+    - Rastrera
+    correctAns: 'La Rabida '
+  - questionInfo: "\xBFQue calle pertenece al Parque Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Luque
+    - Reina Mercedes
+    - Rectificadores
+    - Lustre
+    correctAns: Reina Mercedes
+  - questionInfo: "\xBFQue calle pertenece al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Lucio Marco
+    - Luis Braille
+    - Lucio Marco
+    - Luciano Pavarotti
+    correctAns: Luis Braille
+  - questionInfo: "\xBFQue calle pertenece al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Luisa de Marillac
+    - "Avda. de Luis Ca\xF1ete"
+    - Lopez de Alba
+    - Lorenzo Ferreira
+    correctAns: "Avda. de Luis Ca\xF1ete"
+  - questionInfo: "\xBFQue calle pertenece al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Francisco Moreno Anguita
+    - Lucena
+    - Frailes
+    - Creta
+    correctAns: Lucena
+  - questionInfo: "\xBFQue calle pertenece al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Pelagio
+    - Lebrija
+    - Glorieta de los Paises Balticos
+    - Pelagio
+    correctAns: Lebrija
+  - questionInfo: "\xBFQue calle pertenece al Parque Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Julian Grimau
+    - "Pe\xF1as Cordobesas"
+    - Juan Valera
+    - Jurista Otbi
+    correctAns: "Pe\xF1as Cordobesas"
+  - questionInfo: "\xBFQue calle pertenece al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Rocio Moragas
+    - Rodolfo Gil
+    - Rivas y Palma
+    - Los Rios
+    correctAns: Rodolfo Gil

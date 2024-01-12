@@ -1,0 +1,456 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: 15Data
+  m_EditorClassIdentifier: 
+  categoryName: 15
+  questions:
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Parroco Agustin Molina Padre Ladrillo?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Alcolea
+    - Azahara
+    - Siete Fincas
+    - Naranjo
+    correctAns: Naranjo
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Patio Pico de Aneto?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Arruzafilla-Las Moreras
+    - Las Palmeras
+    - Muriano-Obejo
+    - Majaneque-Barquera
+    correctAns: Las Palmeras
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Patio Pico del Veleta"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Las Palmeras
+    - Centro
+    - Siete Fincas
+    - Arcangel
+    correctAns: Las Palmeras
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Periodista Quesada Chacon?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Las Palmeras
+    - Centro
+    - Huerta de la Marquesa
+    - "Ciudad Jard\xEDn"
+    correctAns: Huerta de la Marquesa
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Pintor Mariano Fortuni?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Naranjo
+    - Santa Rosa
+    - "Ca\xF1ero"
+    - Parque Cruz Conde
+    correctAns: Parque Cruz Conde
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Pintor Matisse?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Arruzafilla-Las Moreras
+    - "Vi\xF1uela-Rescatado"
+    - Centro
+    - Fuensanta-Santuario
+    correctAns: "Vi\xF1uela-Rescatado"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Pintor Leal Gaete?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Huerta la Reina
+    - Catedral
+    - Parque Cruz Conde
+    - Naranjo
+    correctAns: Huerta la Reina
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Pintor L\xF3pez Obrero?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Naranjo
+    - "Ciudad Jard\xEDn"
+    - Catedral
+    - Parque Cruz Conde
+    correctAns: Catedral
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Pintor Losada?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Parque Cruz Conde
+    - Naranjo
+    - "F\xE1tima"
+    - Santa Marina
+    correctAns: Parque Cruz Conde
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Plaza Pintor Rafael Bot\xED?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Parque Cruz Conde
+    - Huerta la Reina
+    - Fuensanta
+    - Santa Marina
+    correctAns: Santa Marina
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Pasaje Pintor Mariano Belmonte?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Huerta de la Reina
+    - Naranjo
+    - Catedral
+    - Santa Rosa
+    correctAns: Huerta de la Reina
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Patio Pintor Juan Mir\xF3?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Huerta de la Reina
+    - Granadal
+    - "Ca\xF1ero"
+    - Arruzafilla-Las Moreras
+    correctAns: Arruzafilla-Las Moreras
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Pintor Pedro Bueno?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fuensanta-Santuario
+    - Parque Cruz Conde
+    - "F\xE1tima"
+    - Levante
+    correctAns: Fuensanta-Santuario
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Pintor Mu\xF1oz Lucena?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fuensanta-Santuario
+    - Huerta de la Reina
+    - "Ciudad Jard\xEDn"
+    - "Ca\xF1ero"
+    correctAns: "Ca\xF1ero"
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Pintor Montserat?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Levante
+    - Santa Rosa
+    - "F\xE1tima"
+    - Santuario-Fuensanta
+    correctAns: Santa Rosa
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Pintor El Greco?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Naranjo
+    - Fuensanta-Santuario
+    - Parque Cruz Conde
+    - Naranjo
+    correctAns: Parque Cruz Conde
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Pintor Bermejo?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "San Pablo-San Andr\xE9s"
+    - "F\xE1tima"
+    - Parque Cruz Conde
+    - Levante
+    correctAns: "San Pablo-San Andr\xE9s"
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Pintor Antonio Povedano?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Higuer\xF3n"
+    - Patriarca-Arruzafa
+    - Valdeolleros
+    - Santa Rosa
+    correctAns: Patriarca-Arruzafa
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Pintor Juan Gris?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Higuer\xF3n"
+    - Valdeolleros
+    - Levante
+    - Parque Cruz Conde
+    correctAns: Parque Cruz Conde
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Pintor Racionero Castro?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Margaritas-Colonia de la Paz
+    - Santa Rosa
+    - Santa Marina
+    - Fuensanta-Santuario
+    correctAns: Santa Rosa
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Pintor Murillo?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Parque Cruz Conde
+    - "Ca\xF1ero"
+    - Naranjo
+    - Santa Rosa
+    correctAns: Parque Cruz Conde
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Pintor Pe\xF1alosa?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "F\xE1tima"
+    - Levante
+    - Parque Cruz Conde
+    - Margaritas-Colonia de la Paz
+    correctAns: Margaritas-Colonia de la Paz
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Plaza del Potro?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "F\xE1tima"
+    - Catedral
+    - San Pedro-San Francisco
+    - Centro
+    correctAns: San Pedro-San Francisco
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Pozanco?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Santa Marina
+    - Centro
+    - San Lorenzo
+    - Costanillas
+    correctAns: San Lorenzo
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Pasaje Pintor Pellicer?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "F\xE1tima"
+    - Levante
+    - Santa Rosa
+    - Centro
+    correctAns: "F\xE1tima"
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Puerta del Colodro?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Pedro-San Francisco
+    - San Pablo
+    - San Basilio
+    - Santa Marina
+    correctAns: Santa Marina
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Puerta Nueva?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - La Magdalena
+    - Santa Marina
+    - San Francisco-San Pedro
+    - san Basilio
+    correctAns: La Magdalena
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Puerta Osario?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - La Magdalena
+    - Centro
+    - Catedral
+    - San Basilio
+    correctAns: Centro
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Plaza Puerta del Rinc\xF3n?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Basilio
+    - Centro
+    - Valdeolleros
+    - Santa Marina
+    correctAns: Santa Marina
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Puerta Sevilla?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Vi\xF1uela-Rescatado"
+    - San Basilio
+    - Centro
+    - Santa Marina
+    correctAns: San Basilio
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Puerta Plasencia?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Santa Marina
+    - "Vi\xF1uela-Rescatado"
+    - San Basilio
+    - Centro
+    correctAns: "Vi\xF1uela-Rescatado"
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Puerta de Almodovar?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Basilio
+    - Alcolea
+    - Catedral
+    - Sector Sur
+    correctAns: Catedral
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Raimundo Lulio?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Valdeolleros
+    - Santa Rosa
+    - "Ciudad Jard\xEDn "
+    - Levante
+    correctAns: Valdeolleros
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Realejo?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "San Pablo-San Andr\xE9s"
+    - Santa Marina
+    - Catedral
+    - Fuensanta
+    correctAns: "San Pablo-San Andr\xE9s"
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Rinconada?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - No existe
+    - Campo de la Verdad
+    - Sector Sur
+    - "F\xE1tima"
+    correctAns: Campo de la Verdad
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Ronda del Marrubial?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Ribera
+    - Sector Sur
+    - "F\xE1tima"
+    - San Lorenzo
+    correctAns: San Lorenzo
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Rute?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Sector Sur
+    - Parque Cruz Conde
+    - Fuensanta-Santuario
+    - Parque Figueroa
+    correctAns: Sector Sur
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Salvador Allende?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "F\xE1tima"
+    - Brillante
+    - Levante
+    - "Ciudad Jard\xEDn"
+    correctAns: "F\xE1tima"
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 San Bartolom\xE9?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Basilio
+    - Huerta de la Marquesa
+    - "Ciudad Jard\xEDn"
+    - Valdeolleros
+    correctAns: San Basilio
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 San Antonio de Padua?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Santa Marina
+    - Costanillas
+    - San Cayetano
+    - "F\xE1tima"
+    correctAns: Costanillas

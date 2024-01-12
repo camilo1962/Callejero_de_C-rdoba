@@ -1,0 +1,458 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: 1Data
+  m_EditorClassIdentifier: 
+  categoryName: 1
+  temaTipo: BARRIO
+  questions:
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Academico Perez Pavia?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Huerta de la Reina
+    - Sector Sur
+    - Lepanto
+    correctAns: Brillante
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Alcaracejos?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Alcaracejos
+    - Sector Sur
+    - "Ciudad Jard\xEDn"
+    - Huerta de la Reina
+    correctAns: Alcaracejos
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Plaza Bellavista?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Naranjo
+    - Alcaracejos
+    - "Ciudad Jard\xEDn"
+    - Huerta de la Reina
+    correctAns: Naranjo
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Averroes?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Catedral
+    - Fidiana
+    - Sector Sur
+    - "Ca\xF1ero"
+    correctAns: Catedral
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Atarfe?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Encinarejo
+    - Brillante
+    - "Ca\xF1ero"
+    - Las Jaras
+    correctAns: Brillante
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Caballerizas Reales?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Basilio
+    - Brillante
+    - Costanillas
+    - "Ca\xF1ero"
+    correctAns: San Basilio
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Fez?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Basilio
+    - Brillante
+    - Fray Albino
+    - Levante
+    correctAns: Fray Albino
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Mariana Pineda?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Santa Rosa
+    - Valdeolleros
+    - San Lorenzo
+    - Naranjo
+    correctAns: Valdeolleros
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Portugal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Colonia de la Paz
+    - Alcolea
+    - Levante
+    - Fuensanta
+    correctAns: Colonia de la Paz
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Musico Infantas?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Ciudad Jatd\xEDn"
+    - Margaritas
+    - Brillante
+    - Fuensanta
+    correctAns: Margaritas
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Aloe?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fuensanta
+    - Huerta de la Marquesa
+    - Margaritas
+    - "Urbanizaci\xF3n Los Encinares"
+    correctAns: "Urbanizaci\xF3n Los Encinares"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Colegio Federico Garc\xEDa Lorca?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Poligono Guadalquivir
+    - Santa Maria de Trassierra
+    - Santa Marina
+    - Margaritas
+    correctAns: Poligono Guadalquivir
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Hotel Ciudad de C\xF3rdoba?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - San Basilio
+    - Poligono Guadalquivir
+    - Santa Marina
+    correctAns: Poligono Guadalquivir
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 la Calleja Rosalas?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Costanillas
+    - Mirabueno
+    - Alcolea
+    - Margaritas
+    correctAns: Costanillas
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Ronda de Isasa?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Catedral
+    - Levante
+    - Santa Marina
+    - Villarrubia
+    correctAns: Catedral
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 la Plaza Rio Aragon?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Costanillas
+    - Villarrubia
+    - Ribera
+    - Margaritas
+    correctAns: Villarrubia
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Rey Don Pelayo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Rarael del Albaida
+    - "Ciudad Jard\xEDn"
+    - Margaritas
+    - Fray Albino
+    correctAns: Fray Albino
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Libreros?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Huerta de la Reina
+    - Sector Sur
+    - Brillante
+    - Santa Rosa
+    correctAns: Santa Rosa
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Lepe?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Cayetano
+    - Sector Sur
+    - Santa Rosa
+    - Lepanto
+    correctAns: Sector Sur
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Letonia?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Naranjo
+    - Parcela Los Limeros
+    - Sector Sur
+    - "TecnoC\xF3rdoba"
+    correctAns: "TecnoC\xF3rdoba"
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 1 de Mayo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "F\xE1tima"
+    - Santacruz
+    - Sector Sur
+    - Alcolea
+    correctAns: Santacruz
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Pasaje Academico Lara Pineda?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fuensanta-Santuario
+    - Naranjo
+    - Encinarejo
+    - "Urbanizaci\xF3n El Sol"
+    correctAns: Fuensanta-Santuario
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Aceite?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - La Magdalena
+    - "Ca\xF1ero"
+    - Alcolea
+    - Sector Sur
+    correctAns: La Magdalena
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Acera San Julian?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Santa Marina
+    - Siete Fincas
+    - Levante
+    - Fray Albino
+    correctAns: Fray Albino
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 la Carretera de Villaviciosa?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Ciudad Jad\xEDn"
+    - Brillante-Los Morales
+    - Cerro La Golondrina
+    - Sector Sur
+    correctAns: Brillante-Los Morales
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Barriada El \xC1ngel Chancillarejo
+      ?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Naranjo
+    - "Urbanizaci\xF3n El Sol"
+    - Mirabueno
+    - "Barriada El \xC1ngel"
+    correctAns: "Barriada El \xC1ngel"
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Cidros?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "San Pablo-San Andr\xE9s"
+    - La Colina
+    - Tejares
+    - Quemadillas
+    correctAns: "San Pablo-San Andr\xE9s"
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Ntra. Sra. de la Asuncion?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Las Jaras
+    - "Nore\xF1a"
+    - Encinarejo
+    - Santacruz
+    correctAns: Encinarejo
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 La Bodega?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Tejares
+    - Siete Fincas
+    - "Ca\xF1ero"
+    - Sector Sur
+    correctAns: Tejares
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Buenos Aires?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Huerta de la Reina
+    - Fuensanta
+    - No Existe
+    - Alcolea
+    correctAns: Huerta de la Reina
+  - questionInfo: "\xBFA qu\xE9 parque pertenece la Avda. de la Caballera?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - El Granadal
+    - Ninguno
+    - El Consorcio
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Camino del Cerro?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - El Granadal
+    - Ninguno
+    - Los dos
+    - Central
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Costanillas?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - Ninguno
+    - El Consorcio
+    - El Granadal
+    correctAns: El Granadal
+  - questionInfo: "\xBFA que parque pertenece la Plaza de la Compa\xF1ia?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - El Granadal
+    - Central
+    - El Consorcio
+    - Los dos
+    correctAns: Central
+  - questionInfo: "\xBFQu\xE9 calle corresponde al Parque Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Cardenal Herrero
+    - Cara
+    - Concha Piquer
+    - Carcabuey
+    correctAns: Concha Piquer
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Conde y Duque?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Ninguno
+    - El Granadal
+    - Central
+    - Los dos
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Cordel de \xC9cija?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - El Consorcio
+    - El Granadal
+    - Ninguno
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece el Cortijo El Alcaidito?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - El Granadal
+    - Consorcio
+    - Ninguno
+    - Central
+    correctAns: Central
+  - questionInfo: "\xBFQu\xE9 zona corresponde al Parque El Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Corregidor Luis de la Cerda
+    - 'Cortijo San Cebrian Bajo '
+    - "Compositor G\xF3mez Navarro"
+    - "Cardenal Gonz\xE1lez"
+    correctAns: 'Cortijo San Cebrian Bajo '
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Descubridor Alonso de Ojeda?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Consorcio
+    - Central
+    - El Granadal
+    - Los dos
+    correctAns: Central

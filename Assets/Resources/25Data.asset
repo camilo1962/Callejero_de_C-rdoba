@@ -1,0 +1,456 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: 25Data
+  m_EditorClassIdentifier: 
+  categoryName: 25
+  questions:
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Herradores?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Santa Marina
+    - Ribera
+    - Catedral
+    - La Magdalena
+    correctAns: La Magdalena
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Hixen I?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fray Albino
+    - Sector Sur
+    - Huerta de la Marquesa
+    - Cerro la Golondrina
+    correctAns: Fray Albino
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Historiador Manuel Salcines?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Huerta de la Reina
+    - Vista Alegre
+    - Parque Cruz Conde
+    - Santa Rosa
+    correctAns: Vista Alegre
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 la calle Medina Azahara?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Catedral
+    - Ribera
+    - San Pedro-San Francisco
+    - Fray Albino
+    correctAns: San Pedro-San Francisco
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Pasaje Mezquita?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Sector Sur
+    - Valdeolleros
+    - Ribera
+    - Catedral
+    correctAns: Sector Sur
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 la Plaza Miguel \xC1ngel Ayll\xF3n?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Ciudad Jard\xEDn"
+    - Levante
+    - Parque Figueroa
+    - Parque Cruz Conde
+    correctAns: Levante
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Ingeniero Barbudo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Santacruz
+    - "Pol\xEDgono la Torrecilla"
+    - Brillante
+    - Encinarejo
+    correctAns: "Pol\xEDgono la Torrecilla"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Ingeniero Ribera?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Encinarejo
+    - "F\xE1tima"
+    - "Pol\xEDgono la Torrecilla"
+    correctAns: "Pol\xEDgono la Torrecilla"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Kiko Pastor?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Paraiso Arenal
+    - Cerro de la Golondrina
+    - San Pedro-San Francisco
+    - San Cayetano
+    correctAns: Cerro de la Golondrina
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Avda. Lagartijo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Huerta de la Marquesa
+    - Santa Marina
+    - San Cayetano
+    correctAns: Huerta de la Marquesa
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Labiernago?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Huerta de la Marquesa
+    - Santa Marina
+    - San Cayetano
+    correctAns: Brillante
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Calleja Manchego?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Rafael del Albaida
+    - Catedral
+    - Sector Sur
+    - Campo de la Verdad
+    correctAns: Sector Sur
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Manolo Rosa?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Santa Rosa
+    - Huerta de la Reina
+    - Huerta de la Marquesa
+    - Fuensanta-Santuario
+    correctAns: Santa Rosa
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Pasaje Manuel Calero Calerito?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Valdeolleros
+    - Huerta de la Marquesa
+    - Huerta de la Reina
+    - Santa Marina
+    correctAns: Huerta de la Marquesa
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Manuel Benitez El Cordobes?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Huerta de la Reina
+    - Valdeolleros
+    - Huerta de la Marquesa
+    - Santa Marina
+    correctAns: Huerta de la Marquesa
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Manuel Cano El Pireo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Huerta de la Marquesa
+    - Santa Marina
+    - Valdeolleros
+    - Huerta de la Reina
+    correctAns: Huerta de la Marquesa
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Manuel Mora Valle Morita?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Huerta de la Reina
+    - Santa Marina
+    - Valdeolleros
+    - Huerta de la Marquesa
+    correctAns: Santa Marina
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Manuel de la Haba Zurito?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Vista Alegre
+    - Costanillas
+    - Sector Sur
+    - Parque Figueroa
+    correctAns: Vista Alegre
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Pasaje Marino Conde de Alcaudete?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Parque Figueroa
+    - "Ciudad Jard\xEDn"
+    - Huerta de laMarquesa
+    - Costanillas
+    correctAns: Parque Figueroa
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Fernando Colon?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Encinarejo
+    - San Pedro-San Francisco
+    - "Ciudad Jard\xEDn"
+    - Parque Cruz Conde
+    correctAns: San Pedro-San Francisco
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Rav\xE9 o Calle de las Ferias?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - La Magdalena
+    - Centro
+    - Catedral
+    - Sector Sur
+    correctAns: La Magdalena
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Fontanar de Pollos?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Carretera de Aeropuerto
+    - Santacruz
+    - "San Pablo-San Andr\xE9s"
+    - San Lorenzo
+    correctAns: Carretera de Aeropuerto
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Firnas?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Arruzafilla-Las Moreras
+    - Fray Albino
+    - "Ciudad Jard\xEDn"
+    - "Tecnoc\xF3rdoba"
+    correctAns: Fray Albino
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Guadal\xE9n?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "El Higuer\xF3n"
+    - Majaneque
+    - Villarrubia
+    - Alcolea
+    correctAns: Villarrubia
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Guadalimar?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Villarrubia
+    - Alcolea
+    - "El Higuer\xF3n"
+    - Alcolea
+    correctAns: Villarrubia
+  - questionInfo: "\xBFA qu\xE9 parque pertenece la Granja de Carmelo de El Higuer\xF3n?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - Granadal
+    - Los dos
+    - Ninguno
+    correctAns: Central
+  - questionInfo: "\xBFQue calle corresponde al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Guadalquivir
+    - "Conquistador Ordo\xF1o Alvarez"
+    - Escultor Gomez del Rio
+    - Colonia Patricia
+    correctAns: Guadalquivir
+  - questionInfo: "\xBFQue calle corresponde al Parque Central?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Guadamacil
+    - "Carde\xF1a"
+    - Carlos Cano
+    - Ciudad de Carmona
+    correctAns: Guadamacil
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Media Luna del Muriano?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - Granadal
+    - Los dos
+    - Ninguno
+    correctAns: Granadal
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Isla de Menorca?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - Granadal
+    - Los dos
+    - Ninguno
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece El Vacar ?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - Granadal
+    - Los dos
+    - Ninguno
+    correctAns: Granadal
+  - questionInfo: "\xBFA qu\xE9 parque pertenece la Plaza Unidad?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - Granadal
+    - Los dos
+    - Ninguno
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Tundidores?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - Granadal
+    - Los dos
+    - Ninguno
+    correctAns: Granadal
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Tunel de la Almunia?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - Granadal
+    - Los dos
+    - Ninguno
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece el Tunel de los Omeyas?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - Granadal
+    - Los dos
+    - Ninguno
+    correctAns: Central
+  - questionInfo: "\xBFQue calle corresponde al Parque Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Travesia a Horno de la Cruz Verde-Trav. Barrionuevo
+    - Plaza del Cardenal Salazar
+    - Cardenal Portocarrero
+    - "Paseo Ca\xF1ito Maria Ruiz"
+    correctAns: Travesia a Horno de la Cruz Verde-Trav. Barrionuevo
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Travesia a Ebro?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - Granadal
+    - Los dos
+    - Ninguno
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Trebol?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - Granadal
+    - Los dos
+    - Ninguno
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Torre el Viejo Villa Pura?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - Granadal
+    - Los dos
+    - Ninguno
+    correctAns: Central
+  - questionInfo: "\xBFQue calle corresponde al Parque Granadal?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Pasaje Leonor de Guzm\xE1n"
+    - Julio Arteche
+    - Juan Montiel Salinas
+    - Pasaje Tirso de Molina
+    correctAns: Pasaje Tirso de Molina

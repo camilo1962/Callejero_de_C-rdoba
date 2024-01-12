@@ -1,0 +1,456 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: 14Data
+  m_EditorClassIdentifier: 
+  categoryName: 14
+  questions:
+  - questionInfo: "\xBFQu\xE9 barrio est\xE1 al Norte de esta imagen?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Tejares
+    - Huerta de la Reina
+    - "Ca\xF1ero"
+    - Colonia de la Paz
+    correctAns: Huerta de la Reina
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Camino de los Pinos?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - No existe
+    - Consorcio
+    - Granadal
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Llanos de Arjona?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - No existe
+    - Consorcio
+    - Granadal
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Parcelaci\xF3n El Raso?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Los dos
+    - No existe
+    - Central
+    - Granadal
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Parcelaci\xF3n Sol y Luna?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Ninguno
+    - Central
+    - Consorcio
+    - Granadal
+    correctAns: Central
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Parcelaci\xF3n Rosal del Rubio?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Ninguno
+    - Consorcio
+    - Central
+    - Granadal
+    correctAns: Central
+  - questionInfo: "\xBFA q\xE9 parque pertenece Parcelaci\xF3n El Salado?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Granadal
+    - Consorcio
+    - Central
+    - Los dos
+    correctAns: Central
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 la Plaza Costa Sol?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Ciudad Jard\xEDn"
+    - Fray Albino
+    - Centro
+    - Sector Sur
+    correctAns: "Ciudad Jard\xEDn"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 la Glorieta de la Cruz Roja?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Ciudad Jard\xEDn"
+    - Santa Rosa
+    - Centro
+    - Sector Sur
+    correctAns: "Ciudad Jard\xEDn"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Cruz Verde?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Huerta de la Reina
+    - La Magdalena
+    - Sector Sur
+    - "F\xE1tima"
+    correctAns: La Magdalena
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Cuatro Reales, Rafael P\xE9rez Leon?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Parque Cruz Conde
+    - Costanillas
+    - Santa Marina
+    - "F\xE1tima"
+    correctAns: Costanillas
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Cuesta?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - La Colina
+    - Levante
+    - VistaAlegre
+    - Naranjo
+    correctAns: Naranjo
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1  Descubridor Americo Vespucio?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Sector Sur
+    - "F\xE1tima"
+    - "Ciudad Jard\xEDn"
+    - Parque Cruz Conde
+    correctAns: Sector Sur
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Damalcia?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Huerta de la Reina
+    - Sagunto
+    - San Lorenzo
+    - Levante
+    correctAns: Levante
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Decano Bartolome Vargas Escobar?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Naranjo
+    - Valdeolleros
+    - "Ciudad Jard\xEDn"
+    - Brillante
+    correctAns: Valdeolleros
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Descubridor Pedro Alvarez Cabral?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fray Albino
+    - Sector Sur
+    - Naranjo
+    - Brillante
+    correctAns: Sector Sur
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Diego de Le\xF3n?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Centro
+    - Trassierra
+    - "Tecnoc\xF3rdoba"
+    - Fuensanta-Santuario
+    correctAns: Centro
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Doctor Manuel Ruiz Maya?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Ciudad Jard\xEDn"
+    - "F\xE1tima"
+    - Huerta de la Reina
+    - Vista Alegre
+    correctAns: Vista Alegre
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Don Lope de los R\xEDos?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Valdeolleros
+    - Santa Rosa
+    - Brillante
+    - Tejares
+    correctAns: Valdeolleros
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Domingon Domingo Ba\xF1os?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Santa Marina
+    - Costanillas
+    - "F\xE1tima"
+    - "Ca\xF1ero"
+    correctAns: Costanillas
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Duartaas?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Pedro-San Francisco
+    - San Basilio
+    - Centro
+    - Catedral
+    correctAns: San Basilio
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Eduardo Barron Gonzalez?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fuensanta-Santuario
+    - Centro
+    - Brillante
+    - Santa Marina
+    correctAns: Santa Marina
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Eduardo Dato?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Ciudad Jatd\xEDn"
+    - Brillante
+    - Fuensanta-Santuario
+    - Centro
+    correctAns: Centro
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Avda. Equipo Cincuenta y Siete?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Molinos Alta
+    - Santa Marina
+    - Ribera
+    - Levante
+    correctAns: Molinos Alta
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Enrique Romero de Torres?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Catedral
+    - "Ciudad Jard\xEDn"
+    - Ribera
+    - Parque Cruz Conde
+    correctAns: Ribera
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Escritor Cristobal de Castro?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Levante
+    - "F\xE1tima"
+    - Sector Sur
+    - Cerro de la Golondrina
+    correctAns: Levante
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Escritor Gregorio Alfaro?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Valdeolleros
+    - "F\xE1tima"
+    - "Ca\xF1ero"
+    - Levante
+    correctAns: Levante
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Escritor Rafael Pav\xF3n?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Levante
+    - "Ciudad Jard\xEDn"
+    - Santacruz
+    - "Higuer\xF3n"
+    correctAns: Levante
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Eugenio D`Ors?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Rafael del Albaida
+    - San Cayetano
+    - Santa Marina
+    - Santa Rosa
+    correctAns: San Cayetano
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Funcionario L\xE1zaro Navajas?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Ca\xF1ero"
+    - Fuensanta-Santuario
+    - "Ciudad Jard\xEDn "
+    - Brillante
+    correctAns: "Ca\xF1ero"
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 la Plaza de Espa\xF1a?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Majaneque
+    - Tejares
+    - Santa Rosa
+    - "Ciudad Jard\xEDn"
+    correctAns: Tejares
+  - questionInfo: "\xBFEn qu\xE9 barrio est\xE1 Gonzalo de Berceo?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fuensanta-Santuario
+    - Santa Marina
+    - Levante
+    - Margaritas-Colonia de la Paz
+    correctAns: Margaritas-Colonia de la Paz
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 la Avda del Mediterraneo?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Catedral
+    - Centro
+    - Tejares
+    - Parque Figueroa
+    correctAns: Parque Figueroa
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Mercurio?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fidiana
+    - Sector Sur
+    - Fuensanta-Santuario
+    - Brillante
+    correctAns: Fidiana
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Minerva?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Brillante
+    - Fidiana
+    - Encinarejo
+    - Santacruz
+    correctAns: Fidiana
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Molina de Le\xF3n?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fray Albino
+    - Naranjo
+    - Costanillas
+    - Molinos Alta
+    correctAns: Naranjo
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Molina Sanchez Lagartijo?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Trassierra
+    - Puente de San Rafael
+    - Molinos Alta
+    - Costanillas
+    correctAns: Molinos Alta
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Isadora Duncam?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - No existe
+    - Arruzafilla-Las Moreras
+    - Encinarejo
+    - Paraiso Arenal
+    correctAns: Arruzafilla-Las Moreras
+  - questionInfo: "\xBFA qu\xE9 parque pertenece Parcelaci\xF3n La Matriz?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Central
+    - Consorcio
+    - No Existe
+    - El Granadal
+    correctAns: El Granadal
+  - questionInfo: "\xBFEn qu\xE9 zona est\xE1 Isla de Hierro?"
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 4f74f84c87ea74a4fb95e6c0a72673a8, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Nore\xF1a"
+    - Brillante
+    - Sector Sur
+    - La Magdalena
+    correctAns: "Nore\xF1a"
