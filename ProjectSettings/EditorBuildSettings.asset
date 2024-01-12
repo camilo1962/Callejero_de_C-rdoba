@@ -1,0 +1,311 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Preloader.unity
+    guid: 9781f26129549406ca9784a170150a70
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 63825620aa79b436f8f4b203a1572b2e
+  - enabled: 1
+    path: Assets/Scenes/GameScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Zonas.unity
+    guid: b80a63863c84749bca5e21321aa32207
+  - enabled: 1
+    path: Assets/Scenes/Zonas/1/1-1.unity
+    guid: ac36a2d9b6df948b2beb7538d5ee652a
+  - enabled: 1
+    path: Assets/Scenes/Zonas/1/1-2.unity
+    guid: 195793d6c06414bbcab8878735cdf67c
+  - enabled: 1
+    path: Assets/Scenes/Zonas/1/1-3.unity
+    guid: a2394f30468084fbda9918a1d4a5298f
+  - enabled: 1
+    path: Assets/Scenes/Zonas/1/1-4.unity
+    guid: 107df484e288c4e74a7794177cb206b3
+  - enabled: 1
+    path: Assets/Scenes/Zonas/1/1-5.unity
+    guid: ec4c303478bdd4b5dae79b55ed908257
+  - enabled: 1
+    path: Assets/Scenes/Zonas/1/1-6.unity
+    guid: 765c64f7a150a4826bf3778dce598823
+  - enabled: 1
+    path: Assets/Scenes/Zonas/1/1-7.unity
+    guid: 9ee783a24c981434bb6e7324043aea4e
+  - enabled: 1
+    path: Assets/Scenes/Zonas/1/1-8.unity
+    guid: c994444c049014b80ad0ab72eb19fab7
+  - enabled: 1
+    path: Assets/Scenes/Zonas/1/1-9.unity
+    guid: 1e05090223de740669939967ace2a56f
+  - enabled: 1
+    path: Assets/Scenes/Zonas/1/1-10.unity
+    guid: 6984d35ba88554058a256e6aeb47f84d
+  - enabled: 1
+    path: Assets/Scenes/Zonas/1/1-11.unity
+    guid: 583802e04f4fe42398800ffab280c3f6
+  - enabled: 1
+    path: Assets/Scenes/Zonas/1/1-12.unity
+    guid: f1350d802f0a342ec89c4fadeec277c5
+  - enabled: 1
+    path: Assets/Scenes/Zonas/1/1-13.unity
+    guid: 6e0f60f61f820427a9af2c8d1b8e5f2c
+  - enabled: 1
+    path: Assets/Scenes/Zonas/1/1-14.unity
+    guid: e214cee8e02824466a0761f9968ba367
+  - enabled: 1
+    path: Assets/Scenes/Zonas/1/1-15.unity
+    guid: 55f8e4beb0f864f95992ebd5a16f8272
+  - enabled: 1
+    path: Assets/Scenes/Zonas/1/1-16.unity
+    guid: be6a762f428394936a34a8ee3b5f5c9c
+  - enabled: 1
+    path: Assets/Scenes/Zonas/1/1-17.unity
+    guid: db2c82d98334b449c87a809f22bd344b
+  - enabled: 1
+    path: Assets/Scenes/Zonas/1/1-18.unity
+    guid: 29ee315725bf54531b26dce8afe3fdec
+  - enabled: 1
+    path: Assets/Scenes/Zonas/2/2-1.unity
+    guid: 6697780e5a86843a5ba6f2a5fc0f8ec8
+  - enabled: 1
+    path: Assets/Scenes/Zonas/2/2-2.unity
+    guid: 869c24232f7144597a7f21d5acf5a95b
+  - enabled: 1
+    path: Assets/Scenes/Zonas/2/2-3.unity
+    guid: af714fef8bf004335b615f874cf91524
+  - enabled: 1
+    path: Assets/Scenes/Zonas/2/2-4.unity
+    guid: 1b5cec68ff6c3481f9e427e43f96f72a
+  - enabled: 1
+    path: Assets/Scenes/Zonas/2/2-5.unity
+    guid: ab7152c7bea794e35b8bb24bee9164e2
+  - enabled: 1
+    path: Assets/Scenes/Zonas/2/2-6.unity
+    guid: a25e4f1f4b8004f7c8a0718dc98e6a0b
+  - enabled: 1
+    path: Assets/Scenes/Zonas/2/2-7.unity
+    guid: 9bceef89ad3a84e1daeac004311efb23
+  - enabled: 1
+    path: Assets/Scenes/Zonas/2/2-8.unity
+    guid: 82c895913ddad4fa686031b6bc70a9ec
+  - enabled: 1
+    path: Assets/Scenes/Zonas/2/2-9.unity
+    guid: 7854a30ee3ea642e697e2bac5e191d78
+  - enabled: 1
+    path: Assets/Scenes/Zonas/3/3-1.unity
+    guid: e34c734b1922645bfb7e152fce29df29
+  - enabled: 1
+    path: Assets/Scenes/Zonas/3/3-2.unity
+    guid: 2febb357b9044495b8d4d7f5e32f1c2e
+  - enabled: 1
+    path: Assets/Scenes/Zonas/3/3-3.unity
+    guid: c3ac9b5c1422f4ed58985427659e74a0
+  - enabled: 1
+    path: Assets/Scenes/Zonas/3/3-4.unity
+    guid: e1a990de31b444ac6abfe1ddd03b56e4
+  - enabled: 1
+    path: Assets/Scenes/Zonas/3/3-5.unity
+    guid: edcf13b8232b34232802d8016a4268ad
+  - enabled: 1
+    path: Assets/Scenes/Zonas/3/3-6.unity
+    guid: 2d5e0437b482540e58c9f1f31c8a5de3
+  - enabled: 1
+    path: Assets/Scenes/Zonas/3/3-7.unity
+    guid: 95396adb0e94d45399a0d4d4f3456684
+  - enabled: 1
+    path: Assets/Scenes/Zonas/4/4-1.unity
+    guid: 807714f29e46f403da07e15e504405d5
+  - enabled: 1
+    path: Assets/Scenes/Zonas/4/4-2.unity
+    guid: a47eadbdfa5e04ad8ae840ddaee673b6
+  - enabled: 1
+    path: Assets/Scenes/Zonas/4/4-3.unity
+    guid: ca99cef7a7a9a4f9dbdab894b12b2bf3
+  - enabled: 1
+    path: Assets/Scenes/Zonas/4/4-4.unity
+    guid: 47d8cdd550f374c7fbbdbfba8eb116a9
+  - enabled: 1
+    path: Assets/Scenes/Zonas/4/4-5.unity
+    guid: 9eff516666c4d481581c9e950204afab
+  - enabled: 1
+    path: Assets/Scenes/Zonas/5/5-1.unity
+    guid: 6bda0335ce8654627ad67f05400e6d27
+  - enabled: 1
+    path: Assets/Scenes/Zonas/5/5-2.unity
+    guid: d6a9ddcf66639423fa55f2c56ffd9f82
+  - enabled: 1
+    path: Assets/Scenes/Zonas/5/5-3.unity
+    guid: 0ebc31e18f41b4ccc86cd7c31e774e49
+  - enabled: 1
+    path: Assets/Scenes/Zonas/5/5-4.unity
+    guid: c435bd09883ed4e48af86a5ca3e71bb6
+  - enabled: 1
+    path: Assets/Scenes/Zonas/5/5-5.unity
+    guid: fb7e78673e4dc41249964b906830f662
+  - enabled: 1
+    path: Assets/Scenes/Zonas/5/5-6.unity
+    guid: 0bcd06621f8eb43419069845e323c0c0
+  - enabled: 1
+    path: Assets/Scenes/Zonas/5/5-7.unity
+    guid: 9ec8e7a6503d04ec1a7ab3a6a20b377a
+  - enabled: 1
+    path: Assets/Scenes/Zonas/6/6-1.unity
+    guid: 3ac473a5fe278489784609686b675d18
+  - enabled: 1
+    path: Assets/Scenes/Zonas/6/6-2.unity
+    guid: 7cbf19af632a7462aa667c443584e2dd
+  - enabled: 1
+    path: Assets/Scenes/Zonas/6/6-3.unity
+    guid: d003468ed9ffc4f23806cc6684320c23
+  - enabled: 1
+    path: Assets/Scenes/Zonas/6/6-4.unity
+    guid: bdb495877465d4f13ac818a0a41fe6a4
+  - enabled: 1
+    path: Assets/Scenes/Zonas/7/7-1.unity
+    guid: c75ed09baa7ee4ee9a8475c1889d8b22
+  - enabled: 1
+    path: Assets/Scenes/Zonas/7/7-2.unity
+    guid: 0c14696d215f9486fb8de9e23906b501
+  - enabled: 1
+    path: Assets/Scenes/Zonas/7/7-3.unity
+    guid: 916d5bd84455e447291a66767230e30b
+  - enabled: 1
+    path: Assets/Scenes/Zonas/7/7-4.unity
+    guid: 24007aa747d0f4b06a9910890e8e6768
+  - enabled: 1
+    path: Assets/Scenes/Zonas/7/7-5.unity
+    guid: 11ff3bec5930549d9b9d576b94a7b097
+  - enabled: 1
+    path: Assets/Scenes/Zonas/7/7-6.unity
+    guid: 0eed5231da2204ae283c45e6c0c24abe
+  - enabled: 1
+    path: Assets/Scenes/Zonas/8/8-1.unity
+    guid: 834b14836e01b4f9698d017be834a163
+  - enabled: 1
+    path: Assets/Scenes/Zonas/8/8-3.unity
+    guid: 7391d636165074750a126137f13fb043
+  - enabled: 1
+    path: Assets/Scenes/Zonas/8/8-2.unity
+    guid: 2db8672e4e2f946feb0465e9c8b42223
+  - enabled: 1
+    path: Assets/Scenes/Zonas/8/8-4.unity
+    guid: 0dbe788bb60254b358294fd4e6397973
+  - enabled: 1
+    path: Assets/Scenes/Zonas/8/8-5.unity
+    guid: e94cf2e56b1d34d4ba5d74bd8729b521
+  - enabled: 1
+    path: Assets/Scenes/Zonas/8/8-6.unity
+    guid: bf5d045fbfa7d4d4c8574f0c35433b9e
+  - enabled: 1
+    path: Assets/Scenes/Zonas/9/9-1.unity
+    guid: 43155cbcd58524d42b146ce6db15fe17
+  - enabled: 1
+    path: Assets/Scenes/Zonas/9/9-2.unity
+    guid: ec5684f320da4428ba177a6c8e6ca6a4
+  - enabled: 1
+    path: Assets/Scenes/Zonas/9/9-3.unity
+    guid: d5eb2cd5a880147f0a2a5d25e3d2b7fa
+  - enabled: 1
+    path: Assets/Scenes/Zonas/10/10-1.unity
+    guid: e24c70d4334c24def918390d4b798043
+  - enabled: 1
+    path: Assets/Scenes/Zonas/10/10-2.unity
+    guid: 6cccb1e29a0a941c19573381e85e8249
+  - enabled: 1
+    path: Assets/Scenes/Zonas/10/10-3.unity
+    guid: 198af0bbad9b747928922fec60b2d128
+  - enabled: 1
+    path: Assets/Scenes/Zonas/10/10-4.unity
+    guid: 4a0a37dd56e3c409cbd4863c75d1b632
+  - enabled: 1
+    path: Assets/Scenes/Zonas/11/11-1.unity
+    guid: aaec2e529f0bd4ff48bb0d43cefa0c54
+  - enabled: 1
+    path: Assets/Scenes/Zonas/11/11-2.unity
+    guid: 3decf1917ede74cf4af13816826e5657
+  - enabled: 1
+    path: Assets/Scenes/Zonas/11/11-3.unity
+    guid: ee9dbdc252cf04ecbab540187070bf9e
+  - enabled: 1
+    path: Assets/Scenes/Zonas/11/11-4.unity
+    guid: f3e415eb3302941bc9d3adacdafcafd8
+  - enabled: 1
+    path: Assets/Scenes/Zonas/11/11-5.unity
+    guid: 97debdcd84ff64362b6dc9865f9d8663
+  - enabled: 1
+    path: Assets/Scenes/Zonas/11/11-6.unity
+    guid: a6585abd0aba945a0925d3b4aba80a18
+  - enabled: 1
+    path: Assets/Scenes/Zonas/11/11-7.unity
+    guid: 31da7ed923081498586558cac69909f3
+  - enabled: 1
+    path: Assets/Scenes/Zonas/12/12-1.unity
+    guid: b4a8f75e1db3349e8b25d9b881677d69
+  - enabled: 1
+    path: Assets/Scenes/Zonas/12/12-2.unity
+    guid: bbfe8150f01b8413a91e1eaeca183497
+  - enabled: 1
+    path: Assets/Scenes/Zonas/12/12-3.unity
+    guid: 45b7eb7186c5641528bd3d60b2391d49
+  - enabled: 1
+    path: Assets/Scenes/Zonas/12/12-4.unity
+    guid: 4d2761b2df902427c84adb29538263d6
+  - enabled: 1
+    path: Assets/Scenes/Zonas/12/12-5.unity
+    guid: 8b3d76e10cd1a46e28442d88963dce4a
+  - enabled: 1
+    path: Assets/Scenes/Zonas/12/12-6.unity
+    guid: 6bf2b1f6e00284fb88c216c136022d4b
+  - enabled: 1
+    path: Assets/Scenes/Zonas/12/12-7.unity
+    guid: ec97bf07de41a47ec9fb8aa99ae7131d
+  - enabled: 1
+    path: Assets/Scenes/Zonas/12/12-8.unity
+    guid: aa7e7894a6e1a41909ea2aa97822bae4
+  - enabled: 1
+    path: Assets/Scenes/Zonas/12/12-9.unity
+    guid: 1e2031a8887d1446a81a85547dd12e4f
+  - enabled: 1
+    path: Assets/Scenes/Zonas/12/12-10.unity
+    guid: 8f644d5f1ed894e959040d81c7e2faea
+  - enabled: 1
+    path: Assets/Scenes/Zonas/12/12-11.unity
+    guid: 3df583d4172134a49af22e8da6f4d6bf
+  - enabled: 1
+    path: Assets/Scenes/Zonas/12/12-12.unity
+    guid: ae4de6bcfe78c47f5a57988b1e193007
+  - enabled: 1
+    path: Assets/Scenes/Zonas/12/12-13.unity
+    guid: cadf9bf79c10c44bd909467ac1c51830
+  - enabled: 1
+    path: Assets/Scenes/Zonas/12/12-14.unity
+    guid: 08e61fcae377f42e6898a8f61ab434ce
+  - enabled: 1
+    path: Assets/Scenes/Zonas/12/12-15.unity
+    guid: 4e90551362e8e4f7689b1d22e79b0906
+  - enabled: 1
+    path: Assets/Scenes/Zonas/12/12-16.unity
+    guid: c017f83e769d3434c94721e392968945
+  - enabled: 1
+    path: Assets/Scenes/Zonas/12/12-17.unity
+    guid: 037c553250b9145e582d5f94f2c6037c
+  - enabled: 1
+    path: Assets/Scenes/Zonas/12/12-18.unity
+    guid: de8f99042c52c4acab187ae7a0aca7f3
+  - enabled: 1
+    path: Assets/Scenes/Zonas/12/12-19.unity
+    guid: aa703e3cc3dc64364a380dfa8e3b5d11
+  - enabled: 1
+    path: Assets/Scenes/Zonas/12/12-20.unity
+    guid: 8fc3ae1db1985445785de56bf4134e15
+  - enabled: 1
+    path: Assets/Scenes/Zonas/12/12-21.unity
+    guid: 70feb476a157c4af49b513589a56f36a
+  m_configObjects: {}
